@@ -1,0 +1,19 @@
+{
+  "video_id": "j2iogGGt23Q",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(4/13/26, 월) 트럼프, 호르무즈 해협 전면 봉쇄 실시 (한국 오후 11시) | 미국-이란 주말 평화 협상 결렬 | 미국주식, 비트코인 방송",
+  "published_at": "2026-04-13T22:26:08Z",
+  "video_url": "https://www.youtube.com/watch?v=j2iogGGt23Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/j2iogGGt23Q/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-15T13:40:45.832410Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
