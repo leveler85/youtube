@@ -79,11 +79,6 @@ body {
 }
 .wrap { max-width: var(--max-width); margin: 0 auto; }
 
-@media (min-width: 960px) {
-  .shell { padding-left: calc(var(--rail-width) + 48px + 32px); padding-right: 32px; }
-  .wrap { margin: 0; }
-}
-
 .rail { display: none; }
 @media (min-width: 960px) {
   .rail {
