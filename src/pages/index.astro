@@ -14,7 +14,6 @@ allBriefings.sort(
     b.data.published_at.getTime() - a.data.published_at.getTime(),
 );
 
-// Group briefings by date (KST)
 function toKstDateStr(date: Date): string {
   const kstMs = date.getTime() + 9 * 60 * 60 * 1000;
   const k = new Date(kstMs);
@@ -92,6 +91,13 @@ const issueDate = formatKstDot(newestDate);
       <main id="main"><EmptyState /></main>
     ) : (
       <>
+        <div class="intro" data-intro>
+          <p>
+            <b>7개 경제·시사 유튜브 + 네이버 블로그</b>를 매일 아침 AI가 자동 요약합니다.
+          </p>
+          <button type="button" aria-label="소개 닫기" data-dismiss-intro>×</button>
+        </div>
+
         <ChannelFilter channels={channelOrder} zeroCountSlugs={zeroCountSlugs} />
 
         <main id="main">
@@ -117,10 +123,6 @@ const issueDate = formatKstDot(newestDate);
             <span class="page-info" data-page-info></span>
             <button type="button" data-next>다음 →</button>
           </nav>
-
-          <div class="feed-end">
-            <a href="archive/">아카이브 보기 →</a>
-          </div>
         </main>
       </>
     )
@@ -159,23 +161,19 @@ const issueDate = formatKstDot(newestDate);
       const end = start + ITEMS_PER_PAGE;
       const visibleSet = new Set(filteredCards.slice(start, end));
 
-      // Hide/show cards
       allCards.forEach((c) => { c.style.display = "none"; });
       visibleSet.forEach((c) => { c.style.display = ""; });
 
-      // Hide/show date groups based on visible cards
       allGroups.forEach((g) => {
         const groupCards = Array.from(g.querySelectorAll<HTMLElement>("article.briefing"));
         const hasVisible = groupCards.some((c) => visibleSet.has(c));
         g.style.display = hasVisible ? "" : "none";
       });
 
-      // Update pagination
       if (prevBtn) prevBtn.disabled = currentPage <= 1;
       if (nextBtn) nextBtn.disabled = currentPage >= tp;
       if (pageInfo) pageInfo.textContent = `${currentPage} / ${tp}`;
 
-      // Update ribbon
       if (ribbon) {
         ribbon.textContent = activeChannel === "all"
           ? `총 ${filteredCards.length}건의 브리핑`
@@ -188,7 +186,6 @@ const issueDate = formatKstDot(newestDate);
     prevBtn?.addEventListener("click", () => { currentPage--; render(); });
     nextBtn?.addEventListener("click", () => { currentPage++; render(); });
 
-    // Channel filter
     const params = new URLSearchParams(window.location.search);
     activeChannel = params.get("channel") || "all";
 
@@ -215,7 +212,6 @@ const issueDate = formatKstDot(newestDate);
       });
     });
 
-    // Expand/collapse cards
     document.querySelectorAll<HTMLButtonElement>("[data-expand-button]").forEach((btn) => {
       btn.addEventListener("click", () => {
         const article = btn.closest<HTMLElement>("article.briefing");
@@ -227,22 +223,12 @@ const issueDate = formatKstDot(newestDate);
       });
     });
 
-    // Dismiss intro
     const intro = document.querySelector<HTMLElement>("[data-intro]");
     if (intro && localStorage.getItem("yb-intro-dismissed") === "true") intro.remove();
     document.querySelector<HTMLButtonElement>("[data-dismiss-intro]")?.addEventListener("click", () => {
       intro?.remove();
       localStorage.setItem("yb-intro-dismissed", "true");
     });
-
-    // Deep-link expand
-    if (window.location.hash.startsWith("#v-")) {
-      const target = document.querySelector<HTMLElement>(window.location.hash);
-      if (target) {
-        target.querySelector<HTMLButtonElement>("[data-expand-button]")?.click();
-        target.scrollIntoView({ behavior: "smooth", block: "start" });
-      }
-    }
 
     render();
   })();
