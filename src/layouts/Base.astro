@@ -1,23 +1,4 @@
 ---
-/**
- * Base layout — shared shell for `/` and `/archive`.
- *
- * Provides:
- *   - HTML head with meta + Paperlogy preload
- *   - Skip link + semantic landmarks
- *   - Left-column issue rail (desktop ≥960px)
- *   - Masthead with brand + tabs
- *   - Footer with cadence signal
- *
- * Slots:
- *   - default: the main feed/archive content
- *
- * Props:
- *   - title: <title> element content
- *   - activeTab: "recent" | "archive" — controls aria-current on tabs
- *   - issueWeek: the ISO week number for the rail (e.g. "W15")
- *   - issueDate: the ISO date for the rail (e.g. "2026.04.10")
- */
 import "../styles/global.css";
 
 interface Props {
@@ -29,18 +10,15 @@ interface Props {
 
 const { title, activeTab, issueWeek, issueDate } = Astro.props;
 
-// Compute WEEKDAY in Korean from issueDate string (YYYY.MM.DD)
 function weekdayKor(dateStr: string): string {
   const [y, m, d] = dateStr.split(".").map(Number);
   if (!y || !m || !d) return "";
   const date = new Date(Date.UTC(y, m - 1, d));
-  // Map JS getUTCDay (Sun=0) to Korean short
   const korDays = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
   return korDays[date.getUTCDay()] ?? "";
 }
 
 const weekday = weekdayKor(issueDate);
-const volNumber = "VOL·" + issueWeek.replace("W", "");
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
@@ -49,7 +27,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="description" content="한국 경제·시사 유튜브 5개 채널과 메르(블로그)를 주 3회 심층 요약" />
+    <meta name="description" content="한국 경제·시사 유튜브 7개 채널과 블로그를 매일 아침 AI 심층 요약" />
     <title>{title}</title>
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <link
@@ -66,51 +44,59 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       type="font/woff2"
       crossorigin="anonymous"
     />
+    <script is:inline>
+      (function() {
+        var t = localStorage.getItem('yb-theme');
+        if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      })();
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">본문으로 건너뛰기</a>
 
     <div class="shell">
-      <aside class="rail" aria-hidden="true">
-        <span class="issue">{issueWeek}</span>
-        <span>{weekday}</span>
-        <span>{issueDate.replace(/^\d{4}\./, "")}</span>
-        <span class="vol">{volNumber}</span>
-      </aside>
-
       <div class="wrap">
         <header class="masthead">
           <div class="brand">
             <a href={`${base}/`}>
               <div class="mark">YOUTUBE BRIEFING</div>
-              <div class="issue-line">{issueWeek} · {weekday} · {issueDate}</div>
+              <div class="issue-line">{issueDate} · {weekday}</div>
             </a>
           </div>
-          <nav class="tabs" aria-label="주 메뉴">
-            <a href={`${base}/`} aria-current={activeTab === "recent" ? "page" : undefined}>최근</a>
-            <a href={`${base}/archive`} aria-current={activeTab === "archive" ? "page" : undefined}>아카이브</a>
-          </nav>
+          <div class="masthead-right">
+            <button type="button" class="theme-toggle" aria-label="다크모드 전환" data-theme-toggle>
+              <span class="theme-icon-light">☀️</span>
+              <span class="theme-icon-dark">🌙</span>
+            </button>
+            <nav class="tabs" aria-label="주 메뉴">
+              <a href={`${base}/`} aria-current={activeTab === "recent" ? "page" : undefined}>최근</a>
+              <a href={`${base}/archive`} aria-current={activeTab === "archive" ? "page" : undefined}>아카이브</a>
+            </nav>
+          </div>
         </header>
 
         <slot />
-
-        <footer class="site-footer">
-          <div class="footer-row">
-            <span>다음 업데이트 · 매일 08:00 KST</span>
-            <span>YOUTUBE BRIEFING · {volNumber} · 2026</span>
-          </div>
-          <div class="footer-row footer-credit">
-            <span>BUILT BY KIPEUM LEE · CLAUDE CODE + CODEX</span>
-            <a
-              href="https://github.com/kipeum86/youtube-briefing"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="View source on GitHub">
-              GITHUB ↗
-            </a>
-          </div>
-        </footer>
       </div>
     </div>
+
+    <script is:inline>
+      (function() {
+        var btn = document.querySelector('[data-theme-toggle]');
+        if (!btn) return;
+        btn.addEventListener('click', function() {
+          var html = document.documentElement;
+          var isDark = html.getAttribute('data-theme') === 'dark';
+          if (isDark) {
+            html.removeAttribute('data-theme');
+            localStorage.setItem('yb-theme', 'light');
+          } else {
+            html.setAttribute('data-theme', 'dark');
+            localStorage.setItem('yb-theme', 'dark');
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
