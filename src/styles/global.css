@@ -1,5 +1,5 @@
 /**
- * Global styles — Card-based news app redesign
+ * Global styles �� Card-based news app redesign
  */
 
 @font-face {
@@ -220,9 +220,9 @@ article[data-channel="mernote"] .meta .source-badge {
 }
 .briefing .actions button:hover,
 .briefing .actions a:hover { background: var(--accent-light); }
-.briefing .actions button::before { content: "▾ "; font-size: 11px; }
-.briefing .actions button[aria-expanded="true"]::before { content: "▴ "; }
-.briefing .actions a::before { content: "↗ "; font-size: 12px; }
+.briefing .actions button::before { content: "�� "; font-size: 11px; }
+.briefing .actions button[aria-expanded="true"]::before { content: "�� "; }
+.briefing .actions a::before { content: "�� "; font-size: 12px; }
 
 .briefing .full-summary {
   display: none; margin-top: 16px;
@@ -295,4 +295,49 @@ article[data-channel="mernote"] .meta .source-badge {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+
+/* ----- Date group headers ----- */
+.date-group { margin-bottom: 8px; }
+
+.date-header {
+  display: flex; align-items: center; gap: 10px;
+  padding: 16px 4px 8px; font-size: 14px; font-weight: 900;
+  color: var(--ink); border: none; margin-bottom: 4px;
+  position: sticky; top: 52px; z-index: 40;
+  background: var(--bg);
+}
+
+.date-header .date-label { color: var(--accent); letter-spacing: 0.5px; }
+.date-header .date-weekday { color: var(--ink-soft); font-weight: 500; }
+.date-header .date-count {
+  color: var(--meta); font-size: 12px; font-weight: 500;
+  margin-left: auto;
+}
+
+/* ----- Pagination ----- */
+.pagination {
+  display: flex; align-items: center; justify-content: center;
+  gap: 16px; margin: 32px 0 16px; padding: 16px;
+  background: var(--card-bg); border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
+.pagination button {
+  background: var(--accent); color: #fff;
+  border: none; padding: 10px 20px;
+  border-radius: 20px; font-family: inherit;
+  font-weight: 900; font-size: 13px;
+  cursor: pointer; transition: opacity 150ms;
+}
+
+.pagination button:disabled {
+  opacity: 0.3; cursor: not-allowed;
+}
+
+.pagination button:not(:disabled):hover { opacity: 0.85; }
+
+.pagination .page-info {
+  font-size: 14px; font-weight: 900;
+  color: var(--ink-soft); min-width: 60px; text-align: center;
 }
