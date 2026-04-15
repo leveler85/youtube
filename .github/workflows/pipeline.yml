@@ -33,7 +33,7 @@ name: pipeline
 on:
   schedule:
     # 21:00 UTC Sun/Tue/Thu = 06:00 KST Mon/Wed/Fri
-    - cron: "0 23 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
