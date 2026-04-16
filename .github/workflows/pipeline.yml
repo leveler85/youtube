@@ -184,6 +184,7 @@ jobs:
           Modified: ${{ steps.changes.outputs.mod_count }}
 
           Auto-committed by youtube-briefing pipeline workflow."
+          git pull --rebase origin main
           git push origin main
 
       - name: Trigger Pages deploy
