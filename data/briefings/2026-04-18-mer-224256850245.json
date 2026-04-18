@@ -1,0 +1,19 @@
+{
+  "video_id": "224256850245",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "호르무즈해협 청기백기 게임중...현재 청기 올려",
+  "published_at": "2026-04-18T07:35:11Z",
+  "video_url": "https://blog.naver.com/ranto28/224256850245",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MThfMTI5/MDAxNzc2NDk2NDM5OTE1.Sp71GgoA2uhdIqUcp6sJ97MGFWoD2PY3SqVIGa4XSyYg.wy98o_ac0td0NBuPTOkNyLbORCn8fo6bguTmmFbmqTYg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**호르무즈해협 봉쇄 완화 신호**\n\n호르무즈 해협은 최근까지 이란의 봉쇄 위협으로 긴장이 고조되었으나, 현재는 봉쇄 완화 및 재개방 조짐을 보이고 있다. 이는 해협에 갇혀있던 선박들의 움직임과 더불어, 도널드 트럼프 미국 대통령의 긍정적인 언급을 통해 확인된다. 트럼프 대통령의 발언은 이란과의 상황이 협상을 통해 진전되고 있음을 시사하며, 그의 외교적 관심이 이제 미중 정상회담으로 전환되고 있음을 나타낸다.\n\n인도 선적의 컨테이너선 BHAGYA LAXMI호는 호르무즈 해협 입구에서 여러 차례 유턴 끝에 11노트의 빠른 속도로 해협을 빠져나가고 있다. 해협 내에 갇혔던 약 2천여 척의 선박 중 5~6척이 움직이기 시작했으며, 드물지만 쿠웨이트의 벌크선 MOSHTARAKA 4를 비롯한 이란 및 이라크 선박 일부도 해협 안으로 진입 중이다. 도널드 트럼프 미국 대통령은 한국 시간으로 오늘 12시경 에어포스원 기내 기자회견에서 \"봉쇄가 유지되면 불행하게도 우리는 다시 폭탄을 투하해야 한다\"고 경고하면서도, \"20분 전 꽤 좋은 소식이 있었다. 중동에서 이란 상황이 잘 진행되고 있는 것처럼 보인다\"고 언급했다. 또한 시진핑 주석이 \"호르무즈 해협이 개방됐거나 빠르게 개방되고 있는 것을 매우 기쁘게 생각한다\"는 발언을 인용하며, 중국과의 회담이 특별하고 잠재적으로 역사적 회담이 될 것이라고 덧붙였다.\n\n이러한 해협 개방 움직임은 미국과 이란 간의 협상이 막후에서 활발히 진행되고 있음을 강력히 시사한다. 호르무즈 해협의 안정화가 유지된다면, 미국은 중동의 긴장에서 벗어나 미중 무역 갈등 해결과 같은 주요 외교 의제에 집중할 수 있는 발판을 마련할 수 있을 것이다. 다음 관전 포인트는 이란과의 협상 결과와 미중 정상회담의 구체적인 진전 여부가 될 것으로 보인다.",
+  "failure_reason": null,
+  "generated_at": "2026-04-18T09:03:33.271369Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

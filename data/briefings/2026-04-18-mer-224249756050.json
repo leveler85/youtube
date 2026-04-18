@@ -1,0 +1,19 @@
+{
+  "video_id": "224249756050",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "인간세포로 만든 바이오 로봇 근황 (feat 앤스로봇)",
+  "published_at": "2026-04-17T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224249756050",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MDVfMjI0/MDAxNzc1MzgwMTQxMDM1.uci6sY3TclVe3DcX1EO2vJPpBAivhTpHVCAPSNIzCekg.Tz8BykWPtIN151STPCpVGhCLmX7olexaD34gyxGM9c4g.PNG/Gemini_Generated_Image_yfd3dyyfd3dyyfd3.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**인간세포 바이오로봇 개발과 기대 및 한계**\n\n미국 터프츠대와 하버드대 공동 연구팀은 인간 세포로 만든 바이오 로봇, 앤스로봇을 개발했다. 이 로봇은 인체 친화적으로 손상된 신경세포를 치료하며, 면역 반응 없이 자연 분해되어 기존 치료법의 한계를 극복할 잠재력을 가진다. 이러한 첨단 기술은 미래 의학의 중요한 축이 될 것으로 기대되지만, 상용화에는 시간이 걸릴 것이며 현재는 규칙적인 운동이 더 현실적인 건강 관리 방안으로 제시된다.\n\n생물학계 실험 모델인 아프리카 발톱 개구리(제노푸스) 배아줄기세포로 개발된 '제노봇'은 노른자 영양분으로 10일간 움직이며 자체 복제 능력을 보였다. 이러한 연구를 토대로 미국 터프츠대와 하버드대 공동 연구팀은 미국 국방부 산하 DARPA의 지원을 받아 인간 세포로 '앤스로봇'을 만들었다. 앤스로봇은 사람 머리카락 굵기로 인간 섬모를 이용해 7일간 활동 후 자연 분해되며, 손상된 신경세포 재생 신호를 활성화하는 능력이 확인되었다. 이 바이오 로봇은 AI와 암세포 감지 바이오센서를 결합하여 암세포에 약물을 직접 전달, 기존 항암치료의 부작용을 획기적으로 줄일 잠재력이 있다. 당초 빛이나 자기장으로 동작했으나 최근 혈액 속 포도당을 연료로 쓰는 메커니즘이 개발됐다. 한편, 50대 기준 하루 30분, 주 3회 가벼운 워킹을 3주간 지속하면 혈관 탄력이 15% 개선되는 등 생활 습관의 중요성도 강조된다.\n\n앤스로봇의 등장은 인체 친화적이고 정밀한 표적 치료를 가능케 하며 미래 의학에 중요한 전환점을 제시한다. 이 기술은 혁신적이지만, DARPA의 지원에도 상용화까지 최소 3년 이상이 소요될 전망이다. 따라서 바이오로봇 기술을 기다리기보다 규칙적인 운동을 통한 혈관 건강 유지 및 질병 예방이 현 시점에서 가장 현실적이고 효과적인 대비책이다.",
+  "failure_reason": null,
+  "generated_at": "2026-04-18T09:04:50.248746Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
