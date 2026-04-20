@@ -1,0 +1,19 @@
+{
+  "video_id": "UbdcxiTh88Y",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "4/20 (월) 현대차 로봇의 '뇌'가 구글로 바뀌면 벌어지는 일 (김덕진 겸임교수 / 서울시립대학교)",
+  "published_at": "2026-04-20T08:16:48Z",
+  "video_url": "https://www.youtube.com/watch?v=UbdcxiTh88Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/UbdcxiTh88Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-20T10:02:33.400693Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
