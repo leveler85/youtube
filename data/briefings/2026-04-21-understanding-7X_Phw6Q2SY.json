@@ -1,0 +1,19 @@
+{
+  "video_id": "7X_Phw6Q2SY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 4/21 (화) 미국-이란 2차 협상, 종전인가 전면전인가? (서강대 유로메나 연구소 박현도 교수, 성일광 교수)",
+  "published_at": "2026-04-21T08:55:27Z",
+  "video_url": "https://www.youtube.com/watch?v=7X_Phw6Q2SY",
+  "thumbnail_url": "https://i.ytimg.com/vi/7X_Phw6Q2SY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-21T09:45:27.351189Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
