@@ -1,0 +1,19 @@
+{
+  "video_id": "zztQFbaSwdM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 호르무즈 해협 봉쇄중, 유가 100 달러 돌파 | 실적발표: 인텔 | 테슬라 자본지출 증가 전망 | 미국주식, 비트코인 방송",
+  "published_at": "2026-04-23T07:10:18Z",
+  "video_url": "https://www.youtube.com/watch?v=zztQFbaSwdM",
+  "thumbnail_url": "https://i.ytimg.com/vi/zztQFbaSwdM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-23T09:54:22.399600Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

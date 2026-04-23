@@ -1,0 +1,19 @@
+{
+  "video_id": "XD7kFsg_4YE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "4/23 (목) 실거주 없으면 세금 무겁게 장특공제 정치권 최대쟁점 (백종훈 기자/ 언더스탠딩 )",
+  "published_at": "2026-04-23T06:57:52Z",
+  "video_url": "https://www.youtube.com/watch?v=XD7kFsg_4YE",
+  "thumbnail_url": "https://i.ytimg.com/vi/XD7kFsg_4YE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-23T09:51:03.577962Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
