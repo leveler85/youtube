@@ -1,0 +1,19 @@
+{
+  "video_id": "224264500902",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "2배, 3배짜리 상품이 어떻게 가능할까?",
+  "published_at": "2026-04-25T00:01:40Z",
+  "video_url": "https://blog.naver.com/ranto28/224264500902",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MjVfMTc5/MDAxNzc3MDc1MTg4ODM4.Ns3uh798Vr3og6CdnnaOSfIT5Jk9_HNevgX4y-1HJrgg.WVys_TVx3ciT1L2hXev7HfMkShWYYxtPahEXVD_roKwg.PNG/Gemini_Generated_Image_jv6cj5jv6cj5jv6c.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**레버리지 상품의 숨겨진 비용**\n\n2배, 3배와 같은 고배율 레버리지 상품은 복잡한 구조로 인해 연간 10% 내외의 높은 기본 비용이 발생하며, 이는 투자 원금을 지속적으로 잠식한다. 이러한 상품은 지수 변동에 따라 수익률이 배수만큼 증가하지만, 동시에 막대한 수수료 비용이 고정적으로 부과되므로 장기 투자에는 부적합하다. 결과적으로 레버리지 상품은 신중한 분석 없이 접근할 경우, 수익 실현은커녕 원금 손실 위험을 안게 된다.\n\n3배 레버리지 상품의 기본 비용은 `[SOFR + 30~40bp] X 2.1~2.4(스와프 포지션 210~240%) + 90~100bp(운용수수료 등)`라는 공식으로 설명된다. 여기서 SOFR(Secured Overnight Financing Rate)은 미국 달러화의 초단기 담보 이자율로, 뉴욕 연방준비은행에서 관리하며 2026년 4월 23일 기준 3.65%를 기록했다. 운용사는 투자금의 2배에 해당하는 레버리지를 위해 SOFR에 30~40bp를 더한 금리로, 실제로는 손실 완충(버퍼)을 위해 2.1배에서 2.4배까지 자금을 차입한다. 이 차입 비용은 SOFR 금리와 차입 배율을 곱하여 약 8.295%에서 9.72%에 달한다. 여기에 운용수수료 90~100bp가 추가되면, 투자자는 연간 최소 9.195%에서 최대 10.72%에 이르는 고정 비용을 부담하게 된다.\n\n이처럼 높은 기본 비용 구조는 레버리지 상품을 '도박장 주인'에게 이익이 돌아가는 형태로 만든다. 따라서 이러한 상품은 시장의 급격한 상승을 예측하고 짧은 기간 내에 신속하게 매매하는 '선수'들의 영역으로 간주해야 한다. 일반 투자자가 고배율 레버리지를 장기간 보유할 경우, 고정 비용으로 인해 원금이 잠식될 뿐 아니라 큰 하락장에서 치명적인 손실을 입을 수 있어 극도의 주의가 요구된다.",
+  "failure_reason": null,
+  "generated_at": "2026-04-25T09:07:19.300707Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
