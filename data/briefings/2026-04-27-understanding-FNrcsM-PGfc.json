@@ -1,0 +1,19 @@
+{
+  "video_id": "FNrcsM-PGfc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 4/27(월)  후지산 200배 규모, 바다 밑 거대 화산이 끓고있다 (김기범 교수 / 부산대 지질환경학과)",
+  "published_at": "2026-04-27T06:22:21Z",
+  "video_url": "https://www.youtube.com/watch?v=FNrcsM-PGfc",
+  "thumbnail_url": "https://i.ytimg.com/vi/FNrcsM-PGfc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-27T10:22:05.474912Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
