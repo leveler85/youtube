@@ -1,0 +1,19 @@
+{
+  "video_id": "eCKSOdJ3nI4",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 브렌트유 다시 $110 돌파 | 트럼프·찰스 영국 국왕 회담 | 실적발표: 블룸에너지, 엔페이스, 시게이트 | 미국주식, 비트코인 방송",
+  "published_at": "2026-04-28T04:50:46Z",
+  "video_url": "https://www.youtube.com/watch?v=eCKSOdJ3nI4",
+  "thumbnail_url": "https://i.ytimg.com/vi/eCKSOdJ3nI4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-28T10:22:43.250650Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "DOEQFhDNZds",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 4/28(화) 닛산 사겠다던 혼다는, 왜 위기에 빠졌나? (김상훈 기자 / 언더스탠딩)",
+  "published_at": "2026-04-28T08:24:02Z",
+  "video_url": "https://www.youtube.com/watch?v=DOEQFhDNZds",
+  "thumbnail_url": "https://i.ytimg.com/vi/DOEQFhDNZds/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-28T10:20:46.984395Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
