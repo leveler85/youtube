@@ -1,0 +1,19 @@
+{
+  "video_id": "6zJQdkfqRVk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 4/29(수) 삼성·하이닉스, 지금 좋아할 때 아닙니다 (이주완 / 인더스트리 애널리스트)",
+  "published_at": "2026-04-29T08:16:41Z",
+  "video_url": "https://www.youtube.com/watch?v=6zJQdkfqRVk",
+  "thumbnail_url": "https://i.ytimg.com/vi/6zJQdkfqRVk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-29T10:10:26.447623Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
