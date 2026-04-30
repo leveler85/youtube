@@ -1,0 +1,19 @@
+{
+  "video_id": "gHlNFGIq0js",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 4/30(목) 이란 전쟁 때문에 AI 데이터센터 거품 터지나 (김열매 / 애널리스트)",
+  "published_at": "2026-04-30T09:08:29Z",
+  "video_url": "https://www.youtube.com/watch?v=gHlNFGIq0js",
+  "thumbnail_url": "https://i.ytimg.com/vi/gHlNFGIq0js/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-04-30T10:11:00.225224Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
