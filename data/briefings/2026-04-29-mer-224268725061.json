@@ -1,0 +1,19 @@
+{
+  "video_id": "224268725061",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "UAE가 OPEC 탈퇴를 선언한 배경과 앞으로 여파는?",
+  "published_at": "2026-04-28T22:20:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224268725061",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MjlfMjE1/MDAxNzc3NDEwNDc3MDUy.nLvDtE3GqhtUy9NmAIl-DitIzQne849rR0QSEPs8RV0g.AyuW9SHio8IGl3cv8AauAVcCg_kbp3AvlDkftHXw_9wg.JPEG/qj4vnqb8.JPG?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**UAE OPEC 탈퇴: 미중동 역학 재편**\n\nUAE의 OPEC 탈퇴 선언은 사우디와의 경제적 경쟁 심화와 미국과의 전략적 협상이라는 복합적 배경을 가진다. UAE는 자국의 원유 생산능력 확대를 통해 시장 점유율을 높이려 하지만, OPEC+의 감산 정책이 이에 방해되었다. 미국은 중동 내 사우디의 영향력을 견제하고 유가 안정을 꾀하며, UAE에 안보 및 기술 협력을 제공하는 '빅딜'을 통해 탈퇴를 유도한 것으로 분석된다. 이는 중동 에너지 지정학 및 글로벌 유가 시장의 재편을 예고하는 중요한 사건이다.\n\nOPEC은 2014년 중국 경기 둔화와 미국 셰일오일 확대로 유가가 배럴당 90달러에서 77달러로 급락하자, 감산 합의에 실패하며 25달러까지 폭락했다. 당시 사우디는 배럴당 10달러의 낮은 생산비용을 바탕으로 버텼으나, 러시아(40달러) 등 다른 산유국들은 고난을 겪었다. 2016년 사우디와 러시아의 협상으로 OPEC 회원국 120만 배럴, 러시아 30만 배럴 등 총 175만 배럴 규모의 'OPEC+' 감산 합의가 도출되며 유가는 회복됐다. 현재 UAE는 2027년까지 원유 생산능력을 일 500만 배럴로 확대하고자 1,500억 달러를 투자 중이며, OPEC+ 감산 정책이 이에 방해된다. 사우디는 지역본부 프로그램(RHQ)을 통해 2026년까지 700개 이상 글로벌 기업을 두바이에서 리야드로 이전시키려 하고, 리야드 에어를 통해 에미레이트 항공의 중동 허브 지위를 위협하는 등 UAE와 직접 경쟁하고 있다. 또한 UAE는 이란 공격 시 OPEC+의 안보 공조 미흡에 불만을 표했으며, 미국은 F-35 성능개량 및 미사일 방어체계 제공을 약속했다. 2026년 1월, UAE는 미국 내 대규모 투자를 약속하고 AI 인프라와 HBM4 우선 공급을 받는 등 미국과의 경제·안보 연대를 강화하는 모습이다.\n\nUAE의 OPEC 탈퇴는 중동 내 사우디의 영향력을 약화하고, 러시아와 중국에 대한 미국의 견제 전략의 일환으로 해석된다. 당장 산유량 증산이 나타나지 않더라도, UAE가 시장에 물량을 쏟아낼 수 있다는 기대 심리를 조성해 국제 유가 안정화에 기여할 가능성이 있다. 이는 향후 중동 에너지 시장의 경쟁 심화와 주요 산유국 간 역학 관계 재편을 가속화할 변곡점이 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-01T09:54:01.634629Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

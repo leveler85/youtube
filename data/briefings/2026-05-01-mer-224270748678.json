@@ -1,0 +1,19 @@
+{
+  "video_id": "224270748678",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "S&P 500보다 수익률이 높은 미장 투자법은?",
+  "published_at": "2026-04-30T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224270748678",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MzBfMjQw/MDAxNzc3NTQxNjE2OTc1.2fIVbKvHMk_9TDEPbObVr3uZ2b-hwaXpEoFNfDrNdMUg.gany1k4M23EyuG5ROahQI0RRfBy3_t0_m9WawyLgaeMg.JPEG/58avyoct.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**S&P 500 초과 수익률 전략**\n\n미국 국회의원들의 주식 거래 내역을 바탕으로 구성된 두 개의 ETF, NANC와 GOP가 2023년 2월 출시되었으며, 이들의 성과가 S&P 500 대비 주목할 만하다. 특히 최근 1년간 공화당 의원들의 투자 내역을 추종하는 GOP ETF는 S&P 500을 크게 웃도는 수익률을 기록했다. 또한, 글로벌 시가총액 상위 10개 미국 기업에 매년 투자하는 방식 역시 장기적으로 S&P 500 대비 높은 수익률을 보였다. 결론적으로, 미국 집권당 국회의원들의 주식 투자 전략이 S&P 500을 능가하는 가장 좋은 성과를 낼 수 있음을 시사한다.\n\n민주당 의원들의 공개된 주식 거래를 바탕으로 구성된 NANC ETF는 엔비디아(10.3%), 알파벳(6.2%), 마이크로소프트(5.9%), 아마존(4.9%), 애플(4.2%) 순으로 기술주 비중이 높게 나타났다. 반면 공화당 의원들의 거래를 추종하는 GOP ETF는 Comfort Systems USA(8.3%), 인텔(4.7%), JP모건(4.4%), 엔비디아(3.3%), 아리스타 네트웍스(3.3%) 등으로 포트폴리오를 구성했는데, 특히 Comfort Systems USA(FIX)는 건물 냉난방 및 공조 전문회사로 데이터센터 수혜주에 속한다. 두 ETF 모두 국회의원 본인뿐 아니라 가족의 매수 주식까지 반영하며, 45일간의 공시 시차를 두고 포트폴리오를 구성한다.\n수익률을 보면, 2026년 1월부터 4월까지 NANC는 -7.5%의 마이너스 수익률을 기록하며 S&P 500(4.7%)에 크게 못 미쳤으나, GOP는 14.2%로 S&P 500을 크게 앞섰다. 직전 1년(2025년 4월~2026년 4월) 기준으로도 S&P 500이 30.6% 상승한 반면, NANC는 17.5%에 그쳤고, GOP는 40.0%의 높은 수익률을 달성했다.\n글로벌 시가총액 상위 기업 순위에도 변화가 있었다. 2025년 초 애플, 마이크로소프트, 엔비디아, 아마존, 구글 순이었던 Top 5는 2026년 4월 엔비디아, 구글, 애플, 마이크로소프트, 아마존 순으로 재편되며 엔비디아가 선두로 올라섰다. 비미국 기업으로는 사우디 아람코가 6위에서 8위로 하락한 반면, 대만 TSMC는 9위에서 6위로 상승했다. 브로드컴이 새로 Top 10에 진입했다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-01T09:53:33.685024Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
