@@ -1,0 +1,19 @@
+{
+  "video_id": "224272150655",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "주사 1방으로 특정암의 67%가 사라지는 꿈의 항암제(feat CAR-T)",
+  "published_at": "2026-05-02T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224272150655",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MDJfNDcg/MDAxNzc3NjY5MzY3OTY1.PZXt-Zj_HDvl9fVHiJHuMSwiuBvSzMCjnO6fhmVkXeAg.zA-gMAsJgmDXYcNb1yA7Kes48GBr6O4u_c0xTFX8bNQg.JPEG/oabtoo9m.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**CAR-T 항암제: 희망과 시장의 현실**\n\n4세대 항암제인 CAR-T(키메라 항원 수용체 T세포) 치료제가 난치성 혈액암인 미만성 거대 B세포 림프종(DLBCL)에 획기적인 효과를 보이며 도입되고 있다. 이 치료는 환자 면역 T세포를 유전자 변형하여 암세포를 직접 공격, 기존 치료가 어렵던 환자들에게 새로운 희망을 제시한다. 그러나 높은 비용과 제한적인 적용 대상, 복잡한 제조 과정으로 CAR-T 치료제의 시장 확대에는 상당한 도전 과제가 존재한다.\n\nCAR-T 치료제는 단 한 번의 주사로 DLBCL 환자의 67%에게서 암세포가 사라지는 완전관해 효과를 보인다. 한국 식약처는 최근 한국 제약사의 CAR-T 치료제에 품목허가를 내줬으며, 기존 노바티스 킴리아는 1회 투여비용이 3억 6천만 원이다. 건보 적용 시 환자 부담은 600만 원이나, 건보 재정에 1인당 3억 5천만 원 이상이 소요된다. 국내 DLBCL 환자 약 3천 명 중 1, 2차 치료에 실패한 200명 내외의 3차 치료 대상 환자만이 CAR-T를 고려할 수 있다. 킴리아는 해외 제조로 4~6주의 대기 시간과 부작용 관리 어려움이 있어 실제 투약 인원은 잠재 대상의 절반인 약 100명 수준이다.\n\nCAR-T 치료제는 탁월한 효과에도 불구하고, 3차 치료에 국한된 보험 적용과 제한된 환자군으로 인해 시장 규모는 연간 최대 700억 원 수준에 머물 것으로 예상된다. 시장 확장을 위해서는 2차 치료 확대, 다른 혈액암 적응증 확장, 해외 진출 등이 필요하다. 그러나 이는 막대한 건보 재정 부담, 환자 고액 부담, 임상 재진행, 치열한 글로벌 경쟁 등 복합적인 난관에 직면해, 신약 개발 성공이 곧 경제적 성공을 의미하지 않는다는 과제를 던진다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-03T09:27:32.593241Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
