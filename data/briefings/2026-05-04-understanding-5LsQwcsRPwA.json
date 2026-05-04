@@ -1,0 +1,19 @@
+{
+  "video_id": "5LsQwcsRPwA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/4(월) 미국 국적 딴 '중국 바이오'의 습격 (어예진 소장 / 해담경제연구소)",
+  "published_at": "2026-05-04T09:04:33Z",
+  "video_url": "https://www.youtube.com/watch?v=5LsQwcsRPwA",
+  "thumbnail_url": "https://i.ytimg.com/vi/5LsQwcsRPwA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-04T10:18:32.652451Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
