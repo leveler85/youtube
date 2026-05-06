@@ -1,0 +1,19 @@
+{
+  "video_id": "PhTIAMQbD-Y",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/6(수) 트럼프의 달러 패권 전략이 우리 지갑에 미치는 영향 (성상현 부부장 / 중소기업중앙회)",
+  "published_at": "2026-05-06T09:12:52Z",
+  "video_url": "https://www.youtube.com/watch?v=PhTIAMQbD-Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/PhTIAMQbD-Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-06T10:23:27.582577Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
