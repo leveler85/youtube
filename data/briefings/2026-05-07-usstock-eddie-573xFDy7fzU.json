@@ -1,0 +1,19 @@
+{
+  "video_id": "573xFDy7fzU",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 미국, 이란 협상 답변 기다리는중 | 실적발표: 아이렌, 코인베이스, 로켓랩 | 트럼프, 브라질 대통령 정상회담 | 미국주식, 비트코인 방송",
+  "published_at": "2026-05-07T09:34:21Z",
+  "video_url": "https://www.youtube.com/watch?v=573xFDy7fzU",
+  "thumbnail_url": "https://i.ytimg.com/vi/573xFDy7fzU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-07T10:31:26.259820Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

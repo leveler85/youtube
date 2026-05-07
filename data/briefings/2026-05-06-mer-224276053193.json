@@ -1,0 +1,19 @@
+{
+  "video_id": "224276053193",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "한국 배가 혼자 행동하다 공격을 당했다는 트럼프, 맞는 말인가?",
+  "published_at": "2026-05-05T22:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224276053193",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MDZfMjg1/MDAxNzc4MDE2MDk1OTg1.ldsFH0pnEaRmdsZY6jLF0ICoLN3w4NIHEra5Aok0gdMg.-a7Q2PzWdIFOvDRktJmP1pv07oLDS9vyvrRDDq7DWvMg.PNG/ChatGPT_Image_2026%B3%E2_5%BF%F9_6%C0%CF_%BF%C0%C0%FC_06_21_01.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**트럼프의 한국 선박 피격 발언 진실 규명**\n\n도널드 트럼프 전 미국 대통령이 호르무즈 해협에서 한국 선박 피격 사건을 언급하며 \"한국 선박이 호위 대열에 없었고 단독 행동으로 공격받았다\"고 주장했으나, 이는 사실과 다르다는 분석이 제기되었다. 원문은 한국 선박의 AIS(선박자동식별장치) 기록과 해양 상황 분석을 통해 트럼프의 발언이 정치적 의도가 담긴 허위 주장일 가능성이 높다고 지적한다. 실제 한국 선박은 공격받기 전부터 정박 중이었으며, 오히려 다른 선박들과 함께 이란 당국의 지시에 따라 묘박지를 이동했을 가능성이 크다.\n\nHMM NAMU호의 AIS 기록에 따르면, 해당 선박은 트럼프가 선박 호위(에스코트)를 언급하기 이틀 전부터 이미 'At Anchor' 상태로 정박해 있었다. 흘수(Draught)가 7.1m로 만재흘수 약 14m의 절반 수준이었고, AIS에 'In Ballast'로 표기된 점은 화물이 없는 빈 배 상태였음을 나타낸다. 빈 배는 바람의 영향을 많이 받아 묘박지(닻을 내리는 정박구역)를 이동해야 할 필요성이 크다. 실제로 영국 해상무역기구(UKMTO)는 사고 전날 이란 당국이 라스 알 카이마 인근 정박 선박들에게 '즉시 묘박지를 이동하라'는 무선 지시를 내렸다고 보고했으며, 한국 선박 역시 이 지시에 따라 다른 선박들과 함께 묘박지를 이동하는 정도의 움직임만 보인 것으로 추정된다. 해양 보안업체 뱅가드 테크(Vanguard Tech)는 폭발이 기관실 좌현에서 관측되었으며, 그 원인이 USV(해상 드론) 또는 표류 기뢰일 가능성이 높다고 밝혔다.\n\n이 분석은 국제 관계에서 특정 사건에 대한 정치적 발언이 사실과 다르게 왜곡될 수 있음을 보여준다. 특히 미국 대통령의 언급이 동맹국의 안보 상황과 관련하여 오해를 불러일으킬 수 있는 만큼, 사실관계에 대한 면밀한 검토가 중요함을 시사한다. 향후 유사한 국제 사건 발생 시 공식 발표 외에도 독립적인 데이터 분석을 통해 실제 상황을 파악하는 노력이 필수적이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-07T10:33:35.908608Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
