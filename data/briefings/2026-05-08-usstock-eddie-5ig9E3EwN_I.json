@@ -1,0 +1,19 @@
+{
+  "video_id": "5ig9E3EwN_I",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 실업률·비농업고용지표 | 미국-이란, 호르무즈 해협에서 충돌 | 트럼프, 로즈가든에서 연설 | 미국주식, 비트코인 방송",
+  "published_at": "2026-05-08T07:56:14Z",
+  "video_url": "https://www.youtube.com/watch?v=5ig9E3EwN_I",
+  "thumbnail_url": "https://i.ytimg.com/vi/5ig9E3EwN_I/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-08T09:30:52.085643Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
