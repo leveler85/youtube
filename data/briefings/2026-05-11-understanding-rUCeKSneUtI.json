@@ -1,0 +1,19 @@
+{
+  "video_id": "rUCeKSneUtI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/11(월) 삼성전자, 하이닉스 지금 팔아야 할까요? (이형수 대표 / HSL파트너스)",
+  "published_at": "2026-05-11T07:22:26Z",
+  "video_url": "https://www.youtube.com/watch?v=rUCeKSneUtI",
+  "thumbnail_url": "https://i.ytimg.com/vi/rUCeKSneUtI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-11T11:29:45.305466Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "y9vrSqIyZWM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프, 이란 제안 거절하다 | 대통령 산모 건강 관리 행사 참여 | 실적발표: 서클, CEG | 미국주식, 비트코인 방송",
+  "published_at": "2026-05-11T02:01:32Z",
+  "video_url": "https://www.youtube.com/watch?v=y9vrSqIyZWM",
+  "thumbnail_url": "https://i.ytimg.com/vi/y9vrSqIyZWM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-11T11:30:55.144205Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

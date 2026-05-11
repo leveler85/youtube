@@ -1,0 +1,19 @@
+{
+  "video_id": "EX3Mz4qtavI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "8년 묶인 GTX 삼성역, 이대로 가면 매년 670억~1100억원씩 샙니다 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-05-11T07:55:18Z",
+  "video_url": "https://www.youtube.com/watch?v=EX3Mz4qtavI",
+  "thumbnail_url": "https://i.ytimg.com/vi/EX3Mz4qtavI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-11T11:29:51.134074Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

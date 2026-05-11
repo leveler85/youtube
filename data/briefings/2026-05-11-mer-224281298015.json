@@ -1,0 +1,19 @@
+{
+  "video_id": "224281298015",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "HMM 나무호를 공격한 정체는 2기의 드론 &  밝히지않았던 내용",
+  "published_at": "2026-05-10T21:59:50Z",
+  "video_url": "https://blog.naver.com/ranto28/224281298015",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MTFfMTkz/MDAxNzc4NDQ2OTI3Njg0.U_GqrpvMm4l49Mx-LJcMaAXPMZHgSXunZKOTJu7FpCwg.MX4Mir_03UfaTcdGzEqWE-JuA2uWMHtuhpfosWA_3fYg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**HMM 나무호 드론 피격 실체**\n\nHMM NAMU호 피격은 이란 혁명수비대가 호르무즈 해협 통제 범위를 확대한 직후 발생한 외부 공격 사건이다. 당시 미국 트럼프 전 대통령의 주장은 사실과 다르며, 한국 정부 조사 결과 미상 비행체 2대가 1분 간격으로 선박을 직접 타격한 것이 확인되었다. 이는 중동 해역의 지정학적 불안정성과 새로운 해상 안보 위협의 현실을 보여준다.\n\n이란 혁명수비대는 타스님 통신을 통해 호르무즈 해협 통제 범위를 기존 원형 구역에서 '노란 막대' 안쪽으로 대폭 확대했다고 발표했다. HMM NAMU호는 이란이 새로 설정한 통제 구역에 근접한 위치에 정박 중이었으며, 기관실 좌현 폭발 및 화재가 발생했으나 탑승자 24명(한국인 6명, 외국인 18명) 전원 인명피해는 없었다. 트럼프 전 대통령은 NAMU호가 '혼자 행동하다 공격받았다'고 주장했으나, 선박 AIS 기록은 트럼프 발언 이틀 전부터 NAMU호가 앵커를 내린 채 정박 중이었음을 나타낸다. 영국 해상무역기구(UKMTO) 보고에 따르면, 이란 당국은 사고 전날 라스 알 카이마 인근 선박들에 묘박지 이동을 지시했고, NAMU호도 이에 따른 움직임만 보였다. 2026년 5월 10일 정부 조사 결과, 현지시간 4일 15시 30분경 미상 비행체 2기가 1분 간격으로 나무호 선미 좌현 평형수 탱크 외판을 2차례 타격했다. 이로 인해 폭 5m, 깊이 7m의 선체 파손이 확인되었고, CCTV에 비행체가 포착되었으며, 현장에서 비행체 엔진 잔해가 수거되었다. 파손 패턴 등을 고려할 때 어뢰 피격 가능성은 낮다고 결론 내렸다.\n\n이번 HMM NAMU호 피격 사건은 이란의 해상 통제력 강화 시도와 함께, 미상 비행체를 이용한 표적 공격이 국제 해상 물류의 안정성에 심각한 위협이 됨을 시사한다. 수거된 비행체 엔진 잔해 분석 결과가 공격 주체와 배후를 밝히는 핵심 단서가 될 것이며, 이는 향후 중동 해역의 해상 안보 정책 수립에 중요한 영향을 미칠 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-11T11:31:23.306914Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
