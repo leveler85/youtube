@@ -1,0 +1,19 @@
+{
+  "video_id": "XA9lNibS7zQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "테슬라 드디어 상승 시작! 로켓랩·아이온큐·오클로 폭등한 진짜 이유",
+  "published_at": "2026-05-12T01:54:47Z",
+  "video_url": "https://www.youtube.com/watch?v=XA9lNibS7zQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/XA9lNibS7zQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-12T10:37:50.280841Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

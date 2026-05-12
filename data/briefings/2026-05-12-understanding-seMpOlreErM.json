@@ -1,0 +1,19 @@
+{
+  "video_id": "seMpOlreErM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/12 (화) 소송 또 졌는데... 트럼프 관세는 왜 더 지독해질까? (김상훈 기자 / 언더스탠딩)",
+  "published_at": "2026-05-12T07:58:00Z",
+  "video_url": "https://www.youtube.com/watch?v=seMpOlreErM",
+  "thumbnail_url": "https://i.ytimg.com/vi/seMpOlreErM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-12T10:36:20.231192Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
