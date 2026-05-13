@@ -1,0 +1,19 @@
+{
+  "video_id": "1r_tAOHZAws",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/13 (수) 양자컴 상용화 20년이 아니라 2년? (김학주 교수 / 한동대학교 AI융합학부)",
+  "published_at": "2026-05-13T08:13:34Z",
+  "video_url": "https://www.youtube.com/watch?v=1r_tAOHZAws",
+  "thumbnail_url": "https://i.ytimg.com/vi/1r_tAOHZAws/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-13T10:33:52.600788Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
