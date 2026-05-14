@@ -1,0 +1,19 @@
+{
+  "video_id": "yIrSZeaIcPo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/14 (목) 파업 앞둔 삼성전자 대체 뭐가 문제인가 (백종훈 기자 / 언더스탠딩)",
+  "published_at": "2026-05-14T07:50:28Z",
+  "video_url": "https://www.youtube.com/watch?v=yIrSZeaIcPo",
+  "thumbnail_url": "https://i.ytimg.com/vi/yIrSZeaIcPo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-14T10:23:47.257329Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
