@@ -1,0 +1,19 @@
+{
+  "video_id": "5rKawu0RxYY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/15 (금) 인도는 요즘 소 대신 반도체를 키웁니다 (백찬규 센터장/NH투자증권)",
+  "published_at": "2026-05-15T08:26:28Z",
+  "video_url": "https://www.youtube.com/watch?v=5rKawu0RxYY",
+  "thumbnail_url": "https://i.ytimg.com/vi/5rKawu0RxYY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-15T10:29:05.184016Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
