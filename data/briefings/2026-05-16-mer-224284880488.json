@@ -1,0 +1,19 @@
+{
+  "video_id": "224284880488",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "미국 수학영재들이 가장 가고싶어하는 회사는? (feat IMO)",
+  "published_at": "2026-05-15T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224284880488",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MTVfMTcz/MDAxNzc4ODI2NzcxOTU2.vAj24ceMuizvmTEH5zAQzVtNaaBUAsmO5yxv4EkqZdMg.fFVgSo-EImjWjPqddQzZgtUALCbDsMplAOZOg5L_otUg.PNG/Gemini_Generated_Image_96l0re96l0re96l0.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**美 수학영재, 제인 스트리트 향한다**\n\n미국 최상위 수학 영재들이 가장 선호하는 직장은 월스트리트의 퀀트 트레이딩 회사인 제인 스트리트이다. 이 회사는 미국 수학협회(MAA)가 주관하는 수학 경시대회 전체 과정을 체계적으로 후원하며, 고등학생 시절부터 영재들을 발굴하고 관리하는 시스템을 갖추고 있다. 제인 스트리트는 압도적인 보상 체계를 통해 최상위 수학적 재능을 가진 인재들을 적극적으로 유치하여, 그들의 역량을 금융 시장에서 극대화하는 독특한 인재 전략을 구사한다.\n\n제인 스트리트는 미국 수학 경시대회인 AMC 10/12부터 국제수학올림피아드(IMO) 미국 대표팀 선발 및 참가에 이르기까지 전 과정에 걸쳐 막대한 후원금을 지원한다. 매년 30만 명 이상의 학생이 AMC 10과 12에 응시하며, 이 중 상위 2.5%(AMC 10)와 5%(AMC 12)만이 다음 단계인 AIME(American Invitational Mathematics Examination)에 초청된다. AIME 참가자 중 상위 600명에게는 미국 수학 올림피아드(USAMO) 응시 자격이 주어지며, USAMO 상위 60명은 카네기멜론 대학교에서 3주간 열리는 제인 스트리트 후원 MOP(Mathematical Olympiad Program) 캠프에 참여한다. 이후 TSTST 및 TST 선발 시험을 거쳐 최종 6명이 IMO 미국 대표로 선발되며, 30만 명 중 6명이라는 극악의 경쟁률을 뚫은 이들을 포함한 USAMO 상위권 학생들은 MAA 시상식 후 제인 스트리트 뉴욕 사옥으로 초청받아 회사 시설을 견학하고 직원들과 교류한다. 제인 스트리트는 이러한 수학 경시대회 상위 득점자들을 중심으로 매년 약 400명의 인턴을 채용하며, 이 중 80%가 정식 직원 제안을 받는다. 인턴 기간에도 월 3만 달러(약 4천5백만 원)를 지급하고 우수 인턴은 보너스 포함 1억 원까지 받으며, 신입사원 연봉은 60만 달러(약 9억 원)에 달한다. 2025년 기준 제인 스트리트의 총 직원 수는 3,816명으로, 1인당 평균 연봉은 268만 달러(약 40억 원) 수준이다. 이는 회사의 뛰어난 수익성 덕분인데, 2025년 연간 396억 달러를 벌어들이고 2026년 1분기에만 161억 달러를 기록하는 등, 골드만삭스나 JP모건보다 적은 직원 수로 더 높은 수익을 올리는 구조이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-16T09:47:27.900707Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

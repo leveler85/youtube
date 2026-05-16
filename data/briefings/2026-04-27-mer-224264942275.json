@@ -1,0 +1,19 @@
+{
+  "video_id": "224264942275",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "캐나다산 원유가 대안이 될 수 있을까?",
+  "published_at": "2026-04-26T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224264942275",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA0MjVfMTc3/MDAxNzc3MTExNTc3OTE4.YRuYSszwin0OSstUjJA2ODrrRUHAQd9_yeajNaQphnEg.g-35mUO5gQ3RXc1jl6y9ODAHHX1DEVcv4ncZdH1Vvvgg.JPEG/njptmvle.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**캐나다 원유 한국 수출의 난제**\n\n캐나다는 미국에 대한 원유 수출 의존도를 낮추고 판매처를 다변화하여 협상력을 높이려 하며, 한국은 중동 원유 의존도를 줄이고자 캐나다산 원유 수입을 모색하고 있다. 캐나다산 초중질유는 한국의 중질유 정제 설비에 적합한 대체재가 될 잠재력을 지니지만, 이를 실현하기 위해서는 여러 기술적, 인프라적 난관을 극복해야 한다.\n\n한국 정유사들은 수조 원을 투자하여 중동산 원유에 최적화된 고도화 설비와 탈황 시설을 갖췄다. 캐나다산 원유는 황 함유량 외에 나프텐산 수치가 높고 금속 성분이 많아 정유 설비 부식 방지 특수 코팅 및 촉매 수명 단축 문제 해결을 위한 추가 설비 보강이 필요하다. 캐나다 서부 앨버타 지역 원유의 95% 이상(2024년 기준)은 미국으로 수출되며, 서부-동부 파이프라인(Energy East, 일일 110만 배럴) 건설은 환경 규제로 2017년 취소되었다. 정유 시설 신설 또한 10년 이상이 소요된다. 2024년 5월 밴쿠버 파이프라인 수송 용량은 하루 89만 배럴로 확장되어 아시아 수출 인프라는 갖춰졌고, 한국은 2026년 4월 20일부로 캐나다산 원유 3% 관세를 면제했다. 그러나 밴쿠버 항만은 수심이 얕아 초대형 유조선(VLCC) 접안이 불가능하며, 중형 유조선(아프로막스급)도 기름을 70%만 채워야 출입이 가능하다. 항만 접근 교량(아이언워커스 메모리얼 브릿지, 높이 44m) 또한 VLCC는 통과할 수 없어 운송 효율성이 크게 저하된다.\n\n이러한 상황은 캐나다의 원유 시장 다변화 의지와 한국의 에너지 안보 강화 노력에 시너지를 낼 기회이지만, 밴쿠버 항만의 물류 효율성 개선과 한국 정유사의 설비 투자라는 경제적 과제를 동반한다. 향후 캐나다 정부의 인프라 투자 정책과 한국 정유사들의 기술적 대응이 주요 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-16T09:47:45.969482Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
