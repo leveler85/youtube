@@ -1,0 +1,19 @@
+{
+  "video_id": "qpR0BQch0DQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "5/18 (월)  100년 전과 닮은 요즘 세계대전 재연될까? (법무법인 율촌 최준영 수석전문위원)",
+  "published_at": "2026-05-18T11:29:53Z",
+  "video_url": "https://www.youtube.com/watch?v=qpR0BQch0DQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/qpR0BQch0DQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-18T11:48:06.088883Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

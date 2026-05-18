@@ -1,0 +1,19 @@
+{
+  "video_id": "224288189538",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "코인업계와 은행간 한판승부 결과는? A/S (feat 트럼프 거부권?)",
+  "published_at": "2026-05-17T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224288189538",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MTdfMTU0/MDAxNzc5MDAyOTI5Mzgy.vFJXzV7sEqDpTT2F97zvIs8PztE-o-hjl5NJOQVJaGkg.Ece_AlUAvqf9UOd-MhCFGyt9yOFzBMvd7PFjVsfR3RUg.PNG/Gemini_Generated_Image_8oq7ka8oq7ka8oq7.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**스테이블코인 법안, 트럼프 암초**\n\n미국에서 스테이블코인 규제를 위한 CLARITY Act가 은행권과 코인업계 간 치열한 로비전의 핵심 쟁점으로 부상했다. 이 법안의 핵심은 스테이블코인 보유자에게 이자를 지급할 수 있는지 여부이며, 은행권은 예금 유출과 대출 여력 감소를 우려해 반대하는 반면, 코인 업계는 이를 은행 수익 보호 논리로 규정하며 맞서고 있다. 백악관의 중재로 이자 지급 금지 조항이 담긴 합의안이 도출되었으나, '진정한 활동'에 기반한 인센티브는 허용하는 부속 조항이 포함되어 코인 업계에 사실상 규제를 회피할 수 있는 통로를 열어주었다는 평가가 나온다. 그러나 트럼프 전 대통령 가족의 코인 사업 연루 의혹으로 촉발된 민주당의 강력한 윤리 규정 강화 요구가 새로운 변수로 떠오르면서 법안의 최종 통과가 불투명해졌다.\n\n2025년 7월 17일 하원을 찬성 294표, 반대 134표로 통과했던 CLARITY Act는 상원에서 교착 상태에 빠졌다. 2026년 5월 1일 백악관 중재로 타결된 Tillis-Alsobrooks 합의안은 \"피보전자(covered party)는 직간접적으로 이자나 수익을 제한된 수령자에게 지급할 수 없다\"고 명시했지만, \"진정한 활동(bona fide activities) 또는 진정한 거래(bona fide transactions)\"에 기반한 인센티브는 허용하는 부속 조항을 포함했다. 은행권은 평균 4%대 대출 금리와 1% 미만 예금 금리 구조에서 스테이블코인 이자 지급이 예금 유출을 야기할 것을 우려했다. 민주당의 윤리 규정 요구는 2024년 트럼프 가문이 출범시킨 디파이/스테이블코인 회사인 World Liberty Financial(WLF)을 겨냥하며, 2025년 12월 기준 트럼프 가문이 WLF에서 10억 달러 수익을 올리고 30억 달러 상당의 토큰을 보유한 사실이 논란의 중심에 있다. 특히 트럼프 취임 4일 전 UAE 국부펀드가 WLF 지분 49%를 5억 달러에 매입한 사실이 2026년 2월 월스트리트저널 보도로 드러나면서 민주당은 이를 이해상충으로 보고 있다. 5월 14일 상원 은행위원회는 공화당 13명 전원과 민주당 2명의 찬성으로 합의안을 통과시켰으나, 해당 민주당 의원들은 윤리 규정 없이는 본회의에서 찬성을 보장할 수 없다고 경고했다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-18T11:51:00.197107Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
