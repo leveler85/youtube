@@ -1,0 +1,19 @@
+{
+  "video_id": "MVKCkLf8fxE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프, 이란 공격 유예 | 밴스 부통령 언론브리핑 | 실적발표: 홈디포, VRT, 톨브라더스 | 미국주식, 비트코인 방송",
+  "published_at": "2026-05-19T05:31:03Z",
+  "video_url": "https://www.youtube.com/watch?v=MVKCkLf8fxE",
+  "thumbnail_url": "https://i.ytimg.com/vi/MVKCkLf8fxE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-19T11:28:23.896618Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
