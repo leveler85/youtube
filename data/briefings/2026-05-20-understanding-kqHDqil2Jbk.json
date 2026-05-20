@@ -1,0 +1,19 @@
+{
+  "video_id": "kqHDqil2Jbk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/20 (수) 미 국채 금리 폭등 국장 탈출 신호탄일까? (김효진 박사)",
+  "published_at": "2026-05-20T07:32:47Z",
+  "video_url": "https://www.youtube.com/watch?v=kqHDqil2Jbk",
+  "thumbnail_url": "https://i.ytimg.com/vi/kqHDqil2Jbk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-20T10:56:31.264262Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
