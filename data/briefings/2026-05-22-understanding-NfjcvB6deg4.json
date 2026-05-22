@@ -1,0 +1,19 @@
+{
+  "video_id": "NfjcvB6deg4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 5/22 (금)  중국도 두 손 든 인도, 한국 기업만 살아남은 이유 (백찬규 센터장 / NH투자증권)",
+  "published_at": "2026-05-22T08:29:44Z",
+  "video_url": "https://www.youtube.com/watch?v=NfjcvB6deg4",
+  "thumbnail_url": "https://i.ytimg.com/vi/NfjcvB6deg4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-05-22T10:55:12.613707Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
