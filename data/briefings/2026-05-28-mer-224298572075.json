@@ -1,0 +1,19 @@
+{
+  "video_id": "224298572075",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "엔비디아 젠슨 황이 꼽는 AI의 다음 격전지 디지털 생물학 A/S",
+  "published_at": "2026-05-28T02:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224298572075",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MjhfMjEy/MDAxNzc5OTExODIyMTUx.TcFLizkv_afbHPn-2abbP3LPuuqwcBH6hiVsxSWACR4g.Fmz61eEwwNsiXkjYmGP0tM8RXBVkQ-fdcmyY3niAlFUg.JPEG/ypmzp9pe.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**AI, 디지털 생물학 격전지**\n\n엔비디아의 젠슨 황 최고경영자가 인공지능(AI)의 다음 주요 격전지로 디지털 생물학을 지목하며, 컴퓨팅을 활용한 생물학적 반응 예측에 대한 깊은 기대를 표명했다. 이는 약물 임상 과정의 효율성을 혁신적으로 높이고 신약 개발 속도를 가속화할 핵심 동력으로 작용할 전망이다. AI 모델로 유전자 변형 시 세포 반응을 예측하는 기술은 매트릭스 세계 구현의 첫걸음이 될 수 있다는 질문에 대한 엔비디아의 답변이 구체적인 움직임으로 나타나고 있다.\n\n이러한 비전의 일환으로, 2025년 6월 26일 엔비디아 후원 하에 Arc Institute 주관으로 'Virtual Cell Challenge' 대회가 출범했다. 대회는 가장 널리 쓰이는 인간배아 줄기세포주인 H1 세포 30만 개에 300가지 유전자를 하나씩 변형시켜 얻은 데이터를 참가자들에게 제공하고, 알려지지 않은 다른 유전자 변형에 대한 세포 반응을 AI로 예측하도록 요구했다. 전 세계 114개국에서 1,200개 이상의 팀이 참가하여 세포 모델 예측력을 겨루었으며, 이는 컴퓨터 내에 정확한 세포 모델을 구축하는 것을 목표로 한다. 현재 신약의 90%가 효능 부족이나 부작용으로 임상시험에서 실패하는 상황에서, 세포 수준의 반응을 컴퓨터로 시뮬레이션할 수 있다면 동물실험의 상당 부분을 대체하고 임상 성공률을 높일 수 있다. 대회에서 BioMap Research가 1위를 차지했으나, 여전히 동물실험을 완전히 대체하기에는 추가 연구와 시간 투자가 필요하다는 결과가 도출되었다. 엔비디아는 2026년 1월 JP모건 컨퍼런스에서 자사의 신약 개발 플랫폼 BioNeMo의 업그레이드를 발표했으며, RNA 분자 3D 구조 예측, AI 설계 분자 합성 가능성 확인, 독성 예측 모델, 생물학 파운데이션 모델 학습·맞춤화·배포 확장 기능이 추가되었다. 같은 날 글로벌 제약사 일라이릴리와 AI 공동연구소 설립을 발표하며 BioNeMo 및 NVIDIA Vera Rubin 플랫폼을 활용한 신약 발견 및 개발 가속화 연구를 시작했다.\n\n젠슨 황 CEO는 \"디지털 생물학의 ChatGPT 모먼트가 다가오고 있다\"며 \"다중 단백질 이해가 곧 가능해지며 분자 설계와 화학 생성으로 진화하고 있고, 생물학 데이터는 인간 언어에 비해 희소하므로 합성 데이터가 필수적이다\"라고 강조했다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-28T11:46:50.880229Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
