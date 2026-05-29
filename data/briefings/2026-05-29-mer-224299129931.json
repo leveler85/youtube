@@ -1,0 +1,19 @@
+{
+  "video_id": "224299129931",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "나사의 달기지계획에 숨겨진 Lunar Economy",
+  "published_at": "2026-05-28T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224299129931",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA1MjhfOTMg/MDAxNzc5OTUxMzY1MjA1.uUCRAko-TK0UgRCHLH1VT-3Fne6z-NqazOUJBjyC7l0g.kBr95WkqF1EsvdTRM3oxwvUCpyvz4W4I07RHBYeTtskg.PNG/Gemini_Generated_Image_arwhzparwhzparwh.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**나사 달 기지 계획의 루나 이코노미**\n\nNASA는 2026년 5월 27일, 일시적 방문을 넘어 영구 거주 가능한 달 기지 건설 계획을 발표했다. 이 계획은 달 남극의 얼음을 활용해 로켓 연료를 생산하고, 이를 기반으로 '달 경제권'을 구축하는 것이 핵심이다. 궁극적으로 달에서의 연료 판매와 희귀 광물 채굴을 통해 수익을 창출, 세금에 의존하지 않는 지속 가능한 우주 탐사 시대를 열겠다는 비전이다.\n\n나사는 달 남극에 서울 면적(605㎢)의 1.3배인 300제곱마일(약 777㎢) 규모의 기지를 계획한다. 2026년에는 블루오리진 Mark 1 Endurance 착륙선 화물 테스트, 500kg 이상 화물 착륙, 13일간 루나 스월 탐사를 진행할 예정이다. 달 경제의 핵심은 달 얼음에서 생산한 수소·산소 연료를 민간 우주선에 판매하는 '우주 주유소'와, 톤당 40억 달러 가치의 핵융합 연료 '헬륨3' 채굴이다. SpaceX의 스타십 HLS는 100톤 가까운 인원과 화물을 달에 착륙시키기 위해 10회 이상 지구 궤도 연료 보급이 필요하며, DARPA는 2030년경 15km의 달 철도 건설을 통해 광물 대량 수송을 구상 중이다.\n\n이번 나사 발표는 우주 탐사가 학문적 호기심을 넘어 자원 확보와 경제적 이익을 추구하는 '루나 이코노미' 시대로 진입했음을 명확히 한다. 서울 면적의 1.3배에 달하는 달 기지 선점 계획은 미래 우주 자원 경쟁에서 주도권을 확보하려는 전략으로 풀이되며, 이는 우주 산업 내 기업들의 지형 변화를 가속화할 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-05-29T11:37:14.511328Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

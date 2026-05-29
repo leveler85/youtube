@@ -1,0 +1,19 @@
+{
+  "video_id": "pm8T75fe-SE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "3배 커지는 태양광 숨겨진 청구서 날아온다 (언더스탠딩 김상훈 기자)",
+  "published_at": "2026-05-28T12:25:18Z",
+  "video_url": "https://www.youtube.com/watch?v=pm8T75fe-SE",
+  "thumbnail_url": "https://i.ytimg.com/vi/pm8T75fe-SE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-05-29T11:35:21.308908Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
