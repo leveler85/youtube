@@ -1,0 +1,19 @@
+{
+  "video_id": "224303429967",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "젠슨 황이 이 기업을 선택한 이유 A/S",
+  "published_at": "2026-06-01T22:32:51Z",
+  "video_url": "https://blog.naver.com/ranto28/224303429967",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MDJfMTAx/MDAxNzgwMzUzMjIyOTkx.lzI-JE9D8roPuE_i_JjBqmI7OJa3gwdvZEWAETGf12og.23jpPtyO7vwFiM2Sg6sDYfSp7Wp7qr6lYj1CizkdaCcg.JPEG/yei1uumv.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**엔비디아 젠슨 황, 한국 로봇 AI 투자 검토**\n\n젠슨 황 엔비디아 CEO의 최근 방한 전후 행보는 한국의 AI 및 로보틱스 생태계에 대한 엔비디아의 깊은 관심을 명확히 드러냈다. 엔비디아가 핵심적으로 추진하는 피지컬 AI 분야에서 한국 기업과의 협력을 모색하고 투자 가능성을 시사하며, 이는 한국의 인력 부족 문제를 AI와 로봇이 해결하며 잠재력을 극대화할 수 있다는 비전과 연결된다. 젠슨 황의 발언과 동선은 단순한 비즈니스 교류를 넘어선 전략적 파트너십 구축 의지를 반영한다.\n\n젠슨 황 CEO는 연초 CES에서 AI와 로봇의 결합인 피지컬 AI를 강조한 바 있다. 이러한 기조 속에 2026년 4월 29일 그의 딸이자 엔비디아 임원인 메디슨 황이 분당의 두산로보틱스를 방문하여 기술 협력 방안을 구체적으로 논의했다. 두산로보틱스와 엔비디아의 인연은 2026년 2월 엔비디아가 주최한 '코스모스 쿡오프'라는 피지컬 AI 챌린지에서 더욱 공고해졌다. 이 대회는 엔비디아의 Cosmos Reason을 활용해 로보틱스, 자율주행, 비전 AI 솔루션을 만드는 경쟁으로, 1,600개가 넘는 참가팀 중 두산로보틱스 엔지니어 4명으로 구성된 'Team Zenith'가 1위를 차지하며 독보적인 기술력을 입증했다. 두산 그룹은 로봇(두산로보틱스), 데이터센터 전력(두산에너빌리티), AI 반도체 테스트(두산테스나) 역량을 갖춰 'AI 반도체 → 테스트 → 데이터센터 전력 → 현장 로봇'으로 이어지는 피지컬 AI 풀세트를 구축한 것으로 평가받는다. 젠슨 황은 6월 1일부터 4일까지 대만 타이베이에서 열린 'GTC 타이베이 2026'에 참석한 뒤, 4일 저녁 '코리안 파트너 나이트'를 개최하여 삼성, SK하이닉스, LG, 네이버, 그리고 두산(김민표 두산로보틱스 대표) 관계자들을 초청, 한국 투자 검토 및 로보틱스 발전에 기여할 의사를 직접 밝혔다.\n\n엔비디아가 한국 시장에 보이는 적극적인 관심은 국내 AI 및 로보틱스 산업 전반에 걸쳐 새로운 성장 동력을 제공할 것으로 기대된다. 특히 한국이 직면한 저출산 고령화 및 노동 인구 감소 문제를 AI와 로봇을 통해 극복하려는 국가적 방향성과 엔비디아의 피지컬 AI 전략이 강하게 부합하고 있다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-02T12:13:16.505559Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
