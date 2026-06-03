@@ -1,0 +1,19 @@
+{
+  "video_id": "224304099311",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "엔비디아가 네이버를 방문하는 이유  2",
+  "published_at": "2026-06-02T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224304099311",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MDNfMTU4/MDAxNzgwNDEzMzM0Njkz.1Xky5lrxxCEsJQe-LSK4dgC42Ni_TNkilCxDgOpt5Egg.IdDgrGiM0nyn-NHbR4jGFPjFPVdYqxYssZvOF3lTfGEg.JPEG/IMG%A3%DF1585.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**엔비디아 소버린 AI 전략**\n\n미국 클라우드법 제정 이후 데이터 주권에 대한 국제적 요구가 커지자, 엔비디아가 '소버린 AI' 개념을 상업적으로 주도하며 새로운 GPU 시장을 개척하고 있다. 소버린 AI는 각국이 자국의 인프라와 데이터를 활용해 독자적인 AI를 구축하는 역량을 의미한다. 이는 엔비디아가 기존 빅테크 중심의 고객군을 전 세계 국가로 확장하는 핵심 전략이며, 한국의 네이버는 이러한 소버린 AI 구현의 중요한 파트너이자 모범 사례로 부상하고 있다.\n\n2018년 발효된 클라우드법은 미국 기업에 데이터 저장 위치와 관계없이 자료 제출을 의무화했고, MS 아일랜드 서버 사례로 그 효력이 확인되면서 유럽연합(EU) 등은 데이터 주권 강화를 시작했다. 엔비디아 젠슨 황 CEO는 2024년 두바이 세계정부정상회의에서 \"모든 국가는 자국 지능 생산을 소유해야 한다. AI 원료는 그 나라의 주권적 소유물\"이라고 강조하며 소버린 AI를 전기나 수도 같은 필수 인프라에 비유했다. 맥킨지는 소버린 AI 시장이 2030년까지 6,000억 달러 규모로 성장할 것으로 전망한다. 한국은 네이버 주도로 소버린 AI에 동참하며, 엔비디아는 2025년 10월 한국 정부, 삼성, SK, 현대차, 네이버에 총 26만 장의 GPU 공급을 제안했고, 이 중 네이버클라우드가 6만 장을 배정받을 예정이다. 네이버는 자체 LLM '하이퍼클로바X'와 클라우드 인프라를 갖춘 'AI 풀스택' 사업자로, 비영어권에서 드물게 자국어 LLM을 서비스에 연결하며 사우디 등 해외 국가에 인프라를 제공 중이다. 이해진 네이버 의장이 젠슨 황을 1년 새 두 차례 만나는 등 협력은 심화되고 있다.\n\n소버린 AI는 엔비디아가 글로벌 GPU 시장 지배력을 유지하며 새로운 성장 동력을 확보하려는 전략인 동시에, 각국이 AI 시대의 핵심 자원인 데이터와 기술 주권을 지키려는 세계적 흐름을 반영한다. 그러나 미국 기업의 칩에 의존하는 '주권'의 한계에 대한 비판과, 엔비디아의 상업적 확장이 미국 정치권의 규제로 이어질 가능성 등 과제 또한 상존한다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-03T12:49:54.695522Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
