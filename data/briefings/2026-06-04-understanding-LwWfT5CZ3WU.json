@@ -1,0 +1,19 @@
+{
+  "video_id": "LwWfT5CZ3WU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "6/4 (목) 4조 대박 터진 K-조선, 전 세계가 한국 배만 찾는 이유 (엄경아 연구위원 / 신영증권)",
+  "published_at": "2026-06-04T08:26:42Z",
+  "video_url": "https://www.youtube.com/watch?v=LwWfT5CZ3WU",
+  "thumbnail_url": "https://i.ytimg.com/vi/LwWfT5CZ3WU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-04T11:20:23.543071Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
