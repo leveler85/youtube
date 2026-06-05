@@ -1,0 +1,19 @@
+{
+  "video_id": "VDtqLuNXDHg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 6/5 (금) 중국 전기차가 AI 시장 흔드는 이유 (박수현 팀장 / KB증권 아시아시장팀)",
+  "published_at": "2026-06-05T08:38:48Z",
+  "video_url": "https://www.youtube.com/watch?v=VDtqLuNXDHg",
+  "thumbnail_url": "https://i.ytimg.com/vi/VDtqLuNXDHg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-05T11:33:26.961493Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

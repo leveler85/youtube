@@ -1,0 +1,19 @@
+{
+  "video_id": "hH_MuRmFCf0",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "올해는 깐부치킨 말고 삼겹살…젠슨 황이 대기업 총수들과 폭탄주 마시는 이유",
+  "published_at": "2026-06-05T08:29:25Z",
+  "video_url": "https://www.youtube.com/watch?v=hH_MuRmFCf0",
+  "thumbnail_url": "https://i.ytimg.com/vi/hH_MuRmFCf0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "empty_transcript",
+  "generated_at": "2026-06-05T11:34:26.255534Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

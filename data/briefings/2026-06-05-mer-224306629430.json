@@ -1,0 +1,19 @@
+{
+  "video_id": "224306629430",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "젠슨 황, 회식의 비밀 (feat 형님 저요)",
+  "published_at": "2026-06-05T02:02:06Z",
+  "video_url": "https://blog.naver.com/ranto28/224306629430",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MDVfMTAw/MDAxNzgwNjI0NjM4MTA3.WIJx9mMje5ohN9riuW8R9puRgLgA_ggnWqg13Edcpewg.k2L7w921zcMxl_YzUatCdoNVcLnyZaLXb53wbRdeo-Qg.JPEG/n4xjiv53.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**젠슨 황, 한국 회식 장소의 숨겨진 의미**\n\n엔비디아 CEO 젠슨 황이 SK, 현대차, LG, 네이버 등 주요 한국 기업 총수들과의 만찬 장소로 서울 성수동 삼겹살집 대신 홍대입구역 인근의 '형님 저요'를 선택했다. 이러한 장소 선정은 단순한 식사 자리를 넘어 한국 재계와의 비즈니스 관계를 상징하는 중요한 메시지를 내포한다. 황 CEO는 이전 대만에서의 회동에서도 서민적이고 친근한 분위기의 식당을 택하며 협력 강화 의지를 보여준 바 있다.\n\n당초 거론된 성수동의 '잠수교집'은 기업 시각에서 '잠수'라는 이름의 부정적인 뉘앙스로 인해 선택되지 않은 것으로 보인다. 최종 결정된 홍대 '형님 저요'는 삼겹살 가격이 14,000원으로 비교적 저렴하며, 식당 앞 공터는 황 CEO가 대중과 소통하는 방식을 선호한다는 점과 부합한다. 만찬 비용은 네이버가 부담하는 것으로 알려졌다. 이는 대만에서 황 CEO가 한국 기업 관계자들과 만났던 '르어차오(熱炒)' 식당과 유사한 맥락이다. '르어차오'는 뜨거운 불에 다양한 재료를 빠르게 볶아내는 대만 서민 음식점으로, 과거 100대만달러(약 4,500원) 술집의 대표 주자였다. '르어차오 멤버'라는 표현이 끈끈하고 편안한 관계를 의미하듯, 이러한 장소 선택은 엔비디아를 중심으로 한국 기업들과 '끈끈하고 화끈하게 뭉치자'는 황 CEO의 의지를 보여준다.\n\n젠슨 황 CEO의 이러한 행보는 글로벌 반도체 시장의 주도권을 쥔 엔비디아가 특정 기업과의 수직적 관계보다는 한국 산업 전반과의 수평적이고 친밀한 협력 관계를 구축하려는 의도를 반영한다. 이는 앞으로 한국 기업들이 엔비디아와 어떤 방식으로 파트너십을 확장해나갈지, 그리고 이러한 비즈니스 외적인 친밀함이 실제 사업 협력에 어떤 영향을 미칠지 주목할 필요가 있음을 시사한다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-05T11:35:30.601606Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
