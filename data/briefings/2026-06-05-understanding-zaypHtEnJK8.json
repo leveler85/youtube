@@ -1,0 +1,19 @@
+{
+  "video_id": "zaypHtEnJK8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "급사 부르는 만성염증 찾는 딱 한가지 방법",
+  "published_at": "2026-06-05T14:15:20Z",
+  "video_url": "https://www.youtube.com/watch?v=zaypHtEnJK8",
+  "thumbnail_url": "https://i.ytimg.com/vi/zaypHtEnJK8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "ok",
+  "summary": "**만성염증 진단의 핵심, hsCRP 재평가**\n\n만성 염증을 과학적이고 수치적으로 진단하는 데 있어 hsCRP(고감도 C-반응성 단백질) 검사가 핵심 지표로 강조된다. 의료 현장에서 흔히 간과되는 0.3 mg/dL 또는 0.4 mg/dL와 같은 낮은 hsCRP 수치도 만성 염증의 명확한 증거로 보아야 한다는 주장이 강력히 제기된다. 이는 의사들이 특정 임계점 이하의 수치는 무시하는 경향이 있어, 잠재적 만성 염증 위험을 간과하는 문제로 지적된다.\n\nhsCRP 검사는 만성 염증을 정량적으로 파악하는 유일한 병원 검사이다. 0.3 mg/dL나 0.4 mg/dL의 수치가 확인될 경우, 이는 미국의 저명한 심장병 전문의 폴 리드커 박사가 '아주 전형적인 만성 염증 환자'로 규정한 사례에 해당한다. 리드커 박사는 염증과 심혈관 질환 연관성 규명 권위자이다. 그러나 의료계는 이러한 낮은 수치들을 임상적으로 유의미하게 받아들이지 않아, 환자에게 적절한 조치가 부족하다. 발언자는 간과되기 쉬운 이 수치들이 확실한 만성 염증 증거임을 강조하며, 현행 진단 기준의 근본적인 재검토를 촉구한다.\n\n이처럼 낮은 수준의 만성 염증조차도 유튜브 영상 제목(\"급사 부르는 만성염증\")이 경고하듯, 심각한 건강 악화와 갑작스러운 사망으로 이어질 수 있는 주요 원인이다. 따라서 개인은 자신의 hsCRP 수치를 정확히 이해하고 적극적으로 관리해야 하며, 의료계 역시 hsCRP 중요성을 재인식하고, 잠재적 위험 조기 파악 및 예방적 치료 강화의 패러다임 전환이 시급하다. 낮은 hsCRP 수치에 대한 무관심은 결국 돌이킬 수 없는 건강 손실로 이어질 수 있다는 경고에 귀 기울일 필요가 있다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-06T10:11:12.659321Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

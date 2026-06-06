@@ -1,0 +1,19 @@
+{
+  "video_id": "224307573432",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "미국 고용지표 발표의 나비효과 (feat 금, 비트코인, 환율)",
+  "published_at": "2026-06-06T00:47:53Z",
+  "video_url": "https://blog.naver.com/ranto28/224307573432",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MDZfOTQg/MDAxNzgwNzA2Njg5ODQ2.RJvZd1pMUrxerz2ewkrtKGkUMNvXIcEYxc6rHW7EqjQg.tQsjYylhxkEtsPJXr2gye-9wCPxQfUictjg5_kGT5Qwg.PNG/Gemini_Generated_Image_97fm6a97fm6a97fm.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**미 고용지표발 금융시장 파장**\n\n최근 발표된 미국 고용지표가 시장 예상을 크게 상회하며 견조한 고용 상황을 나타냈다. 이는 연방준비제도(Fed)의 통화정책 초점을 물가 안정으로 전환시키고 있으며, 실제로 물가 상승 압력도 심화되는 추세다. 이에 따라 연말까지 미국 금리 인상 가능성이 급증했으며, 이는 금융시장에 광범위한 파급 효과를 미치고 있다.\n\n2026년 6월 5일 발표된 미국 노동부 자료에 따르면 5월 비농업 고용은 17만2000명 증가하여 시장 예상치인 8만명을 두 배 이상 상회했다. 이는 3월 21만4000명, 4월 17만9000명에 이어 3개월 연속 높은 고용 증가세를 기록한 것이다. 연준의 핵심 물가지수인 개인소비지출(PCE)은 4월 전년 동기 대비 3.8% 상승하며 2023년 5월 이후 3년 만에 최고치를 기록, 물가 상승 추세가 명확해졌다. 신임 연준의장 캐빈 워시는 유동성 회수 정책을 수차례 언급했으며, 이러한 고용 및 물가 지표들을 반영하여 선물시장은 올해 연말까지 금리 인하 확률을 1.0%로 낮추고, 금리 인상 확률을 71.1%로 대폭 상향 조정했다.\n\n미국 금리 인상 가능성 증대는 이자를 지급하지 않는 금 가격을 하루 만에 3.1% 하락시켰고, 비트코인 등 가상자산 가격에도 하방 압력을 가했다. 또한, 미국 국채 금리 상승은 자금의 미국 회귀를 유도하며 달러 강세로 이어졌다. 최근 한 달간 달러 인덱스는 97.78에서 100.05로 상승했으며, 원/달러 환율은 밤사이 1561.5원을 기록하는 등 원화의 가치는 달러 강세보다 더 큰 폭으로 약화되었다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-06T10:15:41.816546Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
