@@ -1,0 +1,19 @@
+{
+  "video_id": "224307440861",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "삼성전자와 마이크론등을 흔든 엔비디아 SOCAMM이 뭘까?",
+  "published_at": "2026-06-07T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224307440861",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MDZfNDQg/MDAxNzgwNjg0NDMwNTk2.sb2PvJBekHC90-1b1Dq0Om9cfG3bttHMAmKj-gb1c5wg.0KwfHyZgxeK6AYFfigQTy4Ty1nUchmt7duhU3CQNelcg.JPEG/j9zibdup.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**엔비디아 SOCAMM 변경 파장**\n\n미국 맞춤형 인공지능(AI) 칩 설계회사 엔비디아가 차세대 AI 서버 랙인 Vera Rubin NVL72의 메모리 구성 계획을 변경하면서 삼성전자, SK하이닉스, 마이크론 등 주요 메모리 반도체 기업들의 주가가 큰 폭으로 하락했다. 이는 AI 데이터센터에서 중요성이 부각되던 저전력 D램(LPDDR) 기반 SOCAMM 모듈의 탑재량이 당초 예상보다 대폭 줄어들었기 때문이다. 그러나 시장의 주가 하락 반응은 실제 영향보다 과도하게 나타났으며, 이는 LPDDR의 성장 기대감에 일시적으로 금이 간 결과로 풀이된다. 엔비디아의 LPDDR 탑재량 축소는 수요 감소가 아닌 공급 부족에 기인한다는 분석도 제기된다.\n\n엔비디아는 2026년 6월 5일 세미애널리시스의 모닝 브리프를 통해 Vera Rubin NVL72 랙의 메모리 용량을 기존 55TB에서 28TB로 절반 가까이 축소한다고 밝혔다. 당초 CES 2026에서 발표된 계획은 192GB LPDDR 8개를 탑재한 CPU 36개로 구성되어 CPU당 1.5TB, 총 54~55TB 용량이었다. 그러나 변경된 계획에 따르면, 96GB LPDDR 8개를 탑재하여 CPU당 768GB, 총 28TB로 줄어든다. NVL72 랙의 전체 원가는 760만 달러에서 680만 달러로 약 10% 낮아질 것으로 추정되며, 이 중 HBM은 150만 달러, LPDDR은 50만 달러 비중으로 알려져 LPDDR이 전체 가격에서 차지하는 비중은 상대적으로 작다. 보고서는 엔비디아가 LPDDR 탑재량을 줄인 이유를 수요 감소가 아닌 충분한 LPDDR 확보의 어려움, 즉 공급 부족 때문이라고 지적했다.\n\n이번 엔비디아의 SOCAMM 계획 변경은 LPDDR이 스마트폰 시장의 성숙을 넘어 AI 데이터센터라는 새로운 성장 동력을 확보할 것이라는 시장의 기대감에 단기적인 불확실성을 가중시켰다. 하지만 HBM과 같은 핵심 고부가가치 메모리의 수요는 여전히 견고하며, LPDDR 자체의 AI 서버 적용 추세는 유효하므로 장기적인 관점에서 시장의 근본적인 성장 가설이 훼손된 것은 아니다. 향후 LPDDR 공급망 안정화 여부와 엔비디아를 비롯한 주요 AI 기업들의 메모리 채택 전략 변화가 시장의 다음 주요 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-08T12:43:25.046497Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
