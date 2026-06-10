@@ -1,0 +1,19 @@
+{
+  "video_id": "zOElsRLP_N0",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프 \"이란 공습 임박\" | 5월 CPI 발표 | 트럼프 행정명령 기자회견 | 실적발표: 오라클 | 미국주식, 비트코인 방송",
+  "published_at": "2026-06-10T11:13:44Z",
+  "video_url": "https://www.youtube.com/watch?v=zOElsRLP_N0",
+  "thumbnail_url": "https://i.ytimg.com/vi/zOElsRLP_N0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-10T11:44:41.102289Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
