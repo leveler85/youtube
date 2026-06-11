@@ -1,0 +1,19 @@
+{
+  "video_id": "224312087790",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "오늘(2026년 6월 11일)이 국장 네마녀의 날이다. 어떤 영향이..",
+  "published_at": "2026-06-10T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224312087790",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MTBfMTk3/MDAxNzgxMDkwMzkzMDA0.bswOlQPx2bIfZ0OQNzY4yy2Z4rYnFoSI63IFS4PpVuMg.OlzKwfGwOTHoT4waXOhRAGtnfEzdI-crio6yaXRjEGQg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**국내 증시 네마녀의 날**\n\n2026년 6월 11일은 코스피200 선물·옵션, 개별주식 선물·옵션 등 네 가지 파생상품의 만기가 동시 도래하는 국내 네마녀의 날이다. 당일 발표된 CPI 4.2%, 근원 CPI 2.9%는 무난했으나, 불안정한 거시경제 환경과 삼성전자, SK하이닉스 등 대형주에 쌓인 대규모 파생상품 물량이 청산 매물로 출회될 경우 시장에 큰 충격이 우려된다.\n\n미국은 3, 6, 9, 12월 셋째 주 금요일이 세마녀의 날이지만, 2022년부터 0DTE(당일만기 옵션) 확대(시장 24% 차지)로 그 변동성 효과가 약화되는 추세다. 반면 한국은 같은 분기 두 번째 목요일이 네마녀의 날이며, TIGER, KODEX, ACE 등 대형 ETF 증가에 따른 선물 헤지 확대로 그 영향력이 오히려 증대되고 있다. 만기일에는 기관의 포지션 청산 및 롤오버가 집중되며, 특히 장 마감 동시호가(오후 3시 20분~30분)의 '마녀의 시간'에는 프로그램 매매로 지수가 급격히 요동치는 '널뛰기' 현상이 자주 발생한다.\n\n네마녀의 날 외 6월 12일은 코스피200·코스닥150 지수 반기 리밸런싱이 예정되어 있다. HD현대건설기계, DB하이텍, 달바글로벌, OCI 등이 편입되고 GS건설, 세방전지, GKL, 녹십자홀딩스가 편출되는 등 종목 변경이 확정되어 외국인과 기관 투자자들 간의 격렬한 공방이 예상된다. 일본은행 금리 결정, FOMC 등 주요 글로벌 이벤트까지 겹치는 향후 1주일간은 국내 증시의 변동성 확대에 대비한 투자자들의 철저한 시장 주시와 위험 관리가 필수적이다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-11T12:18:17.271427Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
