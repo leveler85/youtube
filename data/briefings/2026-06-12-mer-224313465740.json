@@ -1,0 +1,19 @@
+{
+  "video_id": "224313465740",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "트럼프, 이란과 \"종전 관련 훌륭한 합의를 끝냈다\" 발표",
+  "published_at": "2026-06-11T20:50:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224313465740",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MTJfMjg5/MDAxNzgxMjA5MzY5MTk4.t2nRwKDEJCFcII_p3VsK6R85t1XdEWAFnFLuzfNgB_sg.pzjGgn2AcWY9qGlXtRkO0vMj8Qu4bw71ol1_SeiCd5kg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**트럼프, 이란 종전 합의 발표**\n\n도널드 트럼프는 2026년 6월 12일, 이란과의 \"훌륭한 종전 합의\"를 마무리했다고 전격 발표했다. 이 합의는 이란의 핵무기 보유·개발 금지를 조건으로, 성사 시 호르무즈 해협 봉쇄 해제 및 에너지·비료 가격 대폭 하락을 약속한다. 그러나 이란과 이스라엘 양측의 유보적 반응과 법적 구속력 없는 양해각서(MOU) 형식으로 인해 이행 불확실성이 상존한다.\n\n트럼프는 네타냐후 이스라엘 총리, 카타르, 사우디, UAE 정상들과 합의안 논의를 주장했으나, 이스라엘 총리실은 \"MOU 당사국은 이란과 미국이고 이스라엘은 아니다\"라며 선을 그었다. 이란 파르스 통신은 초기 합의 승인을 부인했지만, 트럼프는 이란 초안을 수용했고 최고지도자 하메네이도 승인한 것으로 안다고 밝혔다. 발표 직후 미국 증시(다우, 나스닥, S&P 500)와 암호화폐는 상승, 국채 금리는 하락하는 긍정적 시장 반응을 보였다. 그러나 미국 시장 마감 후 이란 외무부 대변인은 트럼프의 합의안 변경을 이유로 이란이 최종 결정을 유보했으며, \"레드라인에 대해서는 절대 타협하지 않겠다\"고 선언해 난관을 예고했다.\n\n트럼프의 발표는 글로벌 에너지 시장과 중동 정세에 큰 영향을 미칠 수 있으나, 이란과 이스라엘의 상이한 입장 및 법적 구속력 없는 MOU 형식으로 인해 실제 이행까지는 난항이 예상된다. 호르무즈 해협 봉쇄 해제와 에너지 가격 안정화 공약 실현 여부는 이란의 '레드라인'과 최종 합의안의 세부 조율, 유럽에서의 최종 서명 과정에 달렸다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-12T11:51:56.002322Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
