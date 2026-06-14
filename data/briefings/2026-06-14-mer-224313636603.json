@@ -1,0 +1,19 @@
+{
+  "video_id": "224313636603",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "국세청이 대단한 점",
+  "published_at": "2026-06-14T08:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224313636603",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MTJfMjYg/MDAxNzgxMTk4NjExMjUx.YrfQQUJYjsPAygnLWUjkmwJhqfgZQJMhiFu9uC6vvygg.e--pwyO3v25VmgyTvaueHm3svKCwJVxu1Z_mBfRwDKsg.JPEG/xrr6txix.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**국세청의 막강한 정보력**\n\n국세청은 개인의 금전 거래 및 법적 분쟁 기록을 다각도로 분석하여 과세 집행의 강력한 권한을 행사한다. 이 사례는 단순히 계좌 내역을 넘어 민형사상 진술까지 활용해 세금을 추징할 수 있음을 명확히 보여준다. 특히 개인 간의 복잡한 금전 관계가 증여세 부과 대상이 되는지를 판단하는 과정에서 사법기관의 기록이 결정적인 역할을 할 수 있다.\n\n이 사건은 2004년 미성년자와 조건만남으로 시작해 2012년까지 관계를 지속하며 9억3000만원을 지원받은 A씨와 이를 지급한 B씨의 이야기다. B씨는 A씨에게 7억원의 대여금 반환 소송을 제기했으나 패소했으며, 사기 혐의 고소에서도 A씨가 \"연인 관계에서 지원받은 것\"이라고 진술해 불기소 처분을 받았다. 그러나 2018년 반포세무서는 A씨의 부동산 취득 자금 출처를 조사하여, B씨로부터 입금된 9억3000만원 중 9억2000만원에 대해 증여세 5억3000만원을 A씨에게 부과했다. 법원은 A씨가 과거 사기 혐의 수사 과정에서 \"B씨가 연인 관계에서 지원해 준 것\"이라고 진술했던 점을 근거로, A씨의 \"성매매 대가\" 주장을 배척하고 증여세 부과가 정당하다고 판결했다. 이는 국세청이 금융거래 내역은 물론 민사판결문과 형사 수사기록까지 증거로 활용할 수 있음을 보여준다.\n\n이 사례는 국세청이 경찰이나 검찰보다 광범위한 정보 접근 및 활용 능력을 가질 수 있음을 시사한다. 개인은 복잡한 법적 분쟁 과정에서 이루어진 진술이 미래의 세금 문제로 이어질 수 있음을 인지해야 한다. 따라서 민상법, 세법, 주택임대차보호법 등 기본적인 법률 지식을 갖추는 것이 현대 사회를 살아가는 데 필수적이다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-14T10:56:06.461843Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
