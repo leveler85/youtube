@@ -1,0 +1,19 @@
+{
+  "video_id": "xVQMhw817uo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "6/18 (목) 미국과 이란 진짜 화해 한 걸까? (알파고 시나씨 / 중동전문기자)",
+  "published_at": "2026-06-18T11:38:46Z",
+  "video_url": "https://www.youtube.com/watch?v=xVQMhw817uo",
+  "thumbnail_url": "https://i.ytimg.com/vi/xVQMhw817uo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-18T11:54:04.083550Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
