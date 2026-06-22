@@ -1,0 +1,19 @@
+{
+  "video_id": "224322350093",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "삼성전자와 SK하이닉스가 긴급 공급망 점검을 하는 이유",
+  "published_at": "2026-06-21T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224322350093",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MjFfMjY1/MDAxNzgyMDA0MDM4Mzcy.JM5rc6W9YkYOzn8hFo24xclqHiiClSxjX08iv7vmNTcg.6YdTL3Ttsa-bMjXk2ATitahjKlCUd8BrrH4ZAcTlJ4Mg.PNG/Gemini_Generated_Image_ruyv6eruyv6eruyv.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**중국 발 반도체 소재 공급망 위기**\n\n일본의 대만 유사시 개입 시사 발언(2025년 11월) 이후 중국이 일본에 전략 광물 수출 통제(2026년 1월 6일)를 단행하면서 글로벌 반도체 공급망에 심각한 차질이 발생했다. 당초 예상과 달리 희토류가 아닌, 반도체 생산 필수 소재인 고순도 텅스텐 분말 공급이 문제가 되었다. 이로 인해 삼성전자와 SK하이닉스 등 주요 반도체 기업들이 긴급 공급망 점검에 나섰으며, 이는 한국 반도체 산업에도 직접적인 위협으로 작용하고 있다.\n\n중국이 일본에 전략 광물 수출 통제 조치를 시행하자, 일본 간토덴카와 센트럴글래스는 고순도 텅스텐 분말 확보에 실패했다. 이 분말은 HBM 및 7나노 이하 첨단 공정에서 '칩의 혈액'으로 불리는 육불화텅스텐(WF₆) 가스의 필수 원료다. 일본 기업들은 WF₆ 가스 생산에 필요한 고순도 텅스텐 분말을 거의 100% 중국에서 수입해 왔으며, 대체처를 찾지 못하자 2026년 7월 1일부터 TSMC, 삼성전자, SK하이닉스 등 주요 고객사에 WF₆ 공급 중단을 통보했다. 이는 전 세계 WF₆ 연간 소비량 8,000톤 중 2,200톤의 공급 중단을 의미하며, 직전 1년간 분말 가격이 6배 가까이 폭등했음에도 이제는 가격이 아닌 공급 자체가 불확실한 상황이다. 한국의 SK스페셜티와 후성 또한 WF₆ 생산에 중국산 텅스텐 분말에 의존하고 있어, 한국 역시 중국의 수출 통제 대상이 될 수 있는 위험에 노출되어 있다.\n\n이번 사태는 첨단 산업 핵심 소재 공급망이 특정 국가에 집중될 때 발생하는 취약성을 명확히 보여준다. 이에 따라 반도체 강국인 한국은 핵심 소재의 중국 의존도를 낮추고 공급망 다변화를 시급히 추진해야 한다. 워렌 버핏의 버크셔해서웨이 손자회사인 대구텍이 2024년 2월 7일 1,300억원(약 1억 달러)을 투자해 반도체 특수가스용 텅스텐 분말 제조시설을 대구에 건설하기로 한 것은 중요한 자구책이 될 것으로 보인다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-22T13:41:53.010493Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
