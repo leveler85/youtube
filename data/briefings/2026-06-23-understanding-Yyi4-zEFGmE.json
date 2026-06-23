@@ -1,0 +1,19 @@
+{
+  "video_id": "Yyi4-zEFGmE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 6/23(화) 최태원도 깜짝 놀랄 8조짜리 이혼 소송 (김수헌 기업경제센터장 / MTN)",
+  "published_at": "2026-06-23T07:03:15Z",
+  "video_url": "https://www.youtube.com/watch?v=Yyi4-zEFGmE",
+  "thumbnail_url": "https://i.ytimg.com/vi/Yyi4-zEFGmE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-23T11:21:39.814448Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
