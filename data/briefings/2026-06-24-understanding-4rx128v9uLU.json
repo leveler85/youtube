@@ -1,0 +1,19 @@
+{
+  "video_id": "4rx128v9uLU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 6/24(수) 70세는 버스 공짜 서울시 재정 괜찮나? (백종훈 기자 / 언더스탠딩)",
+  "published_at": "2026-06-24T08:14:45Z",
+  "video_url": "https://www.youtube.com/watch?v=4rx128v9uLU",
+  "thumbnail_url": "https://i.ytimg.com/vi/4rx128v9uLU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-24T10:55:35.082900Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
