@@ -1,0 +1,19 @@
+{
+  "video_id": "H9HHgrqghCo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 6/25(목) 한국 금융 달라진다 이제 AI 제대로 쓴다 (김승주 교수 / 고려대 정보보호대학원)",
+  "published_at": "2026-06-25T06:46:56Z",
+  "video_url": "https://www.youtube.com/watch?v=H9HHgrqghCo",
+  "thumbnail_url": "https://i.ytimg.com/vi/H9HHgrqghCo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-25T10:46:37.514604Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

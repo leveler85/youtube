@@ -1,0 +1,19 @@
+{
+  "video_id": "sBdbXlM8fkA",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 마이크론, SK 하이닉스 폭등 · AI 베팅 부활 | 코스피 5% 상승, 코스피 9,000 근접 | 5월 PCE 물가지수 | 미국주식, 비트코인 방송",
+  "published_at": "2026-06-25T07:15:25Z",
+  "video_url": "https://www.youtube.com/watch?v=sBdbXlM8fkA",
+  "thumbnail_url": "https://i.ytimg.com/vi/sBdbXlM8fkA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-25T10:49:09.917778Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

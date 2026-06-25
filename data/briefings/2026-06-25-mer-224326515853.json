@@ -1,0 +1,19 @@
+{
+  "video_id": "224326515853",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "SK하이닉스가 7월 10일 나스닥에 상장(ADR)한다. 어떤 영향이?",
+  "published_at": "2026-06-24T22:30:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224326515853",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MjVfMTc5/MDAxNzgyMzM4OTE5OTgy.oAV4QS0XWjens9hJWxVZMaJSDarmjrDlRbGjfNKayMYg.xxxCTAm-MSxO0KnCcT-hE90D_NIJe0hYEss5i1Ii9RIg.JPEG/o9wpub0t.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**SK하이닉스 나스닥 상장**\n\nSK하이닉스가 2026년 7월 10일 나스닥 시장에 미국주식예탁증서(ADR) 방식으로 상장하며 300억 달러(약 45조 원) 규모의 자금 조달을 목표로 한다. 이 조달 자금은 전액 반도체 시설 투자에 사용될 예정으로, 역대 최대급 딜 중 하나가 될 전망이다. SK하이닉스는 이번 상장을 통해 '코리아 디스카운트'로 저평가된 기업 가치를 미국 시장에서 재평가받는 긍정적인 효과를 기대하고 있다.\n\nSK하이닉스는 2026년 3월 미국 증권위원회(SEC)에 비공개로 공모 신청서를 제출한 뒤, 6월 24일 이사회를 열어 나스닥 상장을 위한 ADR 발행 안건을 공식 의결했다. 이번 발행은 제3자 배정 유상증자 방식으로 이루어지며, 발행 물량은 SK하이닉스 전체 주식의 2.5% 수준이다. 이는 공정거래법상 지주사 SK스퀘어가 SK하이닉스 지분을 20% 이상 유지해야 하는 규정(현재 20.5%)을 준수하기 위함이다. 발행된 신주는 씨티은행에 맡겨지고, 씨티은행이 이를 담보로 미국에서 주식처럼 거래 가능한 대체증서(ADR)를 발행한다. ADR 1주는 기존 원주 0.1주에 해당하도록 설정되어 원주 가격의 1/10 수준으로 액면분할 효과를 낸다. 당초 3월 신청 당시에는 140억 달러 조달을 예상했으나, 주가 급등으로 최종 조달 규모는 300억 달러로 두 배 이상 증가했다. 이 자금은 용인 반도체 클러스터 팹 건설, 충북 청주 패키징 팹(P&T7) 구축, EUV 장비 도입 등 핵심 시설 투자에 전액 투입될 예정이다.\n\n비록 2.5%의 유상증자로 기존 주주의 가치 희석 우려가 존재하지만, 미국 시장 직접 상장을 통한 기업 가치 재평가(Re-rating) 효과가 더 클 것으로 기대된다. 과거 TSMC의 나스닥 ADR 상장 사례에서 ADR이 대만 본주보다 10% 이상 높은 프리미엄으로 거래되며 주가에 긍정적인 영향을 미친 바 있다. 또한, 300억 달러의 상당 비중이 국내 시설 투자에 투입됨에 따라 환율 안정에도 기여할 수 있을 것이나, 미국 시장의 특성상 주가 급락 시 활발한 집단소송에 대한 대비는 필요하다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-25T10:50:09.615070Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

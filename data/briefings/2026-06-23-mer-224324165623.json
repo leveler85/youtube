@@ -1,0 +1,19 @@
+{
+  "video_id": "224324165623",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "트럼프, 새로운 행정명령에 서명하다. (feat 양자내성암호,양자컴)",
+  "published_at": "2026-06-22T22:46:15Z",
+  "video_url": "https://blog.naver.com/ranto28/224324165623",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MjNfOTIg/MDAxNzgyMTY2NTkwNjM2.5mWgHB3syOdVsdGWuvl8vtZEh5KTbVmo_QpUK0LWlMIg.1UiIKtjXPuNN2e3tTIJ-_32QX3hmwFwzBwiwtjFt5XEg.JPEG/3qzxfurt.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**미국, 양자 기술 안보화 및 가속화**\n\n도널드 트럼프 전 대통령은 최근 두 가지 행정명령에 서명하며 미국의 양자 기술 전략에 중요한 변화를 가져왔다. 이는 연방 기관의 양자내성암호(PQC) 전환 시기를 앞당기고, 국가 차원의 강력한 양자 컴퓨터 개발을 지시하는 내용이다. 이번 조치는 급변하는 양자 컴퓨팅 기술 발전과 미·중 간의 치열한 양자 기술 경쟁 상황을 반영하며, 양자 기술을 단순한 산업 분야를 넘어 국가 안보 자산으로 격상시킨다. 미국은 소프트웨어 기반의 양자내성암호(PQC)에 집중하며 양자 보안 인프라를 신속히 전환하고, 동시에 첨단 양자 컴퓨팅 역량을 확보하려 한다.\n\n첫 번째 행정명령은 양자내성암호(PQC) 전환과 관련하여, 미국 연방 기관의 전환 시한을 기존 2035년에서 2031년으로 4년 단축했다. 이는 구글 퀀텀 AI의 크레이그 기드니가 2025년 5월 arXiv에 발표한 논문이 촉발했는데, 이 논문은 2048비트 RSA 암호를 100만 개 미만의 큐비트로 일주일 내에 해독할 수 있음을 입증했다. 이는 2019년 2천만 개 이상의 큐비트가 필요할 것으로 예상되었던 것에 비해 95% 이상 감소한 수치로, 암호 해독 가능성이 훨씬 빨라졌음을 의미한다. 이와 함께 FBI와 미국 정보 당국에 양자 연구를 중국 스파이 활동으로부터 보호하라는 방첩 임무가 부여되어, 양자 기술이 안보 자산으로 분류되었음을 명확히 했다.\n\n두 번째 행정명령은 정부 차원의 양자 컴퓨터 개발을 지시하며, 2028년까지 국립 연구소에 과학적으로 유의미한 수준의 강력한 양자 컴퓨터를 설치하는 'QC-ADDS'(Quantum Computer for Application Development and Discovery Science) 프로젝트를 추진한다. 이를 위해 미국 상무부는 2026년 5월 9개 양자 기업에 총 20억 달러를 배정했는데, IBM 분사 기업에 10억 달러, GlobalFoundries에 3억 7,500만 달러, D-Wave, Rigetti, Infleqtion 등에 각각 1억 달러가 투자되었으며, 미국 정부는 이에 대한 대가로 지분을 확보한다.\n\n이번 행정명령들은 양자 기술이 더 이상 미래 기술이 아닌, 현재의 국가 안보 및 경제 패권을 결정짓는 핵심 자산임을 보여준다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-25T10:50:45.138993Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
