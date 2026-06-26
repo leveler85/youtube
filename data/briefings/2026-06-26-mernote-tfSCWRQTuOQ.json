@@ -1,0 +1,19 @@
+{
+  "video_id": "tfSCWRQTuOQ",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "SK하이닉스 美 나스닥행… 45조 쓸어 담는다",
+  "published_at": "2026-06-26T08:53:40Z",
+  "video_url": "https://www.youtube.com/watch?v=tfSCWRQTuOQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/tfSCWRQTuOQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-26T10:57:48.486881Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "224327359398",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "PCE 4.1%에도 케빈 워시가 금리 인하를 할 수 있는 방법이",
+  "published_at": "2026-06-25T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224327359398",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MjVfMjQ3/MDAxNzgyMzkyMTczNjcz.SYP_O1FM3495T05Caf3opSynJJzs2lD4SbmC2f5IFHUg.TxMiJ9SMCKe6W-4Hj3Es6-ATKnijZQLGwq1AEkKTroEg.PNG/Gemini_Generated_Image_50kntn50kntn50kn.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**워시의 지표 변경 인하**\n\n현재 인플레이션 수치가 3년 만에 최고 수준임에도 불구하고, 신임 연준 의장으로 거론되는 케빈 워시가 물가 지표 기준을 변경하여 금리 인하의 명분을 마련할 수 있다는 시나리오가 제시되었다. 과거 연준이 물가 지표를 재정의하며 통화 정책 목표 달성을 용이하게 했던 전례를 따를 가능성이 있다는 분석이다. 이는 실제 인플레이션 압력과 무관하게 지표상의 수치를 조정하여 정책적 유연성을 확보하려는 시도로 풀이된다.\n\n최근 발표된 PCE는 4.1%, 근원 PCE는 3.4%로, 각각 3.8%와 3.3%에서 상승하여 3년 만에 가장 높은 수준을 기록했다. 과거 인플레이션 시기, 아서 번즈 연준 의장은 월남전 비용으로 인한 인플레이션과 실업률 문제를 동시에 해결하고자 유가, 곡물 등 변동성이 큰 품목을 제외한 근원 소비자물가지수(Core CPI)를 도입하여 물가지수를 낮게 보이게 했다. 2000년 2월에는 앨런 그린스펀 의장 주도로 CPI 대신 소비자의 대체효과를 반영하여 약 0.4%p 낮게 나오는 개인소비지출(PCE)을 주 물가지표로 채택하며 물가 목표 달성을 용이하게 한 바 있다. 케빈 워시는 신임 연준 의장 인준 청문회에서 근원 PCE도 불충분하다며, 극단치(outlier)를 제거하는 절사 평균(trimmed averages) 지표를 선호한다고 밝혔다. 실제로 PCE가 3.8%, 근원 PCE가 3.3%였을 때 절사 평균은 2.3%로 나타나, 연준의 2.0% 목표치에 훨씬 근접한 수치를 보였다. 워시는 이 절사 평균을 기준으로 현재 인플레이션 추세를 \"상당히 양호하다\"고 평가했다.\n\n이러한 움직임은 과거 연준이 '골대'를 옮겨가며 통화 정책을 운용했던 전례를 반복하려는 시도로 해석된다. 케빈 워시가 절사 평균 PCE를 주 지표로 채택한다면, 현재의 높은 물가 수치에도 불구하고 금리 인하의 명분을 마련할 수 있을 것으로 예상된다. 하지만 절사 평균은 극단적인 값만 제거하므로, 식품과 에너지가 서서히 오르는 경우에는 근원 PCE보다 더 높은 수치를 보일 수 있으며, 장기적으로는 통화 정책의 신뢰성 저하로 이어질 수 있다는 점이 지적된다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-26T10:58:52.032361Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

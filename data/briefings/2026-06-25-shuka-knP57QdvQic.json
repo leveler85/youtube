@@ -1,0 +1,19 @@
+{
+  "video_id": "knP57QdvQic",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "충격의 신임 연준 의장 첫 FOMC 발언",
+  "published_at": "2026-06-25T11:07:47Z",
+  "video_url": "https://www.youtube.com/watch?v=knP57QdvQic",
+  "thumbnail_url": "https://i.ytimg.com/vi/knP57QdvQic/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-26T10:55:33.319705Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
