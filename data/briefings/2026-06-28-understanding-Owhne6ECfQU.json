@@ -1,0 +1,19 @@
+{
+  "video_id": "Owhne6ECfQU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "쿠바 대사의 경고 \"미국이 공격하면 전쟁뿐\" (클라우디오 라울 몬손 바에사 주한 쿠바 대사)",
+  "published_at": "2026-06-28T05:55:24Z",
+  "video_url": "https://www.youtube.com/watch?v=Owhne6ECfQU",
+  "thumbnail_url": "https://i.ytimg.com/vi/Owhne6ECfQU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-28T10:30:23.644453Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

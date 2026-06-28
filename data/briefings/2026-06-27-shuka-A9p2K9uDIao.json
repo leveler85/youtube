@@ -1,0 +1,19 @@
+{
+  "video_id": "A9p2K9uDIao",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "세계적인 검열 강국이 되어가는 나라",
+  "published_at": "2026-06-27T11:48:44Z",
+  "video_url": "https://www.youtube.com/watch?v=A9p2K9uDIao",
+  "thumbnail_url": "https://i.ytimg.com/vi/A9p2K9uDIao/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-28T10:30:14.234985Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
