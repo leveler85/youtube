@@ -1,0 +1,19 @@
+{
+  "video_id": "224329357905",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "7월에 국민연금은 국내주식을 어느정도 처분할까?",
+  "published_at": "2026-06-28T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224329357905",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA2MjhfMjAw/MDAxNzgyNTk0MTcxMzQ3.zxuUqxUmAnUYrtQzMs_2BNRnWfH912heY-44RNNWIs8g.zMcrAwtoI3Nskd4lYGqYXlHN0omomMpEYbwKUkVtnS8g.JPEG/pqlo4cod.JPG?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**국민연금 국내주식 리밸런싱 완화**\n\n국민연금은 국내주식 비중이 목표치를 크게 초과하면서 대규모 매도 압박에 직면했으나, 비공개적인 자산배분 허용범위 확대를 통해 실제 리밸런싱 매도 규모를 대폭 축소했다. 특히, 전략적 자산배분(SAA) 조정과 전술적 자산배분(TAA) 활용 가능성으로 인해 국내 증시에 미칠 충격은 예상보다 작아질 것으로 보인다. 이는 국민연금이 시장에 미치는 영향을 최소화하려는 의도로 해석된다.\n\n2026년 3월 국민연금의 국내주식 비중은 21.0%였고, 올해 자산군별 목표 비중은 14.9%로 설정되었다. 일반적으로 SAA ±3%포인트와 TAA ±2%포인트를 합쳐 국내주식을 최대 19.9%까지 보유할 수 있었다. 현재 국내주식 비중은 코스피 및 코스닥 변동을 반영해 약 29.5%로 추정되며, 이는 목표치를 크게 상회한다. 그러나 국민연금이 비공개적으로 SAA 허용범위를 기존 3%포인트에서 6%포인트로 확대하면서, 국내주식 보유 한도가 26.8%까지 늘어났다. 이 경우 리밸런싱을 통해 처분해야 할 금액은 2.7%포인트에 해당하는 약 49조원(1%포인트당 18조원 기준)으로 감소한다. 더 나아가 TAA 2%포인트를 최대로 활용한다면 허용 한도는 28.8%까지 상승하며, 실제 매도 물량은 0.7%포인트인 약 13조원 수준으로 더욱 줄어들 것으로 분석된다.\n\n이러한 국민연금의 리밸런싱 정책 변화는 국내 주식시장에 미칠 잠재적 충격을 완화할 것이며, 대규모 매도 우려가 줄어든다는 점에서 긍정적이다. 그러나 국민연금으로부터 국내 주식시장에 신규 자금이 유입될 가능성은 당분간 희박하다. 향후 코스피 지수가 8,200선 아래로 하락하면 자연스러운 리밸런싱 효과로 인해 추가적인 매도가 필요 없어질 수도 있다.",
+  "failure_reason": null,
+  "generated_at": "2026-06-29T12:41:45.979182Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
