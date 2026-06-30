@@ -1,0 +1,19 @@
+{
+  "video_id": "sGrU87PLkqQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "아우디 마을의 충격적 몰락 (해담경제연구소 어예진 소장) (1부)",
+  "published_at": "2026-06-30T07:55:04Z",
+  "video_url": "https://www.youtube.com/watch?v=sGrU87PLkqQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/sGrU87PLkqQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-30T11:13:53.957445Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "gqVSBJXz7cY",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "미국이 결국 실패한 현대 최악의 도박 [지구본 도서관]",
+  "published_at": "2026-06-29T22:00:02Z",
+  "video_url": "https://www.youtube.com/watch?v=gqVSBJXz7cY",
+  "thumbnail_url": "https://i.ytimg.com/vi/gqVSBJXz7cY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-30T11:14:23.142708Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

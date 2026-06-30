@@ -1,0 +1,19 @@
+{
+  "video_id": "KqAe5waUoj0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 6/30(화) AI 랠리의 이면 커지는 금융 리스크 (신보성 연구위원 / 자본시장연구원)",
+  "published_at": "2026-06-30T08:30:45Z",
+  "video_url": "https://www.youtube.com/watch?v=KqAe5waUoj0",
+  "thumbnail_url": "https://i.ytimg.com/vi/KqAe5waUoj0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-30T11:13:48.739292Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

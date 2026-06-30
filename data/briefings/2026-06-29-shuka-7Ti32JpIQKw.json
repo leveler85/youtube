@@ -1,0 +1,19 @@
+{
+  "video_id": "7Ti32JpIQKw",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "4,500조 대도약 메가 프로젝트 발표",
+  "published_at": "2026-06-29T13:36:10Z",
+  "video_url": "https://www.youtube.com/watch?v=7Ti32JpIQKw",
+  "thumbnail_url": "https://i.ytimg.com/vi/7Ti32JpIQKw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-06-30T11:13:37.735281Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
