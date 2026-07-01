@@ -1,0 +1,19 @@
+{
+  "video_id": "FT5uedq02nY",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "과연 전술만 문제였을까? 한국 축구만 외면하는 '이것' [지구본 특별편]",
+  "published_at": "2026-07-01T09:00:30Z",
+  "video_url": "https://www.youtube.com/watch?v=FT5uedq02nY",
+  "thumbnail_url": "https://i.ytimg.com/vi/FT5uedq02nY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-01T11:29:53.809976Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
