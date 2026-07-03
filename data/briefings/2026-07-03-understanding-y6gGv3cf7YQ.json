@@ -1,0 +1,19 @@
+{
+  "video_id": "y6gGv3cf7YQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/3(금) 아인슈타인은 왜 음악 살롱에 다녔을까? (노벨상의 숨은 공식) (민태기 소장/에스엔에이치연구소)",
+  "published_at": "2026-07-03T06:15:53Z",
+  "video_url": "https://www.youtube.com/watch?v=y6gGv3cf7YQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/y6gGv3cf7YQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-03T10:41:10.320608Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
