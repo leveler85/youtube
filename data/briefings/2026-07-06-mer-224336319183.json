@@ -1,0 +1,19 @@
+{
+  "video_id": "224336319183",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "SK하이닉스 상장으로 인한 환율안정 효과가 이미 끝났나?",
+  "published_at": "2026-07-05T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224336319183",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MDRfMjcy/MDAxNzgzMTUyNDcyNTk0.raM2Uc1YUGUPfvDgaRtmCVaL3kWrtGA8hm82vb27WkAg.PcFGYJA237Z0vqQRTNmWwUUCpCg7ad-OQW9vKTcZn4Eg.JPEG/bdkiaxf6.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**SK하이닉스 상장 환율 효과**\n\n최근 원/달러 환율 하락은 SK하이닉스의 미국 상장 관련 자금 유입이 선물환 매도를 통해 시장에 사전에 반영된 결과로 분석된다. 실제 달러가 유입되는 시기보다 앞서 대규모 달러 공급이 이루어져 환율 안정에 기여했다는 것이다. 이는 상장 자금의 국내투자 확정으로 인한 선물환 매도라는 이례적인 조치가 동반된 것으로 풀이된다.\n\n환율은 최근 12.5원 하락하여 1,530원을 기록했다. 서울경제신문 보도에 따르면 외환당국 고위 관계자는 \"SK하이닉스 관련 물량이 일부 나왔거나, 시장에 선반영됐을 가능성이 있다. 환율 하락도 일부 물량 출회 또는 선반영으로 볼 수 있다\"고 언급했다. 블룸버그는 SK하이닉스가 7월 15일 290억달러를 한국으로 들여와 용인과 청주 반도체 시설 건설 등 국내 투자에 사용할 계획이라고 보도했다. 이 자금은 7월 10일 거래 개시, 14일 납입을 거쳐 15일 유입될 예정이다. 290억달러는 2025년 기준 한국 외환 현물시장의 하루 평균 거래량인 324억달러와 비슷한 규모로, 이 금액 중 200억달러가 1,550원의 선물환으로 매도되었다고 가정하면 국내 현물 시장에 200억달러(원화 약 31조원)가 공급되는 효과를 가져온다.\n\n이번 SK하이닉스 상장 관련 자금 유입은 실제 달러 유입일보다 선물환 계약을 통해 시장에 선제적으로 달러 유동성을 공급하여 환율 안정에 중요한 영향을 미쳤다. 이는 기업이 상장일 환율 변동 위험을 회피하고 수익을 확정하려는 동시에 외환 당국과의 협조 가능성을 시사한다. 향후 SK하이닉스 상장 자금의 실제 유입 규모와 선물환 매도 비중이 환율에 미칠 추가적인 영향에 주목해야 한다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-06T12:10:45.819678Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
