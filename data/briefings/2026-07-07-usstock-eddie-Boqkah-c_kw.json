@@ -1,0 +1,19 @@
+{
+  "video_id": "Boqkah-c_kw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 삼성전자 잠정실적 89조원 '뉴스에 팔아라' | 트럼프 NATO 정상회담 | 경제낙관지수, 무역수지 발표 | 미국주식, 비트코인 방송",
+  "published_at": "2026-07-07T09:11:15Z",
+  "video_url": "https://www.youtube.com/watch?v=Boqkah-c_kw",
+  "thumbnail_url": "https://i.ytimg.com/vi/Boqkah-c_kw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-07T11:14:40.740590Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
