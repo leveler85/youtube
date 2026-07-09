@@ -1,0 +1,19 @@
+{
+  "video_id": "wvlmiCUwods",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/9(목) 반도체 종목, 6월부터 확신을 접은 이유 (배문성 이사 / 라이프자산운용)",
+  "published_at": "2026-07-09T07:15:45Z",
+  "video_url": "https://www.youtube.com/watch?v=wvlmiCUwods",
+  "thumbnail_url": "https://i.ytimg.com/vi/wvlmiCUwods/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-09T11:05:32.679998Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
