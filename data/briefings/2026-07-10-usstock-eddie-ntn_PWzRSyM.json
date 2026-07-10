@@ -1,0 +1,19 @@
+{
+  "video_id": "ntn_PWzRSyM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스 美 IPO 시작…반도체 지금이 매수 기회인 이유",
+  "published_at": "2026-07-10T08:05:11Z",
+  "video_url": "https://www.youtube.com/watch?v=ntn_PWzRSyM",
+  "thumbnail_url": "https://i.ytimg.com/vi/ntn_PWzRSyM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-10T11:01:36.780949Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
