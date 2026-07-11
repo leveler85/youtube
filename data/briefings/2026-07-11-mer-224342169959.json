@@ -1,0 +1,19 @@
+{
+  "video_id": "224342169959",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "HLB 간암신약 미국FDA승인 불발의 비밀 A/S",
+  "published_at": "2026-07-10T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224342169959",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MTBfMjIg/MDAxNzgzNjQxNDg4NzUw.d1-eLXc6CqdeM3ucPxzHSbLcJdYFUEguHg7OdycBJ84g.l8f7iOdb0qOESGOY_IT4KPgF_vrQyXwK6SL-FRsRjhAg.JPEG/1511333.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**HLB 간암신약, FDA 승인 지연 장기화**\n\nHLB의 간암신약 리보세라닙과 중국 항서제약의 캄렐리주맙 병용요법이 미국 식품의약국(FDA) 승인 과정에서 제조 및 품질 관리 문제로 반복적인 보완요구서(CRL)를 수령하며 승인이 지연되고 있다. FDA는 리보세라닙의 단독 유효성을 인정하지 않고 캄렐리주맙의 승인 없이는 허가를 불허한다는 입장을 고수하고 있으며, 항서제약 제조시설의 cGMP(우수 의약품 제조 및 품질 관리 기준) 관련 지적 사항 해소와 사전승인실사(PAI) 통과를 요구하고 있다. 이로 인해 HLB의 신약 허가 도전은 장기화될 전망이다.\n\nHLB는 2019년 6월 리보세라닙 단독 임상 3상 실패 후, 캄렐리주맙과의 병용요법으로 재도전하여 2023년 5월 FDA에 신약 허가 신청서(NDA)를 제출했다. 그러나 2024년 5월 1차 CRL을 통해 캄렐리주맙의 CMC(제조·품질관리)와 BIMO(임상 현장 실사) 두 가지 문제가 지적되었으며, 2025년 3월 재접수 후에도 캄렐리주맙 CMC 지적사항이 해소되지 않았다는 이유로 2차 CRL을 받았다. FDA는 HLB의 부분적 대응으로는 재검토하지 않을 것이며, Form 483 지적사항 모두 해소 후 1년 이내 \"완전한 재제출\"을 요구했다. 최근 HLB는 2026년 7월 9일, 항서제약 제조시설의 cGMP 실사 지적사항으로 인해 다시 CRL을 수령했음을 발표했다. 해당 공장은 2025년 EU 실사는 통과했지만, FDA는 cGMP 문제 해소 후 PAI까지 만족해야 허가가 가능하다고 명시했다.\n\nHLB 간암신약의 FDA 승인 지연은 단순한 행정 절차 문제가 아닌, 중국 제약사의 제조 품질 관리 기준에 대한 FDA의 엄격한 심사 기조를 반영하는 것으로 보인다. 특히 리보세라닙 자체의 임상적 유효성이나 안전성에 대한 직접적인 문제가 제기되지 않았음에도 불구하고, 파트너사인 항서제약의 제조 시설 문제가 해결되지 않는 한 신약 허가는 불투명하다. 향후 승인 여부는 항서제약이 FDA 요구사항을 얼마나 신속하고 완벽하게 충족하는지에 달려 있으며, 3차 도전의 결과를 알기까지 상당한 시간이 소요될 것으로 예상된다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-11T09:44:49.753726Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
