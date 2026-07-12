@@ -1,0 +1,19 @@
+{
+  "video_id": "Jxjg6puFDwQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스 폭등, '이때까지' 상승합니다",
+  "published_at": "2026-07-11T15:30:11Z",
+  "video_url": "https://www.youtube.com/watch?v=Jxjg6puFDwQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/Jxjg6puFDwQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-12T09:56:08.089804Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

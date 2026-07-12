@@ -1,0 +1,19 @@
+{
+  "video_id": "q9s_TdkV03U",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "베르나르 베르베르 \"각자에겐 수수께끼가 있습니다. 저는 책 대신 사람을 읽습니다\" | 북언더스탠딩 | 영혼의 왈츠 | 베르나르 베르베르 작가 | 1부",
+  "published_at": "2026-07-11T11:55:24Z",
+  "video_url": "https://www.youtube.com/watch?v=q9s_TdkV03U",
+  "thumbnail_url": "https://i.ytimg.com/vi/q9s_TdkV03U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-12T09:54:49.546529Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
