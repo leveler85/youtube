@@ -1,0 +1,19 @@
+{
+  "video_id": "QxbbUxsApE8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/13(월) 반도체 호황 끝나면 벌어질 일들 (김학주 교수 / 한동대학교 AI융합학부)",
+  "published_at": "2026-07-13T07:27:52Z",
+  "video_url": "https://www.youtube.com/watch?v=QxbbUxsApE8",
+  "thumbnail_url": "https://i.ytimg.com/vi/QxbbUxsApE8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-13T11:16:53.312078Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

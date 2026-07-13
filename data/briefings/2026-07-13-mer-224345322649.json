@@ -1,0 +1,19 @@
+{
+  "video_id": "224345322649",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "SK하이닉스의 미국 ADR주식이 국장 본주보다 비싼 이유 A/S",
+  "published_at": "2026-07-13T08:30:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224345322649",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MTNfMjM5/MDAxNzgzOTMwMDI0ODQ2.K2uSNTWSe6xmaaPEo89qfwHcdmThLJAfmawWvmiRtSMg.pWsAUB0XuLNCKIoYiUfOdYwWL_2qfQN2DaMaXYCA1sUg.PNG/Gemini_Generated_Image_4hir1l4hir1l4hir.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**SK하이닉스 ADR-본주 가격차 구조**\n\nSK하이닉스의 미국 상장주식예탁증서(ADR)와 한국 본주 간 가격 괴리는 일방향 전환 제약으로 발생한다. 미국 ADR은 한국 본주로 전환할 수 있으나, 한국 본주를 미국 ADR로 전환하는 것은 발행 한도 및 규제 문제로 제한된다. 이러한 구조적 비대칭성 때문에 미국 ADR은 한국 본주보다 같거나 비싼 '미국 프리미엄'이 형성되며, 가격 차익 거래가 완전히 작동하지 못해 괴리가 지속될 수 있다.\n\n2026년 7월 10일 나스닥에서 SK하이닉스 ADR은 공모가 149달러 대비 13.08% 상승한 168.49달러에 마감했다. ADR 10주가 본주 1주에 해당하며 환율을 적용하면 본주 1주당 약 253만2000원에 달하는 수준이다. 이는 전날 국내 본주 종가 218만원보다 약 16% 높은 가격이었다. 2026년 7월 13일 오전에는 국내 본주가 200만원 미만으로 하락하며 약세를 보였다. 이러한 가격 괴리가 발생하는 핵심 원인은 ADR을 한국 본주로 전환하는 것은 가능하지만, 한국 본주를 미국 ADR로 새로 발행하는 것이 예탁기관 절차, 등록 발행 한도, 국내외 규제 및 세금 문제로 인해 사실상 제한되기 때문이다. 만약 미국 ADR 가격이 한국 본주보다 낮아질 경우, ADR은 소각되고 상응하는 본주가 한국 계좌로 입고되어 미국 ADR 유통량이 줄어들고 한국 본주 유통량이 늘어나며 가격 차이가 좁혀지는 ‘흔싸귀비’ 원리가 작동한다.\n\n이러한 ADR과 본주 간의 구조적 가격 불균형은 특정 기업의 주식 가치를 평가할 때 단순히 국내외 시장 가격을 비교하는 것을 넘어선 심층적인 이해를 요구한다. 투자자들은 미국 ADR 시장의 가격 프리미엄이 제도적 제약에 의해 유지되고 있음을 인지해야 한다. 향후 국내외 규제 완화나 발행 한도 변경이 발생한다면 현재의 가격 구조에 큰 변화를 가져올 수 있으므로, 관련 정책 변화에 대한 지속적인 관찰이 필요하다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-13T11:18:47.814540Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
