@@ -1,0 +1,19 @@
+{
+  "video_id": "kO32xNF4hGs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/15(수) 유럽·중국 ‘타도 스타링크’한국도 위성망에 14조 왜 (백종훈 기자 / 언더스탠딩)",
+  "published_at": "2026-07-15T08:18:45Z",
+  "video_url": "https://www.youtube.com/watch?v=kO32xNF4hGs",
+  "thumbnail_url": "https://i.ytimg.com/vi/kO32xNF4hGs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-15T10:07:28.129534Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

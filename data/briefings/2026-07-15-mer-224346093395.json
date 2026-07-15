@@ -1,0 +1,19 @@
+{
+  "video_id": "224346093395",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "미국의 중국규제 3종세트로 배터리 3사가 힘을 낼 수 있을까?",
+  "published_at": "2026-07-14T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224346093395",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MTRfMTQw/MDAxNzgzOTkzMjAzOTUy.LikpFD4pWT_nhgdfmW1FW3g3FislKK8a-Hj2tdOQbLwg.IWMuc-GUc4TuRn2mFxqjCARyz-aHpx9toKdl4K0peUYg.JPEG/ugwcbemf.JPG?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**미국 중국규제, K-배터리 기회**\n\n미국은 데이터센터 전력 수요 증가와 노후 전력망 문제를 해결하고자 ESS(에너지저장장치) 도입을 확대하며, 중국산 ESS 배터리 의존도 감소를 위한 강력한 규제 정책을 시행한다. 이 '중국 규제 3종 세트'(MACR, 관세, AMPC)는 중국산 배터리의 가격 경쟁력을 약화시키고, 한국 배터리 기업들에게 미국 ESS 시장에서 주도적 위치를 차지할 결정적 기회를 제공한다. 이는 과거 값싼 중국산에 밀려났던 한국 기업들이 시장 점유율을 회복하고 가격 경쟁력을 확보하는 전환점이 될 것으로 전망된다.\n\n국제에너지기구에 따르면 2024년 415TWh에서 2030년 945TWh로 급증할 데이터센터 전력 소비량과 70% 이상이 25년 넘은 노후 변압기로 구성된 미국 전력망으로 인해 대규모 ESS 도입이 필수적이다. 이에 2025년 7월 4일 발효되는 미국의 법안은 '우려외국단체(PFE)' 제한과 '핵심광물 지원비율(MACR)' 조항을 도입했다. MACR은 2026년부터 ESS 배터리의 비중국산 비중을 55% 이상, 2030년 이후 75% 이상으로 요구한다. 또한, 2026년 1월 1일부터 중국산 ESS용 리튬이온 배터리 관세는 7.5%에서 25%로 인상되어 총 관세율이 2025년 40.9%에서 2026년 58.4%로 급등한다. 반대로, 미국 내 셀 생산 시 셀당 $35/kWh의 생산세액공제(AMPC)가 제공된다. 이로써 2024년 $73/kWh였던 중국산 LFP 배터리 셀 원가는 2026년 $87/kWh로 오르는 반면, 미국 생산 한국 LFP 배터리는 AMPC 적용 시 $50~$55 수준으로 낮아져 가격 경쟁력을 확보한다. SNE 리서치와 인터텍 CEA는 2026년 미국 ESS 시장 내 한국 기업 점유율이 61%~80% 이상으로 급증할 것으로 전망한다.\n\n미국의 대중국 규제는 한국 배터리 기업에 새 성장 동력을 제공하나, 양극재 원료인 전구체(94% 중국산)와 수산화니켈(96% 중국산), 음극재 원료인 흑연(98% 중국산) 등 핵심 공급망의 탈중국화는 여전히 큰 과제다. 한국 배터리 3사는 과잉 생산 능력 해소를 위해 미국 시장 기회를 적극 활용해야 하며, 트럼프 행정부의 대중국 견제 정책이 한국 주요 기업들에게 이점으로 작용한다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-15T10:11:44.092683Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
