@@ -1,0 +1,19 @@
+{
+  "video_id": "224348032230",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "미장 SK하이닉스 ADR이 과하게 비싼게 해소되나?(feat 7월 29일)",
+  "published_at": "2026-07-15T22:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224348032230",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MTZfMTQz/MDAxNzg0MTQ1NTcyMzE5.ogk8uhtuos9MNlMto8KKGxwjCmQZ-uPV4r6cbiwYKKgg.DKruRwochMpz5XCXD4Asm4j12M-7chv1Cf4qzRnHg_Eg.PNG/96d8fda6-c1e7-4aa4-b0e9-a6c091418485.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**SK하이닉스 ADR-본주 괴리 해소**\n\n한국예탁원이 2026년 7월 15일, SK하이닉스 미국 ADR과 국내 본주 간 상호 전환을 7월 29일부터 추진하겠다고 밝히면서, 양 시장 간 가격 괴리 해소에 대한 기대감이 고조되고 있다. 현재 본주 대비 과도하게 비싼 ADR은 양방향 차익거래 제약 탓이며, 상호 전환이 허용되면 투자자들이 저렴한 국내 본주를 매수하여 ADR로 전환 후 미국 시장에 매도하는 방식으로 균형을 찾을 것이다. 이로 인해 국내 본주 주가 상승과 ADR 가격 하락이 예상된다.\n\n현재 SK하이닉스는 대만 TSMC의 ADR 상장 방식과 유사하게 본주를 미국 ADR로 전환하는 데 한국 당국의 승인이 필요한 상태다. TSMC는 ADR이 대만 본주보다 평균 16~17% 비싸게 거래되는데, 이는 본주를 ADR로 전환하는 과정이 당국 승인과 총량 한도 제약으로 자유롭지 않기 때문이다. 반면, 네덜란드 ASML은 본주와 ADR 간 양방향 전환이 자유로워 가격 괴리율이 1% 안팎이다. SK하이닉스 ADR은 발행 한도 25% 중 2.5%만 신주로 발행되었으며, 잔여 22.5%는 최대주주 SK스퀘어의 지분 유지 요건을 고려해 구주를 활용할 가능성이 높다. 구주를 통한 ADR 전환은 감독 당국의 증권신고서 제출 지도를 받으며, TSMC도 구주 활용으로 ADR 비중을 20.5%까지 늘리는 데 28년이 걸린 전례가 있다.\n\n이번 상호 전환 추진은 국내 SK하이닉스 본주 투자자들에게 긍정적이다. 전환 시작 시 미국 ADR은 풍부해지고 국내 본주는 희소성을 띠어 양 시장의 가격 격차가 합리적인 수준으로 좁혀질 것이다. 그러나 전환 물량의 점진적 조절과 당국 통제 하에 진행될 것이므로, 단기 변동보다는 장기적 관점에서 시장 변화를 주시해야 한다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-16T10:15:17.906904Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

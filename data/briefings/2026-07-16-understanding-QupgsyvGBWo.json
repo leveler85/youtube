@@ -1,0 +1,19 @@
+{
+  "video_id": "QupgsyvGBWo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/16(목) \"반도체, 정말 꺾였나\" (빈센트 / 하나증권 애널리스트)",
+  "published_at": "2026-07-16T08:20:23Z",
+  "video_url": "https://www.youtube.com/watch?v=QupgsyvGBWo",
+  "thumbnail_url": "https://i.ytimg.com/vi/QupgsyvGBWo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-16T10:13:07.699744Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
