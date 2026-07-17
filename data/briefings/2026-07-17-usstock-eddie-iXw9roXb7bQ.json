@@ -1,0 +1,19 @@
+{
+  "video_id": "iXw9roXb7bQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 글로벌 반도체 급락 | 트럼프, 이란 공습 6일째 감행 | 미시간대 소비자심리, 물가지수 예상치 | 미국주식, 비트코인 방송",
+  "published_at": "2026-07-17T09:25:33Z",
+  "video_url": "https://www.youtube.com/watch?v=iXw9roXb7bQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/iXw9roXb7bQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-17T10:03:24.792415Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
