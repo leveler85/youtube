@@ -1,0 +1,19 @@
+{
+  "video_id": "hTfhvfn2j8Y",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/20(월) 책 안 팔리는데 왜 미국 서점은 늘어날까 (어예진 / 해담경제연구소 소장)",
+  "published_at": "2026-07-20T08:10:55Z",
+  "video_url": "https://www.youtube.com/watch?v=hTfhvfn2j8Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/hTfhvfn2j8Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-20T10:55:56.462233Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
