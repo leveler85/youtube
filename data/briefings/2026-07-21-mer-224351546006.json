@@ -1,0 +1,19 @@
+{
+  "video_id": "224351546006",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "삼성전자와 SK하이닉스가준비하는 CXL이 뭘까?",
+  "published_at": "2026-07-20T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224351546006",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MjBfMTY0/MDAxNzg0NDg2NjQwNTc5.FLKQJHp2S0vx5UjUfyK0LKh6wX0i3ffTizZS1F3pAjUg.mjEjlT-qcE86-ZL1vsiQ2Y_3HL_rIrsrvTBXwqES57Ag.PNG/Gemini_Generated_Image_j14di7j14di7j14d.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**CXL: 메모리 용량 확장의 새 지평**\n\nCXL(Compute Express Link)은 기존의 PCI Express 인터페이스를 활용하여 서버의 D램 용량 확장 한계를 극복하는 혁신적인 기술이다. 이는 CPU에 직접 연결된 로컬 D램 슬롯의 물리적 제약을 우회하며, 데이터 접근 속도의 미미한 저하에도 불구하고 필요한 만큼 메모리 용량을 무한히 확장할 수 있는 유연성을 제공한다. CXL은 데이터의 사용 빈도에 따라 빠른 로컬 D램과 값싼 CXL 메모리를 계층적으로 배치하여 시스템 전반의 성능 저하를 최소화하면서 비용 효율성을 극대화하는 데 중점을 둔다.\n\nCXL 메모리는 로컬 D램(80~100ns)에 비해 170~250ns의 접근 시간이 소요되지만, 버전업을 거듭하며 기능이 진화하고 있다. CXL 1.1은 단순 메모리 확장이었으나, CXL 2.0은 여러 서버가 CXL 스위치를 통해 수십 개의 메모리 모듈을 공유하는 '풀링' 기능을 도입했다. 최신 CXL 3.x는 이를 넘어 칸막이 없는 완전 공용 활용을 지향하며, 출시를 앞둔 CXL 3.2는 데이터 분류 기능을 소프트웨어 대신 하드웨어에 내장하여 최적화 성능을 비약적으로 끌어올리는 것이 핵심 강점이다. 삼성전자는 CXL 3.1(CMM-D 3.0) 개발 후 3.2로 업그레이드하여 연말 양산을 목표로 하고 있으며, SK하이닉스는 HPED 2026에서 CXL 3.2가 적용된 2세대 CMM-DDR5 샘플을 공개했다. 마이크론은 CXL 2.0 이후 차세대 제품을 개발 중이나 구체적인 일정은 미공개 상태다. 특히, 인공지능 대형 모델의 KV 캐시(GPU당 80~120GB)와 같이 자주 사용되지 않는 데이터를 CXL 메모리로 처리하면 토큰당 처리량과 비용이 크게 개선되어 고비용 HBM의 효율적인 활용을 돕는다. 메타는 수명이 다한 서버의 DDR4 메모리를 CXL 기반 DDR5 서버에 재활용하여 대규모로 실전에 배치함으로써 CXL의 경제성을 입증했으며, 128GB D램을 64GB 2개와 CXL 조합으로 구성할 경우 최대 25~50%의 비용 절감 효과를 볼 수 있다. CXL 컨트롤러 칩은 Astera Labs, Marvell, Montage 등 여러 기업이 개발 중이며 마벨이 선두 주자이다. 삼성은 자체 개발과 타사 호환을, SK하이닉스는 몬타지 컨트롤러를 사용 중이나 자체 생산을 계획하고 있다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-21T10:32:25.391855Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
