@@ -1,0 +1,19 @@
+{
+  "video_id": "224353113944",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "인보사 떡밥이 부활하나? A/S (feat 코오롱티슈진, 결과발표)",
+  "published_at": "2026-07-21T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224353113944",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MjFfNDEg/MDAxNzg0NjA2OTMwMTQ3.511TU_UU5l0JbjV0b1w_X3Ltl9tacEjyG6ZqVCTXEf0g.JtV-dVJm9oENSR7qddhByy9Vyr5oxrvu7Nd0IZwJdf0g.PNG/Gemini_Generated_Image_imrm4uimrm4uimrm.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**인보사 3상 결과 및 향후 전망**\n\n코오롱티슈진의 퇴행성관절염 치료제 인보사가 미국 임상 3상에서 위약 대비 통증 및 기능 개선이라는 1차 평가 지표 달성에 실패했다. 주관적인 통증 지표에서는 인보사 투여군보다 위약군에서 더 큰 개선 효과가 관찰되었다. 이로 인해 인보사의 미국 식품의약국(FDA) 품목 허가 획득은 불확실해졌으며, 남은 임상 결과와 향후 전략 수정이 중요해졌다.\n\n인보사는 2017년 국내 시판 후 2액이 연골세포가 아닌 HEK293 세포로 밝혀져 논란이 되었다. 이후 미국 FDA는 임상 1, 2상 결과를 인정하고 3상 재개를 승인했으며, 코오롱티슈진은 1,066명을 대상으로 두 개의 3상(15302, 12301)을 동시에 진행했다. 2026년 7월 20일 발표된 첫 번째 3상(15302) 결과, TG-C 투여군의 VAS 통증은 -38.6, WOMAC은 -26.34를 기록했으나, 위약군의 VAS 통증은 -39.1, WOMAC은 -27.57로 더 큰 개선 효과를 보였다. 흥미로운 점은 인공관절 치환술(TKR) 비율에서 TG-C 투여군이 310명 중 2명(0.6%)인 반면, 위약군은 151명 중 8명(5.3%)으로 유의미한 차이를 보여 질병 진행 지연 가능성을 시사했다.\n\n인보사의 1차 목표였던 통증 개선 실패는 FDA 승인 관행상 두 번의 성공적인 임상이 필요한 점을 고려할 때 큰 장애물이다. 10월에 발표될 두 번째 임상 결과가 성공하더라도, FDA는 재현성 불안정을 이유로 추가 임상이나 보완 데이터를 요구할 가능성이 높다. 따라서 인공관절 치환술 감소에서 나타난 구조적 치료 효과에 주목하여 질병조절 치료제(DMOAD)로 전략을 전환하는 방안도 고려될 수 있으나, 이는 또다시 장기간의 임상을 요구하게 된다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-22T10:32:49.547201Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

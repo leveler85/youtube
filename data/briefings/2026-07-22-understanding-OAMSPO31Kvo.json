@@ -1,0 +1,19 @@
+{
+  "video_id": "OAMSPO31Kvo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/22(수) AI 데이터센터 돈 버는 방식이 바뀐다 (권효재 대표 / COR에너지인사이트)",
+  "published_at": "2026-07-22T07:56:55Z",
+  "video_url": "https://www.youtube.com/watch?v=OAMSPO31Kvo",
+  "thumbnail_url": "https://i.ytimg.com/vi/OAMSPO31Kvo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-22T10:29:24.054316Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
