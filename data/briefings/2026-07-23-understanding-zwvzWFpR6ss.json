@@ -1,0 +1,19 @@
+{
+  "video_id": "zwvzWFpR6ss",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/23(목) 2천km 거리 폭격 드론수장 왜 잘렸나 (백종훈 기자 / 언더스탠딩)",
+  "published_at": "2026-07-23T08:52:35Z",
+  "video_url": "https://www.youtube.com/watch?v=zwvzWFpR6ss",
+  "thumbnail_url": "https://i.ytimg.com/vi/zwvzWFpR6ss/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-23T10:27:05.569192Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
