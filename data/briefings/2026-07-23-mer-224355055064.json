@@ -1,0 +1,19 @@
+{
+  "video_id": "224355055064",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "이번주의 가장 중요한 일정은? A/S (feat 구글 분기실적 발표)",
+  "published_at": "2026-07-22T22:12:39Z",
+  "video_url": "https://blog.naver.com/ranto28/224355055064",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MjNfMTgz/MDAxNzg0NzQ5NzIzOTI2.7mXv1izqK5NM75T-lC3LzNLSoasi3Hf7ExspAAQDooAg.E-FVX0Kw93o2aXtzgRlyOO5_uFeFHP0VKnhUquaoPs8g.PNG/Gemini_Generated_Image_tv52sxtv52sxtv52.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**구글 실적 발표: AI 인프라 투자 확대 지속**\n\n글로벌 시장은 하이퍼스케일러들의 AI 인프라 투자 지속 여부에 촉각을 곤두세웠으며, 특히 알파벳(구글)의 2026년 2분기 실적 발표는 이러한 투자 추세의 선행 지표로 주목받았다. 구글은 컴퓨팅 자원 제약에도 불구하고 AI 수요가 매우 강하다는 입장을 재확인하며, 공격적인 설비투자 확대를 예고했다. 이는 구글의 잉여현금흐름을 적자로 전환시켰음에도 불구하고, AI 인프라 투자 기조를 강력히 유지하겠다는 의지를 보여준다. 이러한 행보는 GPU, HBM, 서버용 메모리 등 AI 관련 부품 제조업체에 긍정적인 영향을 미칠 것으로 예상된다.\n\n알파벳은 2026년 연간 설비투자(CAPEX) 예상치를 기존 1,800억~1,900억 달러에서 1,950억~2,050억 달러로 상향 조정하며 투자 확대 의사를 분명히 했다. 상반기 CAPEX 지출액은 806억 달러로, 연간 목표 달성을 위해 하반기에는 분기당 572억~622억 달러를 집행해야 한다. 컨퍼런스콜에서 아쉬케나지 CFO는 현재 컴퓨팅 자원이 공급 제약 상태이며, AI 수요가 매우 강해 2027년에도 투자를 더 늘리겠다고 밝혔다. 또한, 구글 클라우드 계약 잔고는 1분기 4,620억 달러에서 2분기 5,140억 달러로 11.3% 증가하며 클라우드 컴퓨팅 수요의 견고함을 나타냈다. 그러나 2분기 잉여현금흐름은 영업활동 현금흐름 391억 달러 대비 CAPEX 449억 달러 지출로 인해 -58억 달러를 기록하며 적자 전환했고, 전년 동기 53억 달러 흑자 대비 112억 달러 감소했다.\n\n구글의 잉여현금흐름 적자 전환에도 불구하고 AI 인프라 투자를 지속하겠다는 결정은 단기적으로 주주들에게 부담을 줄 수 있다. 하지만, 삼성전자나 SK하이닉스 등 AI 관련 부품 공급업체들에게는 고객사의 견고한 수요를 확인하는 긍정적인 신호로 작용한다. 향후 하이퍼스케일러들의 지속적인 투자 발표와 실제 집행 규모가 글로벌 반도체 및 IT 산업 전반의 핵심 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-24T10:26:52.411419Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

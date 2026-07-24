@@ -1,0 +1,19 @@
+{
+  "video_id": "PVtBaBr9AG8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/24(금) 메르켈은 왜 유럽의 '역적'이 됐나 (손진석 기자/'부자 미국 가난한 유럽' 저자)",
+  "published_at": "2026-07-24T08:41:34Z",
+  "video_url": "https://www.youtube.com/watch?v=PVtBaBr9AG8",
+  "thumbnail_url": "https://i.ytimg.com/vi/PVtBaBr9AG8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-24T10:24:01.063156Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
