@@ -1,0 +1,19 @@
+{
+  "video_id": "F626Lx-FQyk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/27(월) 트럼프는 이란 공습을 왜 멈췄을까 (서강대학교 유로메나 연구소 박현도 교수, 성일광 교수)",
+  "published_at": "2026-07-27T08:32:10Z",
+  "video_url": "https://www.youtube.com/watch?v=F626Lx-FQyk",
+  "thumbnail_url": "https://i.ytimg.com/vi/F626Lx-FQyk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-27T11:29:18.838873Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

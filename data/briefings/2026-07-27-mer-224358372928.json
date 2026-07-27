@@ -1,0 +1,19 @@
+{
+  "video_id": "224358372928",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "삼성전자와 SK하이닉스 2배는 우리의 원금을 어떻게 녹이나?",
+  "published_at": "2026-07-26T15:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224358372928",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MjZfMjM1/MDAxNzg1MDQ1NTQ4MzE2.nPYjohYGIqlIqWjMFhf_zwWiP5TH-6Oeqh8elZiPVDMg.9QOj9qUwIz9XO6eeDAH7c62QfMdJ_tM6dn3JNs_g9v8g.PNG/8zlbu2af.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**단일종목 레버리지 ETF의 함정**\n\n단일종목 레버리지 ETF는 운용보수 외에도 파생상품 유지비용과 '변동성 끌림'이라는 숨겨진 원가로 인해 장기 보유 시 원금이 빠르게 감소한다. 매일 2배 노출을 재조정하는 특성 때문에 기초자산이 제자리로 돌아와도 손실이 누적되며, 변동성이 클수록 원금 손실 폭이 기하급수적으로 커진다. 따라서 투자자들은 이러한 내재 비용을 정확히 이해하고 장기 투자를 경계해야 한다.\n\n삼성전자 2배 ETF는 연간 약 14%, SK하이닉스 2배 ETF는 연간 약 33%의 총 비용이 발생한다. 이 비용은 한국은행 기준금리(2.75%)와 배당수익률 차이에 수급 프리미엄(0.5~1.5%p)을 더한 선물 유지비용(삼성전자 연 2%, SK하이닉스 연 3.5%)과 KODEX 삼성전자단일종목레버리지의 연간 운용보수 0.29%를 포함한다. '일일 재조정'에서 발생하는 '변동성 끌림'은 연율화 변동성의 제곱으로 추정되며, 삼성전자(변동성 35%)는 연 12%, SK하이닉스(변동성 55%)는 연 30%를 차지한다. 기초자산이 제자리로 돌아오는 변동에도 2배 상품은 2.2% 손실이 발생한다. SK하이닉스처럼 하루 ±10% 변동을 다섯 번 겪으면 열흘 만에 원금의 10.6%가 사라질 수 있다.\n\n이러한 단일종목 레버리지 ETF는 금융 회사에 안정적인 수수료 수익을 제공하지만, 변동성이 높은 시장에서 투자자의 장기 원금 손실을 심화시킨다. 따라서 한 방향으로 꾸준히 상승하는 시장이 아닌 이상, 이 상품은 장기 투자보다는 단기 매매에 한정하여 활용되어야 하며, 숨겨진 원가로 인한 가치 감소 위험을 철저히 인지해야 한다.",
+  "failure_reason": null,
+  "generated_at": "2026-07-27T11:32:50.674776Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
