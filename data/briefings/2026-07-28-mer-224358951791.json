@@ -1,0 +1,19 @@
+{
+  "video_id": "224358951791",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "오늘 상장하는 중국 CXMT(창신메모리)는 어떤 기업인가? 2",
+  "published_at": "2026-07-27T15:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224358951791",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA3MjdfMjQ2/MDAxNzg1MTA4Mjg3NTAz.tNn852WcbozicBOxebu1c60qNX-2ALEe0bBXm3vQhVMg.hBikFw0Cwt-DpRDzhmBmvccRM3Q2XafUWdWP-Qsau9Qg.JPEG/slwyarvn.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**CXMT, 中 반도체 굴기의 상징적 IPO**\n\n중국 창신메모리(CXMT)는 중국 정부의 전폭적인 지원과 기술 탈취에 기반한 공격적인 인력 유치를 통해 급성장하며 글로벌 D램 시장의 주요 경쟁자로 급부상했다. CXMT는 미국의 대중 반도체 수출 통제를 저사양 DUV 장비 확보와 저가 공세 전략으로 회피하며 시장 점유율을 빠르게 확대하고 있으며, 대규모 기업공개(IPO)를 통해 막대한 자금을 조달하며 중국 반도체 굴기의 상징적 성공 사례로 평가받고 있다. 이러한 CXMT의 성장은 글로벌 메모리 산업의 지형도를 변화시키고 한국 기업들에게 중대한 위협으로 다가오고 있다.\n\nCXMT는 설립 초기부터 기술력 확보에 집중하며 독일 키몬다 R&D센터 인력은 물론, 대만 메모리 기업 엔지니어 수백 명, 심지어 삼성전자와 SK하이닉스 인력까지 공격적으로 유치했다. 이 과정에서 2016년 삼성전자 부장급 경력직을 포함한 10명이 CXMT에 입사하며 삼성전자의 기밀정보를 유출한 사건이 발생했으며, 국정원 수사 의뢰와 검찰 조사를 통해 이들이 수백 단계의 D램 공정 정보를 자필로 유출했음이 확인되었다. 검찰은 이 기술 유출로 인한 추정 피해액을 수십조 원으로 평가했으며, 관련자들에게 6~7년의 실형이 선고되었다. 2022년 10월 바이든 행정부의 대중 반도체 수출통제로 CXMT는 최첨단 EUV 노광장비 확보가 불가능해졌음에도 불구하고, ASML의 리퍼버시(재생) 저사양 DUV 장비를 확보하는 전략을 통해 SMIC, YMTC, 화웨이와 달리 미국 상무부의 엔티티 리스트를 회피할 수 있었다. 당시 미국은 CXMT의 기술 수준이 위협적이지 않다고 판단했으며, CXMT가 저가 공세로 메모리 시장 가격을 낮추는 것이 오히려 미국 기업에 나쁘지 않다고 분석한 바 있다.\n\nCXMT의 D램 생산 능력은 급격히 확장되었다. 2020년 월 4만 장이던 DDR4 생산능력은 2024년 월 16만 장, 2025년 30만 장 이상으로 증가했으며, 2027년에는 월 42만 장을 목표하고 있다. 2026년 5월에는 24Gb 밀도의 DDR5 대량생산에 성공, 삼성전자, SK하이닉스, 마이크론의 최첨단 32Gb DDR5보다는 한 세대 뒤지지만 빠르게 격차를 좁히고 있다. 이러한 성장세를 바탕으로 CXMT의 글로벌 D램 시장 점유율은 2025년 1분기 4.1%에서 2026년 1분기 7.7%로 크게 상승하며 삼성(38.6%), SK하이닉스(28.",
+  "failure_reason": null,
+  "generated_at": "2026-07-28T10:43:12.349642Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

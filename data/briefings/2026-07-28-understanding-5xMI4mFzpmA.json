@@ -1,0 +1,19 @@
+{
+  "video_id": "5xMI4mFzpmA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/28(화) 한국 부동산 보유세, 정말 세계 최고일까? (이관옥 교수 / 싱가포르국립대 경영대학 부동산학과)",
+  "published_at": "2026-07-28T07:49:29Z",
+  "video_url": "https://www.youtube.com/watch?v=5xMI4mFzpmA",
+  "thumbnail_url": "https://i.ytimg.com/vi/5xMI4mFzpmA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-28T10:40:22.141361Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
