@@ -1,0 +1,19 @@
+{
+  "video_id": "HldI0Inx2lE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 7/30(목) 사우디는 되는데, 한국은 왜 안 되나? 우라늄 농축의 진실 (최준영 수석전문위원 / 법무법인 율촌)",
+  "published_at": "2026-07-30T08:11:08Z",
+  "video_url": "https://www.youtube.com/watch?v=HldI0Inx2lE",
+  "thumbnail_url": "https://i.ytimg.com/vi/HldI0Inx2lE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-07-30T10:30:10.541126Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
