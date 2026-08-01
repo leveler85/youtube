@@ -1,0 +1,19 @@
+{
+  "video_id": "224364554852",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "BTS는 그래미상 출품을 왜 거부했을까?",
+  "published_at": "2026-07-31T22:33:17Z",
+  "video_url": "https://blog.naver.com/ranto28/224364554852",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MDFfMTIg/MDAxNzg1NTMxMjUzNTUx.CHLlbftofJxFJX_Sg95WDKN734NEjxOJInr2v3wnsY4g.rOnrvuLL9bjV03ZCn412Ov92Q3vQyVaYhZY1c5saFwwg.PNG/Gemini_Generated_Image_cnu07ucnu07ucnu0.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**BTS 그래미 출품 거부의 의미**\n\n그래미 어워드는 1957년 미국 음반업계 내부 관계자들이 설립한 NARAS(레코딩 아카데미) 주관으로, 대중 투표나 차트 성적과 무관하게 내부 회원들이 수상자를 선정한다. 시상식은 전체 회원이 투표하고 TV 생중계되는 '올해의 레코드, 올해의 앨범, 올해의 노래, 베스트 신인상' 등 '빅4' 본상과, 특정 장르 전문가 소집단이 심사하는 '기타상'으로 명확히 구분된다. 현재 커리어 정점에 있는 그룹 BTS는 2026년 그래미 출품을 거부했는데, 이는 신설된 '아시아 팝 부문' 기타상을 통해 지역적 범주에 갇히는 것을 거부한 강력한 반발로 해석된다.\n\nNARAS는 1만 5천여 명 회원 전원이 투표하는 '빅4' 본상에 \"음악계 내부자 전체가 인정한 최고\"라는 큰 상징성을 부여하지만, 기타상은 해당 장르 전문가 소집단이 선정하고 총 95개 상 중 8~10개만이 저녁 생방송에 시상된다. 2026년 신설된 기타상 '아시아 팝 부문'은 \"하나 이상의 아시아 국가 언어를 유의미하게 사용한 작품\"을 대상으로 하며, AP통신은 이를 비서구권 아티스트를 본상에서 제한하려는 '인종화된 장벽(racialized barrier)'으로 비판했다. BTS는 3월 발표한 정규 5집 '아리랑' 빌보드 메인 앨범 차트 3주 연속 1위, '스윔(SWIM)' 싱글 차트 정상 등 최고 성과에도 불구하고, 69회 그래미 출품 자격을 갖춘 '아리랑'의 출품 자체를 거부했다. 이는 본상 대신 새로 만든 기타상을 받을 것이 예상되자 이를 거부한 것이다.\n\n그래미를 주관하는 메이슨은 아시아 팝 부문이 '누군가를 구분하기 위함이 아니며', '아티스트는 두 부문을 얼마든지 동시에 노릴 수 있다'고 해명했으나, 별도 부문의 존재 자체가 투표단이 본상 대신 해당 부문으로 표를 몰 가능성을 내포한다는 지적이 따른다. 실제로 BTS는 2020년부터 2022년까지 3년 연속 그래미 무대에 올랐고, 2021년 빌보드 1위 3주를 기록한 'Dynamite', 2022년 빌보드 1위 10주를 기록한 'Butter', 2023년 빌보드 1위곡 'My Universe' 등 다섯 번 후보에 올랐지만, 단 한 번도 수상에는 실패했다. 이는 그래미가 BTS를 시상식 시청률에 활용하면서도 본상은 주지 않고 기타상으로 격리하려 했다는 추측을 강화한다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-01T10:07:42.057592Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
