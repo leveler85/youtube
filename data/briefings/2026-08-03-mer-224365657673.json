@@ -1,0 +1,19 @@
+{
+  "video_id": "224365657673",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "중국이 개발했다는 DUV(노광기)의 정체는?",
+  "published_at": "2026-08-02T15:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224365657673",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MDJfMjc4/MDAxNzg1NjQwODg4NTAx.-uTkw0ub5ZaRk3V-dRMfAlvSE_K2CMSawI22XCYGLPwg.KdlBCmpJTb6pDFFwzpF0D29oWrPs0YKebJMjy-oT41Eg.PNG/Gemini_Generated_Image_a152tra152tra152.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**中 DUV 개발 현주소와 한계**\n\n중국의 DUV (Deep Ultraviolet) 노광장비 개발 발표는 큰 파장을 일으켰으나, 실제 기술 수준은 시장 선두주자 ASML에 크게 미치지 못한다. 중국의 자국산 DUV는 ASML의 2008년 모델인 Twinscan NXT:1950i와 유사한 성능이며, 핵심 부품 기술력은 여전히 국제 표준에 미치지 못한다. 이는 미국발 반도체 제재 속에서 최소한의 생산 능력 확보를 위한 고육지책으로, 완전한 노광기 자립까지는 상당한 시간과 기술 축적이 필요하다.\n\n2026년 7월 27일 \"상하이 기업이 침지 DUV 노광장비를 생산한다\"는 보도에 ASML 주가가 하루 만에 -5.7% 하락하며 시장의 우려를 반영했다. 반도체 생산의 60% 시간, 35% 비용을 차지하는 노광 공정은 ASML이 유일하게 제대로 된 장비를 생산한다. ASML 장비는 자체 부품 비중이 15%에 불과하며, 네덜란드, 미국, 독일, 일본 기술의 복합체다. 특히 EUV 장비는 미국 사이머(Cymer)사의 광원을 사용하며, 미국 정부는 이를 자국 기술로 간주해 중국에 한 대도 수출을 허용하지 않는다. 중국 위량성(上海宇量昇)이 화웨이 엔지니어들과 개발한 DUV는 화웨이가 인수한 ASML 1980Di 모델 역설계 시도 실패로, 2025년 10월 ASML에 수리를 요청했던 사실이 드러났다. 핵심 부품 성능도 부족하다. 커이훙위안(科益虹源)의 국산화 광원은 6kHz·60W급으로 ASML의 6kHz·90W급에 미치지 못하며, 마오라이광학의 렌즈 역시 30nm급으로 자이스(Zeiss)의 10nm 미만 정밀도에 비해 떨어진다.\n\n미국의 반도체 장비 수출 통제는 2024년 9월부터 ASML 1980i DUV 모델까지 확대되었고, 기존 장비의 성능 개선 및 유지보수도 제한되어 중국 반도체 산업에 큰 압박으로 작용하고 있다. 이러한 상황에서 중국의 1950i급 DUV 국산화는 최첨단 기술과 거리가 멀지만, 자국 산업의 생존을 위한 중요한 토대를 마련한다는 의미가 있다. 그러나 핵심 부품의 30%를 여전히 수입에 의존하며, 차세대 EUV는 물론 ASML 1980Di급 DUV 기술 확보에도 상당한 시일이 걸릴 것으로 예상된다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-03T11:33:59.796485Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
