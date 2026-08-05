@@ -1,0 +1,19 @@
+{
+  "video_id": "aJW3z1Snneg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "Live on 8/5(수) 미국은 왜 일본 엔화 방어에 나섰을까? (김상훈 기자 / 언더스탠딩)",
+  "published_at": "2026-08-05T08:12:41Z",
+  "video_url": "https://www.youtube.com/watch?v=aJW3z1Snneg",
+  "thumbnail_url": "https://i.ytimg.com/vi/aJW3z1Snneg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-05T10:40:51.918798Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
