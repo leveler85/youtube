@@ -1,0 +1,19 @@
+{
+  "video_id": "224371367594",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "외국인들이 국장을 던지는 비밀 1",
+  "published_at": "2026-08-07T15:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224371367594",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MDdfMTc1/MDAxNzg2MDg5MzQ2MTYy.ivCqTfRTguoODUExSQXJYeIoh5svWRsGfha8LaM5zN4g.ehEAHy9IKRH6gYBscpmLkpEcyKRJCXRPq3gXhCOWNskg.JPEG/255354_uploaded_6318590.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**외국인 투매의 VaR 기반 위험 관리**\n\n글로벌 투자기관들은 JP모건이 개발한 위험 측정 지표인 VaR(Value at Risk)을 활용하여 포트폴리오 위험을 관리한다. 이들은 'VaR 한도'라는 위험 예산을 할당받는데, 이는 시장 변동성과 직접적으로 연동된다. 시장 변동성이 급증하면 VaR 값이 상승하여, 기관들은 정해진 위험 한도를 준수하기 위해 보유 자산을 기계적으로 매도하게 된다.\n\nVaR는 1980년대 말 JP모건의 지시로 개발되어 1994년 무료 공개되며 업계 표준이 되었다. '1일 95% VaR 2,500억 원'처럼 특정 신뢰수준에서 예상 최대 손실액을 단일 숫자로 제시하며, cVaR는 VaR 초과 손실 발생 시 평균 손실 규모를 알려준다. VaR는 신뢰수준 계수, 일간 변동성, 포트폴리오 금액으로 계산되기에, 변동성이 핵심 변수다. 예컨대, 코스피 위험 예산 100억 원을 받은 펀드 매니저의 투자 한도는 일간 변동성 1.9%일 때 3,200억 원이지만, 4.8%로 뛰면 1,270억 원으로 급감하여 1,930억 원을 매도해야 한다. 실제 코스피200 변동성지수(VKOSPI)는 올해 1월 2일 30.6에서 6월 30일 93.8로 약 3배 급등, 8월 초에는 75~77선으로 극단적 공포 구간인 50을 상회했다. 연초 일간 변동성 1.9%가 고점 5.9%, 현재 4.8% 수준으로 변화한 것이다.\n\n글로벌 연기금을 포함한 기관 투자자들은 VaR 한도라는 위험 예산에 따라 기계적으로 포트폴리오를 조정한다. 따라서 코스피 변동성(VKOSPI)이 급증하면 VaR 값이 부풀고, 주어진 위험 예산을 맞추기 위해 한국 주식 보유 물량을 줄일 수밖에 없다. VKOSPI 지수는 외국인 투자자들의 한국 증시 매도 움직임을 이해하고 그들의 다음 관전 포인트를 예측하는 중요한 지표다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-08T08:51:17.651440Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
