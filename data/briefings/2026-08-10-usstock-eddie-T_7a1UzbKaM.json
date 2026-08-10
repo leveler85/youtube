@@ -1,0 +1,19 @@
+{
+  "video_id": "T_7a1UzbKaM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프 \"이란 협상, 조용히 진행할 것\" | 창신메모리, \"신규 해외 고객 맡을 여력 없다\" | 이번주 CPI 발표 및 반도체·AI 인프라 실적 | 미장, 코인 방송",
+  "published_at": "2026-08-10T06:09:31Z",
+  "video_url": "https://www.youtube.com/watch?v=T_7a1UzbKaM",
+  "thumbnail_url": "https://i.ytimg.com/vi/T_7a1UzbKaM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-10T09:28:44.716318Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
