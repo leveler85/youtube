@@ -1,0 +1,19 @@
+{
+  "video_id": "zVjlEpwSwt4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "대통령과 연준의장은 진짜 현피를 뜬 적이 있다",
+  "published_at": "2026-08-10T14:15:03Z",
+  "video_url": "https://www.youtube.com/watch?v=zVjlEpwSwt4",
+  "thumbnail_url": "https://i.ytimg.com/vi/zVjlEpwSwt4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "ok",
+  "summary": "**LBJ와 연준 의장의 금리 전쟁**\n\n린든 존슨 대통령 시기, 대규모 정부 지출이 인플레이션을 유발하자 연방준비제도(연준)는 독립성을 지키며 금리 인상으로 대응했다. 이는 대통령의 경기 부양 목표와 중앙은행의 물가 안정 책무가 충돌하는 대표적인 사례다. 이 역사적 충돌은 중앙은행의 정치적 독립성이 경제 안정에 얼마나 중요한지를 극명하게 보여준다.\n\n존슨 대통령은 \"위대한 사회(Great Society)\" 건설과 베트남 전쟁 수행이라는 \"버터와 총(butter and guns)\" 정책을 동시에 추진하며 막대한 재정 지출을 감행했다. 이로 인해 인플레이션 압력이 고조되자, 윌리엄 맥체스니 마틴 주니어 연준 의장은 존슨 대통령이 자리를 비운 틈을 타 기습적으로 기준금리를 50bp 인상했다. 격분한 존슨 대통령은 텍사스 별장으로 마틴 의장을 불러 강하게 질책했으나, 마틴 의장은 \"중앙은행의 역할은 파티가 끝나기 전에 펀치볼을 치우는 것\"이라는 유명한 발언으로 중앙은행의 독립적 역할을 옹호했다. 이 금리 인상 조치 직후 뉴욕 증시가 급락하는 등 즉각적인 경제적 파장이 나타났다.\n\n이 사건은 정부의 경제 성장 목표와 중앙은행의 물가 안정 목표 사이에서 발생할 수 있는 긴장 관계를 명확히 보여준다. 연준의 독립적 결정은 단기적인 정치적 압력에도 불구하고 장기적인 경제 안정을 추구해야 한다는 중요한 교훈을 남겼다. 이는 현대에도 중앙은행의 독립성이 거시 경제 정책의 핵심 원칙으로 강조되는 이유를 뒷받침한다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-11T09:04:16.430910Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

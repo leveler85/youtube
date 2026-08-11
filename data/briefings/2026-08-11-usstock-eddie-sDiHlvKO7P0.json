@@ -1,0 +1,19 @@
+{
+  "video_id": "sDiHlvKO7P0",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 엔비디아, 5천억 달러 규모의 자금 조달 확정 | 실적발표: 코어위브, 루멘텀, 슈마컴 | 내일 7월 CPI 발표 및 반도체·AI 인프라 실적 | 미국 증시 실시간",
+  "published_at": "2026-08-11T05:24:44Z",
+  "video_url": "https://www.youtube.com/watch?v=sDiHlvKO7P0",
+  "thumbnail_url": "https://i.ytimg.com/vi/sDiHlvKO7P0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-11T09:06:20.331496Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
