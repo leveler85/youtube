@@ -1,0 +1,19 @@
+{
+  "video_id": "224375780479",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "엔비디아와 월가의 5000억달러 AI 금융동맹의 실체",
+  "published_at": "2026-08-11T22:20:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224375780479",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MTJfMjcg/MDAxNzg2NDcyNjYxOTEw.V6niyzNPWv9R4-xSmit6NoONQAgm3yv9ZVlf5Qxpz_8g.mtAngSqO5aDdW8U5zmpKnXVJKeh8ZaOJfbc4zaeLJ1Ag.JPEG/jwasoti5.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**엔비디아 AI 금융동맹의 실체**\n\n엔비디아가 월가 주요 금융사들과 5000억 달러 규모의 AI 금융동맹을 추진한다. 이는 AI 수요 기업들의 데이터센터 및 GPU 확보를 위한 자금 지원 구조로, 홈플러스 사례의 '세일앤리스백'과 유사한 위험을 안고 있다. 이 금융 모델의 핵심 위험은 물리적 담보보다 AI 수요 기업의 신용도와 장기 계약의 견고성에 있다.\n\n엔비디아가 직접 5000억 달러를 투자하지 않고, 아폴로, 블랙스톤 등 6개 월가 금융사들이 기관투자자 자금을 모아 AI 수요 기업의 데이터센터 및 GPU 구매를 위한 대출을 제공한다. 이 구조는 MBK의 홈플러스 '세일앤리스백' 사례와 유사한 위험을 내포한다. 홈플러스 기업회생 시 임대차 계약 해지로 부동산 펀드 및 리츠가 손실을 입었듯, AI 금융동맹에서는 GPU의 낮은 재판매 가치(3년 내 절반 하락) 때문에 담보보다 AI 수요 기업의 신용도와 'take-or-pay' 장기사용 계약 견고성에 대출 안전성이 절대적으로 의존한다. 구글은 6% 금리로 대출 가능하나, 오픈AI는 15% 금리에도 대출 여부가 불확실하며, 'take-or-pay' 계약도 수요자 파산 시 거부될 수 있어 안전장치가 아니다.\n\n이 AI 금융 모델의 성공은 신용도가 불확실한 AI 스타트업들의 미래 재정 안정성에 크게 의존하며, 오픈AI가 어떤 금리로 자금을 확보할지가 금융권이 평가하는 그들의 신용도를 보여주는 핵심 관전 포인트다. 대형 AI 수요 기업에 문제가 발생하면 전체 AI 투자가 위축되어 삼성전자, SK하이닉스 같은 칩 공급사에도 간접적인 영향이 불가피할 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-12T09:21:10.678957Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
