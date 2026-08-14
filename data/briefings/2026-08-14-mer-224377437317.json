@@ -1,0 +1,19 @@
+{
+  "video_id": "224377437317",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "ITC가 삼성전자를 특허침해로 조사한다는데 어떤 여파가?",
+  "published_at": "2026-08-13T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224377437317",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MTNfNzcg/MDAxNzg2NTk5MzIxODUx.-f6eBikIN36KXfevUaZX4zYfSloysRrQAO0FsF24CIkg.NkgWCqhUGO4LGNyNBEPpW_VFfDVBYDf-SKBAdNDkzBog.PNG/Gemini_Generated_Image_pi2mi3pi2mi3pi2m.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**삼성전자 ITC 특허 침해 조사 파급력**\n\n미국 국제무역위원회(USITC)는 1930년에 제정된 관세법 337조에 의거, 특허나 상표권을 침해한 수입품의 미국 시장 진입을 막고 국내 산업을 보호하는 강력한 권한을 행사하는 기관이다. ITC는 연방 지방법원과 달리 배상금 대신 수입 금지 및 판매 중지 명령을 즉각적으로 내릴 수 있으며, 처리 속도도 훨씬 빨라 비실시 특허권자(NPE)들이 선호하는 분쟁 해결 채널이다. 최근 삼성전자는 넷리스트와의 대규모 특허 분쟁을 막대한 합의금을 통해 종결했으나, 일본 맥셀의 새로운 특허 침해 제소로 인해 또다시 ITC 조사를 받게 되었다. 이는 삼성전자의 미국 시장 핵심 제품 판매에 직접적인 위협으로 작용할 수 있어 주의 깊게 지켜봐야 할 사안이다.\n\nITC의 337조 조사는 침해 제품에 대한 수입배제명령과 이미 시장에 풀린 재고에 대한 판매중지명령을 동시에 발효할 수 있다. 이러한 조사는 보통 16~18개월 내에 결론이 나기 때문에, 몇 년씩 걸리는 연방 지방법원 소송보다 훨씬 신속하다는 특징이 있다. 과거 SK하이닉스는 서버 메모리 및 HBM 관련 특허를 보유한 넷리스트의 제소로 2019년 10월 ITC로부터 특허 침해 예비 판정을 받았고, 수입배제명령 권고에 직면하자 2021년 4월 5일 넷리스트와 4천만 달러의 합의금과 SK하이닉스 제품 6억 달러 구매 권한, CXL DIMM 기술 공동 개발 계약을 맺으며 분쟁을 합의로 마무리했다. 삼성전자 역시 넷리스트와 동업 관계였으나 로열티 이견으로 관계가 파탄 나며 텍사스 동부지법에서 5개 특허 침해로 총 4억 2100만 달러의 배상 평결을 받았다. 삼성전자가 항소하며 지연 전술을 쓰자, 넷리스트는 2026년 7월 ITC에 삼성전자뿐만 아니라 구글, 엔비디아, 브로드컴 등 삼성 HBM을 사용하는 고객사까지 피고로 엮어 제소했다. 고객사 피해 확산이 예상되자 삼성전자는 2026년 8월 5일 넷리스트에 5년간 최대 8.97억 달러를 지불하는 대규모 합의를 통해 분쟁을 최종 해결하며 사업 파트너 관계로 전환했다. 넷리스트 건이 합의로 마무리된 직후인 2026년 8월 12일, 일본의 비실시 특허권자(NPE) 맥셀이 삼성전자에 대한 새로운 337조 조사를 ITC에 제기했다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-14T09:17:12.302507Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

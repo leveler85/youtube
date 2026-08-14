@@ -1,0 +1,19 @@
+{
+  "video_id": "XT02zakaD6E",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 7월 소매판매 · 미시간대물가지수 발표 | 이번주 CPI, PPI 모두 호조 | 샌디스크 \"잉여현금 100% 주주환원\" | 미국 증시 실시간",
+  "published_at": "2026-08-14T07:56:43Z",
+  "video_url": "https://www.youtube.com/watch?v=XT02zakaD6E",
+  "thumbnail_url": "https://i.ytimg.com/vi/XT02zakaD6E/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-14T09:15:59.188487Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

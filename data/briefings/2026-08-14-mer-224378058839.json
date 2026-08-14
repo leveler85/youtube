@@ -1,0 +1,19 @@
+{
+  "video_id": "224378058839",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "주말 거제여행을 한다면, 뭘 먹을까?",
+  "published_at": "2026-08-14T02:00:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224378058839",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTI4/MDAxNzg2NjQ1NzE5Nzgx.7fqR97acVL_tQA2DlTawrkhrwHi47UzaOQPplHk92J4g.2W_3I08VwFbukxZUCZ89cpPGg74Ky-en8_uzyAdIssIg.JPEG/PHzaFJHEScUmuawZUy_exXiU6ktK5Uwwqhch6x-lxBxe9RCBguxwD2BTesDbmR-aZk55xhWjSaa.jpeg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**거제 미식 여행, 숨은 보석 찾기**\n\n거제는 과거 필자가 근무했던 지역으로, 단순한 관광지를 넘어선 특별한 미식 경험을 제공한다. 특히 성포 지역의 독특한 조개 요리와 고현의 아귀내장수육, 그리고 겨울철 대구 요리는 타 지역에서 쉽게 접하기 어려운 맛과 식감을 선사하며, 방문객에게 깊은 인상을 남길 것이다. 거제는 미식 탐방을 통해 지역의 숨겨진 매력을 발견하고 싶은 이들에게 최적의 목적지이다.\n\n성포의 '맥시칸치킨'은 상호와 달리 왕우럭조개와 코끼리조개가 주력 메뉴다. 왕우럭조개는 가리비의 단맛에 전복의 쫀득함이 더해진 듯한 맛을 내며, 부위별로 식감이 달라 즐거움을 준다. 특히 희귀한 코끼리조개는 얇게 썰어 생와사비 간장에 찍어 먹을 경우 쫄깃하고 탱글하며 오독오독한 식감과 강한 단맛, 감칠맛을 온전히 느낄 수 있다. 이 식당은 인접한 가조회식당과 주인이 같다. 고현의 '구천식당'은 1992년 개업해 오후 5시부터 10시까지만 운영하며, 테이블당 안주 1개와 소주 2병이 기본인 주점이다. 이 집은 아귀살, 내장, 간, 껍질 등이 어우러진 아귀내장수육으로 유명하며, 필자는 볼락구이를 가장 맛있는 생선 구이로 꼽는다. 또한 고현전통시장에는 2천원 김밥과 내장국밥 전문점이 있다. 겨울철 장목면 외포항은 전국 대구 물량의 30%가 집산하는 곳으로, 갓 부친 대구전과 시원한 생대구탕을 맛볼 수 있다.\n\n거제는 지역 특산물과 숨겨진 맛집을 통해 단순한 관광을 넘어선 심도 있는 미식 경험을 제공한다. 특히 철마다 달라지는 해산물 요리와 고유의 식문화는 방문객에게 새로운 가치를 부여하며, 향후 지역 경제 활성화에도 기여할 수 있다. 거제를 방문할 때에는 현지인의 추천을 바탕으로 한 미식 탐방을 계획하는 것이 만족도를 높이는 핵심 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-14T09:16:48.942822Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
