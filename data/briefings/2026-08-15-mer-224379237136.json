@@ -1,0 +1,19 @@
+{
+  "video_id": "224379237136",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "일론 머스크의 새로운 도전, 테라펩 (feat 반도체 직접 만들겠다)",
+  "published_at": "2026-08-14T23:32:29Z",
+  "video_url": "https://blog.naver.com/ranto28/224379237136",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MTVfNzgg/MDAxNzg2NzQ5NDcyMjc5.UipTsszt9kF8A39AWpTKL-pfqNP3Z5b_qmX-Ifcb0nYg.bDay2cSRabc67PMns4L2rnvwJIYgtICg2qP_aLJVwpIg.PNG/ChatGPT_Image_2026%B3%E2_8%BF%F9_15%C0%CF_%BF%C0%C0%FC_08_17_12.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**테라팹: FEL 반도체 혁신**\n\n일론 머스크는 2026년 3월 '테라팹' 프로젝트를 통해 기존 반도체 제조 방식의 혁신을 선언했다. 그는 연간 1테라와트의 인공지능(AI) 연산 능력을 목표로, ASML의 EUV 노광 장비를 대체할 자유전자레이저(FEL) 기반의 차세대 반도체 직접 생산을 추진한다. 이 도전은 반도체 산업의 독점 구도를 깨고 대규모 자가 생산 시대를 열겠다는 비전을 담고 있다.\n\n테라팹은 월 10만 장으로 시작해 100만 장의 웨이퍼를 생산, TSMC 전체 생산량의 70%를 목표한다. 1억 제곱피트(여의도 3.2배) 규모의 시설은 텍사스에 1단계 168억 달러를 들여 건설되며, 인텔 파운드리의 첫 외부 고객으로 14A 공정을 사용한다. 생산된 칩의 80%는 우주 데이터센터, 20%는 옵티머스 로봇용이다. 머스크는 입자가속기로 전자를 가속해 FEL로 빛을 생성, ASML의 주석 플라즈마 기반 EUV(대당 6천억 원)를 대체하려 한다. 한국 포항가속기연구소의 1.1km FEL 건설비가 4억 달러(약 5,600억 원)로, ASML EUV 20대(12조 원)보다 훨씬 경제적이다. 에너지 회수 선형가속기(ERL)를 통한 전력 재활용으로 FEL의 막대한 에너지 소비 문제를 해결할 수 있으며, 이미 엑스라이트(xLight) 스타트업이 관련 연구를 진행 중이고 트럼프 행정부로부터 1.5억 달러의 연방 인센티브 의향서(LOI)를 체결받은 바 있다.\n\n머스크의 FEL 기반 EUV 상용화 시도는 ASML의 독점 체제에 중대한 도전이자 반도체 생산 비용 절감 및 대규모 자가 공급망 구축의 가능성을 연다. 그러나 1km가 넘는 FEL을 반도체 노광 공정에 맞게 소형화하고 안정적으로 통합하는 기술적 난제가 남아있다. 향후 실제 양산 적용 가능성 및 중국의 유사 기술 개발 동향이 주요 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-15T08:37:59.727613Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
