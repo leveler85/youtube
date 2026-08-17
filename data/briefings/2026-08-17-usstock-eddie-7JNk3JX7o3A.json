@@ -1,0 +1,19 @@
+{
+  "video_id": "7JNk3JX7o3A",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 월가 큰손들 AI·메모리 투자 열풍(13F 공시) | VIX 변동성지수 및 거래량 올해 중 가장 저조 | 트럼프, 한미연합훈련 대폭 축소 | 미국 증시 실시간",
+  "published_at": "2026-08-17T07:54:30Z",
+  "video_url": "https://www.youtube.com/watch?v=7JNk3JX7o3A",
+  "thumbnail_url": "https://i.ytimg.com/vi/7JNk3JX7o3A/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-17T08:50:42.410930Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
