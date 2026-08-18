@@ -1,0 +1,19 @@
+{
+  "video_id": "224381241715",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "미국국채 금리가 끝없이 오르는 이유는?",
+  "published_at": "2026-08-17T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224381241715",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MTdfMzcg/MDAxNzg2OTUxOTYwMDAx.7Jb2p2ju-3_P_AGT9PtrOyr6WHeoEZmFcV-OYf9V7Wgg.1sCqGMGLPOzySQOONrYGMGU6edfJMjpC_1P8WPBvNbEg.PNG/ChatGPT_Image_2026%B3%E2_8%BF%F9_17%C0%CF_%BF%C0%C8%C4_04_32_25.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**美 국채금리 급등의 구조적 원인**\n\n미국 장기 국채금리가 연일 치솟아 주택담보대출, 기업 자금 조달, 정부 이자 비용에 막대한 부담을 주고 있다. 재무장관의 다각적인 노력에도 불구하고, 장기금리 상승의 근본 원인인 인플레이션과 막대한 재정적자로 인한 국채 공급 폭증은 재무부 통제 범위를 벗어난다. 연방준비제도(Fed)의 양적완화(QE)만이 해결책으로 제시되지만, 현 연준의장(워시)의 QE 혐오와 대차대조표 축소(QT) 고수 방침이 걸림돌이다.\n\n미국 10년물 국채금리는 4.7%, 30년물은 5.25%로 19년 만에 최고치를 기록했다. 재무장관(베센트)은 10년물 금리의 중요성을 강조하며 국채 안정화를 성공 지표로 삼았다. 그는 일본의 엔화 매도 저지, SLR 규제 완화(8개 대형은행의 국채 매수 여력 증대), 분기 380억 달러 규모의 국채 바이백 프로그램을 실행했다. 그러나 이런 조치들은 금리 상승 속도 조절에 불과하다. 2026년 1.9조 달러, 이후 연평균 2.4조 달러로 예상되는 재정적자에 따른 국채 발행량 증가는 재무부 통제 밖의 영역이다.\n\n현재 연준의장(워시)이 인플레이션 제어와 대차대조표 축소(QT)를 병행하며 기준금리 인하를 추진할 경우, 단기금리는 낮아져도 장기금리는 오히려 상승 압력을 받아 장단기 금리차 확대(커브 스티프닝)를 초래할 수 있다. 이는 재무부와 트럼프가 바라는 장기금리 안정을 저해하는 역효과를 낳는다. 다음 관전 포인트는 9월 통과가 재시도되는 '클라리티 법안'이다. 이 법안으로 스테이블코인 시장이 2030년까지 최대 3조 달러 규모로 성장할 경우, 단기국채 수요가 늘어 재무부가 장기국채 발행량을 줄여 금리 안정화를 꾀할 수 있을지 주목된다.",
+  "failure_reason": null,
+  "generated_at": "2026-08-18T08:46:36.888092Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
