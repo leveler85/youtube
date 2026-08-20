@@ -1,0 +1,19 @@
+{
+  "video_id": "Kt1UbYGMYrA",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 베센트 미 재무부장관, 장기국채 규모 두 배로 확대 | 삼성전자, 주주환원 150조원 예고 | 트럼프 대통령 서명식 | 미국 증시 실시간",
+  "published_at": "2026-08-20T08:01:38Z",
+  "video_url": "https://www.youtube.com/watch?v=Kt1UbYGMYrA",
+  "thumbnail_url": "https://i.ytimg.com/vi/Kt1UbYGMYrA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-20T08:47:33.522920Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
