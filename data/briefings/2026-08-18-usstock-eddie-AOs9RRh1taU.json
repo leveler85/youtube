@@ -1,0 +1,19 @@
+{
+  "video_id": "AOs9RRh1taU",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(8/17/26, 월) 월가 큰손들 AI·메모리 투자 열풍(13F 공시) | VIX 변동성지수 및 거래량 올해 중 가장 저조 | 미국 증시 실시간",
+  "published_at": "2026-08-17T21:52:36Z",
+  "video_url": "https://www.youtube.com/watch?v=AOs9RRh1taU",
+  "thumbnail_url": "https://i.ytimg.com/vi/AOs9RRh1taU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-24T08:52:10.339970Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

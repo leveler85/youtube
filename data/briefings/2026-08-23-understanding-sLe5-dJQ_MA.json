@@ -1,0 +1,19 @@
+{
+  "video_id": "sLe5-dJQ_MA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "적군보다 일본군을 더 많이 죽인 일본 장군",
+  "published_at": "2026-08-23T14:15:11Z",
+  "video_url": "https://www.youtube.com/watch?v=sLe5-dJQ_MA",
+  "thumbnail_url": "https://i.ytimg.com/vi/sLe5-dJQ_MA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-24T08:52:04.257744Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

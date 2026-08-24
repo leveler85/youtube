@@ -1,0 +1,19 @@
+{
+  "video_id": "Jh_psMUDxNQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "투표로 썩어버린 피파, 한국인이 구도 깼다 | 북언더스탠딩 | 피파 마피아 2부 | 남궁민 북칼럼니스트",
+  "published_at": "2026-08-23T11:55:33Z",
+  "video_url": "https://www.youtube.com/watch?v=Jh_psMUDxNQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/Jh_psMUDxNQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-24T08:52:04.744131Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
