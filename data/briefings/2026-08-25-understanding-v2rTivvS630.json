@@ -1,0 +1,19 @@
+{
+  "video_id": "v2rTivvS630",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "맞춤형 모더나 암백신, 가격은 7억원입니다 (카이스트 의과학대학원 신의철 교수)",
+  "published_at": "2026-08-25T07:55:07Z",
+  "video_url": "https://www.youtube.com/watch?v=v2rTivvS630",
+  "thumbnail_url": "https://i.ytimg.com/vi/v2rTivvS630/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-25T08:47:30.443503Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

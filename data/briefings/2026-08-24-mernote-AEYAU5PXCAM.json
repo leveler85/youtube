@@ -1,0 +1,19 @@
+{
+  "video_id": "AEYAU5PXCAM",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "직원 500명이 올트먼 편든 이유",
+  "published_at": "2026-08-24T08:53:40Z",
+  "video_url": "https://www.youtube.com/watch?v=AEYAU5PXCAM",
+  "thumbnail_url": "https://i.ytimg.com/vi/AEYAU5PXCAM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-25T08:47:35.143373Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

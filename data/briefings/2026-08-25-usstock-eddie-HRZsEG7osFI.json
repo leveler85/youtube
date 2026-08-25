@@ -1,0 +1,19 @@
+{
+  "video_id": "HRZsEG7osFI",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(8/24/26, 월) 베센트 재무부장관 기자회견, 이란 제재 발표 | 미국-캐나다 무역 협정 결렬 | 이번주 엔비디아, 잭슨홀 등 '수퍼 위크' | 미국 증시 실시간",
+  "published_at": "2026-08-25T06:29:15Z",
+  "video_url": "https://www.youtube.com/watch?v=HRZsEG7osFI",
+  "thumbnail_url": "https://i.ytimg.com/vi/HRZsEG7osFI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-25T08:47:41.886648Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

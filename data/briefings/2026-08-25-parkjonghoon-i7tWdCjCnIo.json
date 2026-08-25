@@ -1,0 +1,19 @@
+{
+  "video_id": "i7tWdCjCnIo",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "28년 만에 깨진 달러 신화, 금이 미국 국채를 이겼다",
+  "published_at": "2026-08-24T21:30:24Z",
+  "video_url": "https://www.youtube.com/watch?v=i7tWdCjCnIo",
+  "thumbnail_url": "https://i.ytimg.com/vi/i7tWdCjCnIo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-25T08:47:23.642760Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

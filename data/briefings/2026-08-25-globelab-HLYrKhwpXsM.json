@@ -1,0 +1,19 @@
+{
+  "video_id": "HLYrKhwpXsM",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "환경교육의 딜레마, 왜 어른의 실패가 아이의 의무가 되었나? [지구본 도서관]",
+  "published_at": "2026-08-24T22:00:22Z",
+  "video_url": "https://www.youtube.com/watch?v=HLYrKhwpXsM",
+  "thumbnail_url": "https://i.ytimg.com/vi/HLYrKhwpXsM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-25T08:47:33.312568Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
