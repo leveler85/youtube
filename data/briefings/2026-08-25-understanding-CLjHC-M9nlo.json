@@ -1,0 +1,19 @@
+{
+  "video_id": "CLjHC-M9nlo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "내껀데 무슨 상관 vs 그래도 그건 좀..",
+  "published_at": "2026-08-25T14:15:06Z",
+  "video_url": "https://www.youtube.com/watch?v=CLjHC-M9nlo",
+  "thumbnail_url": "https://i.ytimg.com/vi/CLjHC-M9nlo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-26T08:49:15.603266Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "4WVgHxsshJw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "삼성전자·SK하이닉스 폭락한 이유, 언제까지 조심해야될까?",
+  "published_at": "2026-08-24T10:06:09Z",
+  "video_url": "https://www.youtube.com/watch?v=4WVgHxsshJw",
+  "thumbnail_url": "https://i.ytimg.com/vi/4WVgHxsshJw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-26T08:49:25.525545Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

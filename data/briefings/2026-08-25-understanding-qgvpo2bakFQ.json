@@ -1,0 +1,19 @@
+{
+  "video_id": "qgvpo2bakFQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "중국 1위 로봇회사의 폭로 \"10년 내에는 안 된다\" (해담경제연구소 어예진 소장)",
+  "published_at": "2026-08-25T12:25:23Z",
+  "video_url": "https://www.youtube.com/watch?v=qgvpo2bakFQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/qgvpo2bakFQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-26T08:49:16.502333Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

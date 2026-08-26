@@ -1,0 +1,19 @@
+{
+  "video_id": "F6MhZ05hIGk",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "용산공원 조 단위 정화비, 그 돈은 누가 낼까?",
+  "published_at": "2026-08-25T09:07:00Z",
+  "video_url": "https://www.youtube.com/watch?v=F6MhZ05hIGk",
+  "thumbnail_url": "https://i.ytimg.com/vi/F6MhZ05hIGk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-26T08:49:20.912135Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

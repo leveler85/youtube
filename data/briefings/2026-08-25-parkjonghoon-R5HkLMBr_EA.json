@@ -1,0 +1,19 @@
+{
+  "video_id": "R5HkLMBr_EA",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "이자폭탄 맞은 일본, 한국은 안전할까?(박종훈의 지식한방)",
+  "published_at": "2026-08-25T10:45:35Z",
+  "video_url": "https://www.youtube.com/watch?v=R5HkLMBr_EA",
+  "thumbnail_url": "https://i.ytimg.com/vi/R5HkLMBr_EA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-26T08:49:04.840060Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
