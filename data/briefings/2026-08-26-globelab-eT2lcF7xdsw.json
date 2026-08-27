@@ -1,0 +1,19 @@
+{
+  "video_id": "eT2lcF7xdsw",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "결국 또 답을 찾은 한국 정유산업 근황 [지구본 뉴스룸]",
+  "published_at": "2026-08-26T09:00:07Z",
+  "video_url": "https://www.youtube.com/watch?v=eT2lcF7xdsw",
+  "thumbnail_url": "https://i.ytimg.com/vi/eT2lcF7xdsw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:19.220119Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

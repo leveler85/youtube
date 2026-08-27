@@ -1,0 +1,19 @@
+{
+  "video_id": "lT0QKJ93DJs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(2부) 반도체 꿀단지 2년 남았다, 삼성·SK 덮칠 물량 폭탄 (성균관대 공과대학 부학장 권석준 교수)",
+  "published_at": "2026-08-27T07:55:38Z",
+  "video_url": "https://www.youtube.com/watch?v=lT0QKJ93DJs",
+  "thumbnail_url": "https://i.ytimg.com/vi/lT0QKJ93DJs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:17.047557Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

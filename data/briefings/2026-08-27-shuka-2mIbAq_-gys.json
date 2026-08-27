@@ -1,0 +1,19 @@
+{
+  "video_id": "2mIbAq_-gys",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "선거를 앞두고 '국민 1인당 44만원'을 뿌리는 나라",
+  "published_at": "2026-08-27T10:54:34Z",
+  "video_url": "https://www.youtube.com/watch?v=2mIbAq_-gys",
+  "thumbnail_url": "https://i.ytimg.com/vi/2mIbAq_-gys/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:08.611511Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

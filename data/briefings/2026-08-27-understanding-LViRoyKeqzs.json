@@ -1,0 +1,19 @@
+{
+  "video_id": "LViRoyKeqzs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "어쩌면... 애플이 중국 메모리 원하는 진짜 이유?",
+  "published_at": "2026-08-27T14:15:26Z",
+  "video_url": "https://www.youtube.com/watch?v=LViRoyKeqzs",
+  "thumbnail_url": "https://i.ytimg.com/vi/LViRoyKeqzs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:15.898433Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

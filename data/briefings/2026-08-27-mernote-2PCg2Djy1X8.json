@@ -1,0 +1,19 @@
+{
+  "video_id": "2PCg2Djy1X8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "월성원전에 잠든 1.7억짜리 물질",
+  "published_at": "2026-08-27T09:09:49Z",
+  "video_url": "https://www.youtube.com/watch?v=2PCg2Djy1X8",
+  "thumbnail_url": "https://i.ytimg.com/vi/2PCg2Djy1X8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:21.230254Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

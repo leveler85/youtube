@@ -1,0 +1,19 @@
+{
+  "video_id": "YMCOWsYIW7Y",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "트럼프의 캐나다 때리기, 나폴레옹 몰락과 닮은 이유 (박종훈의 지식한방)",
+  "published_at": "2026-08-27T10:50:39Z",
+  "video_url": "https://www.youtube.com/watch?v=YMCOWsYIW7Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/YMCOWsYIW7Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-27T18:58:01.405799Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
