@@ -1,0 +1,19 @@
+{
+  "video_id": "LiQFNYHrKrc",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "미국이 스스로 무너지는 것처럼 느껴지는 이유 f.둠 루프 [지구본 도서관]",
+  "published_at": "2026-08-27T22:00:04Z",
+  "video_url": "https://www.youtube.com/watch?v=LiQFNYHrKrc",
+  "thumbnail_url": "https://i.ytimg.com/vi/LiQFNYHrKrc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-28T20:05:23.098606Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

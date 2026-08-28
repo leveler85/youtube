@@ -1,0 +1,19 @@
+{
+  "video_id": "kOx6FE4mlGE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "세계 최초로 개발한 기술이 한국에서 망하는 과정",
+  "published_at": "2026-08-28T14:15:16Z",
+  "video_url": "https://www.youtube.com/watch?v=kOx6FE4mlGE",
+  "thumbnail_url": "https://i.ytimg.com/vi/kOx6FE4mlGE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-28T20:05:17.145355Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

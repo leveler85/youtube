@@ -1,0 +1,19 @@
+{
+  "video_id": "K9mZXPCZC0M",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "용산 대신 강남? 이것도 10년 걸린다 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-08-28T07:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=K9mZXPCZC0M",
+  "thumbnail_url": "https://i.ytimg.com/vi/K9mZXPCZC0M/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-28T20:05:18.175856Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

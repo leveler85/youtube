@@ -1,0 +1,19 @@
+{
+  "video_id": "i7tChHKa71o",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "주가 바닥인 기업, 세금 비상 걸렸다 (법무법인 가온 강남규 변호사)",
+  "published_at": "2026-08-28T12:25:05Z",
+  "video_url": "https://www.youtube.com/watch?v=i7tChHKa71o",
+  "thumbnail_url": "https://i.ytimg.com/vi/i7tChHKa71o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-28T20:05:17.656020Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

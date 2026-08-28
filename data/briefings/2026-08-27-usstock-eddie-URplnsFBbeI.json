@@ -1,0 +1,19 @@
+{
+  "video_id": "URplnsFBbeI",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(8/26/26, 수) 엔비디아 2분기 실적발표 | PCE 물가지수, 개인소득 지표 발표 | 베센트 재무부, 채권 바이백 영향 보이기 시작 | 미국 증시 실시간",
+  "published_at": "2026-08-26T23:38:14Z",
+  "video_url": "https://www.youtube.com/watch?v=URplnsFBbeI",
+  "thumbnail_url": "https://i.ytimg.com/vi/URplnsFBbeI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-28T20:05:29.987000Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
