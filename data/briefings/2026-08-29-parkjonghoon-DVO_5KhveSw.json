@@ -1,0 +1,19 @@
+{
+  "video_id": "DVO_5KhveSw",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "트럼프가 중국 대신 캐나다 때린 이유 (지식한방)",
+  "published_at": "2026-08-29T10:45:24Z",
+  "video_url": "https://www.youtube.com/watch?v=DVO_5KhveSw",
+  "thumbnail_url": "https://i.ytimg.com/vi/DVO_5KhveSw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:40.708162Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

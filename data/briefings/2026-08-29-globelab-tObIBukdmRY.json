@@ -1,0 +1,19 @@
+{
+  "video_id": "tObIBukdmRY",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "말 많은 중국 드론 택시, 제가 직접 타 봤습니다 f.조진서 에디터 [지구본 초대석]",
+  "published_at": "2026-08-28T23:00:03Z",
+  "video_url": "https://www.youtube.com/watch?v=tObIBukdmRY",
+  "thumbnail_url": "https://i.ytimg.com/vi/tObIBukdmRY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:52.439330Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "1UA44vxvr7o",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "모더나 암백신이 가장 먼저 정복할 암",
+  "published_at": "2026-08-26T14:15:06Z",
+  "video_url": "https://www.youtube.com/watch?v=1UA44vxvr7o",
+  "thumbnail_url": "https://i.ytimg.com/vi/1UA44vxvr7o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:50.289678Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

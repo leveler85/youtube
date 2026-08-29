@@ -1,0 +1,19 @@
+{
+  "video_id": "aynIIXwG_14",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "포스코 한 곳이 나라 탄소의 10%",
+  "published_at": "2026-08-29T11:18:43Z",
+  "video_url": "https://www.youtube.com/watch?v=aynIIXwG_14",
+  "thumbnail_url": "https://i.ytimg.com/vi/aynIIXwG_14/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:53.883710Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

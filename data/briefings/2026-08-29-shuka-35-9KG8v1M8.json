@@ -1,0 +1,19 @@
+{
+  "video_id": "35-9KG8v1M8",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "부동산 버블이 터지고, 주식 시장으로 몰려가는 중국인들",
+  "published_at": "2026-08-29T11:44:57Z",
+  "video_url": "https://www.youtube.com/watch?v=35-9KG8v1M8",
+  "thumbnail_url": "https://i.ytimg.com/vi/35-9KG8v1M8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:43.406460Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

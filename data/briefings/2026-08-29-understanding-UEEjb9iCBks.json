@@ -1,0 +1,19 @@
+{
+  "video_id": "UEEjb9iCBks",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "미국 못 쓰는 의료 AI 아프리카 맘껏 쓴다 (인디애나 대학교 의과대학 조태호 교수)",
+  "published_at": "2026-08-29T11:55:31Z",
+  "video_url": "https://www.youtube.com/watch?v=UEEjb9iCBks",
+  "thumbnail_url": "https://i.ytimg.com/vi/UEEjb9iCBks/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:49.977096Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

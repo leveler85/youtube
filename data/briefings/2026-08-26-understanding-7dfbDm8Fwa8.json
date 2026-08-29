@@ -1,0 +1,19 @@
+{
+  "video_id": "7dfbDm8Fwa8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "서울 한복판 63빌딩 20개, 아파트는 안 된다? (더 큐리어스 김열매 대표)",
+  "published_at": "2026-08-26T12:25:12Z",
+  "video_url": "https://www.youtube.com/watch?v=7dfbDm8Fwa8",
+  "thumbnail_url": "https://i.ytimg.com/vi/7dfbDm8Fwa8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-29T13:42:50.648102Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
