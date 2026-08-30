@@ -1,0 +1,19 @@
+{
+  "video_id": "Ywu3UAx9TsA",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "더는 당하지 않겠다! 시작된 미국의 탈중국 설계 [지구본 뉴스룸]",
+  "published_at": "2026-08-30T09:31:14Z",
+  "video_url": "https://www.youtube.com/watch?v=Ywu3UAx9TsA",
+  "thumbnail_url": "https://i.ytimg.com/vi/Ywu3UAx9TsA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-30T13:40:47.270364Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

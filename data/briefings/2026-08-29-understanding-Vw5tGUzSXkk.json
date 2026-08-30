@@ -1,0 +1,19 @@
+{
+  "video_id": "Vw5tGUzSXkk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "LNG 수출 1위 미국 셰일가스빨이다?",
+  "published_at": "2026-08-29T14:15:36Z",
+  "video_url": "https://www.youtube.com/watch?v=Vw5tGUzSXkk",
+  "thumbnail_url": "https://i.ytimg.com/vi/Vw5tGUzSXkk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-30T13:40:44.891758Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

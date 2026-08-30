@@ -1,0 +1,19 @@
+{
+  "video_id": "WV4twypGPlQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "30년 숨겨진 피검사 의학계 충격 막장 드라마 (서울대병원 이승훈 교수)",
+  "published_at": "2026-08-30T11:55:22Z",
+  "video_url": "https://www.youtube.com/watch?v=WV4twypGPlQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/WV4twypGPlQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-30T13:40:43.778885Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

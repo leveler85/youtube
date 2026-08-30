@@ -1,0 +1,19 @@
+{
+  "video_id": "JcUINxj2kZI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "푸틴도 고개 숙였다, 강대국 휘어잡는 소국들 (해담경제연구소 어예진 소장)",
+  "published_at": "2026-08-30T05:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=JcUINxj2kZI",
+  "thumbnail_url": "https://i.ytimg.com/vi/JcUINxj2kZI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-30T13:40:44.293005Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
