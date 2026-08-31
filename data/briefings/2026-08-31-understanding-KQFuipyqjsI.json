@@ -1,0 +1,19 @@
+{
+  "video_id": "KQFuipyqjsI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "가뭄에 이란 전쟁까지, 파나마 운하 최악 위기 올 수 있다 (언더스탠딩 김상훈 기자)",
+  "published_at": "2026-08-31T07:55:02Z",
+  "video_url": "https://www.youtube.com/watch?v=KQFuipyqjsI",
+  "thumbnail_url": "https://i.ytimg.com/vi/KQFuipyqjsI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-31T15:59:16.711854Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

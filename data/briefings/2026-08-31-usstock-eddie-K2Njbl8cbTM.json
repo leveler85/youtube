@@ -1,0 +1,19 @@
+{
+  "video_id": "K2Njbl8cbTM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) G20 재무장관, 중앙은행 회의 시작 | 미국-이란, 한달여만에 공습 및 유가 상승 | 미국 증시 실시간",
+  "published_at": "2026-08-31T05:26:02Z",
+  "video_url": "https://www.youtube.com/watch?v=K2Njbl8cbTM",
+  "thumbnail_url": "https://i.ytimg.com/vi/K2Njbl8cbTM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-31T15:59:23.512517Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

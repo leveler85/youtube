@@ -1,0 +1,19 @@
+{
+  "video_id": "jqG5sIeOrMw",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "하루 10억 달러를 벌어 영란은행을 꺾은 팀이, 지금 미국 국채를 방어한다",
+  "published_at": "2026-08-31T08:54:35Z",
+  "video_url": "https://www.youtube.com/watch?v=jqG5sIeOrMw",
+  "thumbnail_url": "https://i.ytimg.com/vi/jqG5sIeOrMw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-31T15:59:19.966502Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

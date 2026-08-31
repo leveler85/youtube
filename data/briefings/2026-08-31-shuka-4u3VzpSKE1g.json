@@ -1,0 +1,19 @@
+{
+  "video_id": "4u3VzpSKE1g",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "강제 장기투자로 들어간 K-개미들",
+  "published_at": "2026-08-31T10:09:29Z",
+  "video_url": "https://www.youtube.com/watch?v=4u3VzpSKE1g",
+  "thumbnail_url": "https://i.ytimg.com/vi/4u3VzpSKE1g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-31T15:59:09.422066Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

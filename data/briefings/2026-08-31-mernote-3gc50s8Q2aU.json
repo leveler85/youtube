@@ -1,0 +1,19 @@
+{
+  "video_id": "3gc50s8Q2aU",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "마트 투자를 거절하고 벌어진 일",
+  "published_at": "2026-08-31T03:21:59Z",
+  "video_url": "https://www.youtube.com/watch?v=3gc50s8Q2aU",
+  "thumbnail_url": "https://i.ytimg.com/vi/3gc50s8Q2aU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-08-31T15:59:20.616060Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
