@@ -1,0 +1,19 @@
+{
+  "video_id": "Go37CJQstpw",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "네팔•티베트 대홍수, 어째서 알고도 막지 못했나 f. 인도환타 [지구본 초대석]",
+  "published_at": "2026-08-31T22:00:20Z",
+  "video_url": "https://www.youtube.com/watch?v=Go37CJQstpw",
+  "thumbnail_url": "https://i.ytimg.com/vi/Go37CJQstpw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-01T13:16:51.404287Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

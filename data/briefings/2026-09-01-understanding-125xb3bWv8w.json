@@ -1,0 +1,19 @@
+{
+  "video_id": "125xb3bWv8w",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "빡빡한 주차장 규제가 빌라 공급 막습니다 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-09-01T12:25:38Z",
+  "video_url": "https://www.youtube.com/watch?v=125xb3bWv8w",
+  "thumbnail_url": "https://i.ytimg.com/vi/125xb3bWv8w/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-01T13:16:47.477431Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

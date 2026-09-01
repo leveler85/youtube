@@ -1,0 +1,19 @@
+{
+  "video_id": "k8xYqyeX9Ig",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스·삼성전자 앞으로 더 오른다? 샌디스크 폭등한 진짜 이유",
+  "published_at": "2026-09-01T05:21:59Z",
+  "video_url": "https://www.youtube.com/watch?v=k8xYqyeX9Ig",
+  "thumbnail_url": "https://i.ytimg.com/vi/k8xYqyeX9Ig/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-01T13:16:57.829126Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

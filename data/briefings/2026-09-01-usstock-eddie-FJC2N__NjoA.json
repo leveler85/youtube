@@ -1,0 +1,19 @@
+{
+  "video_id": "FJC2N__NjoA",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 호르무즈 해협 유조선 두 척 피격, 유가 상승 | ISM 제조업, JOLTS 구인이직 보고서 | 미즈호, '마이크론과 샌디스크는 믿기 힘든 저평가' | 미국 증시 실시간",
+  "published_at": "2026-08-31T20:53:59Z",
+  "video_url": "https://www.youtube.com/watch?v=FJC2N__NjoA",
+  "thumbnail_url": "https://i.ytimg.com/vi/FJC2N__NjoA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-01T13:16:57.240602Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

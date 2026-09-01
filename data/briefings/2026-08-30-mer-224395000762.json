@@ -1,0 +1,19 @@
+{
+  "video_id": "224395000762",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "새로운 에너지, 핵융합 발전이 빨라지고 있다. 2 (feat 스페이스X)",
+  "published_at": "2026-08-30T14:30:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224395000762",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA4MzBfODEg/MDAxNzg4MDY3ODQ1NDM1.EtShSVPiNZ-VJdOdgKc7hBG6H-RaO-5R6nYpfnWFsH8g.lUjSebKaY8t4BghDX1WxQEn_zL3SXtRlxE2K8RVHevog.PNG/Gemini_Generated_Image_k92r7uk92r7uk92r.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**핵융합 발전, 달 자원 및 민간 주도**\n\n핵융합 발전 기술 개발이 달 자원 확보와 민간 투자를 바탕으로 빠르게 진전되고 있다. 현재 연구는 삼중수소 재활용 기술과 달에서 헬륨3를 채굴하여 사용하는 두 가지 방향으로 진행되며, 특히 헬륨3 확보를 위한 '달 경제권' 구상이 구체화되고 있다. 동시에 커먼웰스 퓨전 시스템스(CFS)와 헬리온 에너지(Helion Energy) 같은 민간 기업들이 막대한 자본과 기술력을 바탕으로 상용화 목표를 앞당기고 있다. 미국 정부 또한 핵융합 에너지 상용화를 위한 로드맵을 발표하며 민관 협력에 박차를 가하고 있다.\n\n핵융합 연료 중 삼중수소는 1억도, 헬륨3는 6억도 이상의 플라스마 유지 온도가 필요해 헬륨3 방식이 더 어렵다. 삼중수소는 리튬을 활용한 자가 생산 기술이 연구 중이나 아직 공학적 실증 단계에 이르지 못했다. 반면 헬륨3는 달 표면에 수십억 년간 태양풍으로 축적되어 채굴 가능성이 높다. NASA는 2026년 5월 달 기지 계획을 발표하며 2028년 유인 착륙, 2029년 단기 거주를 목표로 300제곱마일(777㎢) 규모의 영구 달 기지를 구상 중이다. 이 '달 경제권'의 핵심 수익 모델 중 하나로 헬륨3 채굴을 제시하며, 인터룬(Interlune)은 시간당 달 표토 100톤 처리 굴착기 시제품을 공개하고 2029년 첫 상업 채굴을 목표로 한다. 인터룬은 핀란드 블루포스와 2028~2037년 연간 1.3kg의 달 헬륨3를 3억 달러 규모로 공급하는 계약을 체결했는데, 이는 주로 양자컴퓨터 냉각용이다. 미국 에너지부(DOE)도 2029년 시장가로 0.4g을 핵융합 연구용으로 인도받기로 했으며, 헬륨3 운송은 SpaceX의 스타십(Starship)이 담당할 예정이다. 민간 기업의 약진도 두드러진다. CFS(Commonwealth Fusion Systems)는 2021년 투입 에너지 대비 생산 에너지 우위를 이론적으로 입증한 MIT 기반 회사로, 빌 게이츠와 제프 베이조스 등으로부터 20억 달러 이상을 투자받았다. CFS는 2025년 7월 1일 구글과 200메가와트의 핵융합 에너지 구매 계약을 체결하고, 2027년 말 시연기 가동과 함께 400메가와트급 상업 발전소 '아크(ARC)'를 버지니아에 건설 중이다. 오픈AI의 샘 알트먼이 3억 7,500만 달러를 투자한 헬리온 에너지(Helion Energy)도 헬륨3 방식에 도전하며 상용화를 추진 중이다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-01T13:17:35.341660Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "XXpW-QNHcCk",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "트럼프가 관세 50%를 부과하자, 캐나다가 보인 반응",
+  "published_at": "2026-09-01T08:13:03Z",
+  "video_url": "https://www.youtube.com/watch?v=XXpW-QNHcCk",
+  "thumbnail_url": "https://i.ytimg.com/vi/XXpW-QNHcCk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-01T13:16:41.750734Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
