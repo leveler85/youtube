@@ -1,0 +1,19 @@
+{
+  "video_id": "e3jLOQUfkyI",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "이란 전쟁이 끝날 3가지 신호 (박종훈의 지식한방)",
+  "published_at": "2026-09-02T11:20:27Z",
+  "video_url": "https://www.youtube.com/watch?v=e3jLOQUfkyI",
+  "thumbnail_url": "https://i.ytimg.com/vi/e3jLOQUfkyI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-02T12:38:46.433631Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

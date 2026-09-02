@@ -1,0 +1,19 @@
+{
+  "video_id": "tMzABQMktwA",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 브로드컴 2분기 실적발표 | 연준 베이지북 발표 | 미국-이란 공습으로 유가 상승, 금리 상승 | 미국 증시 실시간",
+  "published_at": "2026-09-02T06:30:11Z",
+  "video_url": "https://www.youtube.com/watch?v=tMzABQMktwA",
+  "thumbnail_url": "https://i.ytimg.com/vi/tMzABQMktwA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-02T12:39:07.283677Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

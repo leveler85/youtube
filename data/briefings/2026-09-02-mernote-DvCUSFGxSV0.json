@@ -1,0 +1,19 @@
+{
+  "video_id": "DvCUSFGxSV0",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "홈플러스 무너지면 1만 2천 명 실직",
+  "published_at": "2026-09-02T08:48:11Z",
+  "video_url": "https://www.youtube.com/watch?v=DvCUSFGxSV0",
+  "thumbnail_url": "https://i.ytimg.com/vi/DvCUSFGxSV0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-02T12:39:04.608053Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "9cuii7FTJBg",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "노인빈곤율 OECD 1위, 연금이 얼마나 적길래 이럴까? [연금 특별편]",
+  "published_at": "2026-09-02T09:00:13Z",
+  "video_url": "https://www.youtube.com/watch?v=9cuii7FTJBg",
+  "thumbnail_url": "https://i.ytimg.com/vi/9cuii7FTJBg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-02T12:39:02.481188Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

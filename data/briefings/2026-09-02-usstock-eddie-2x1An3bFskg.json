@@ -1,0 +1,19 @@
+{
+  "video_id": "2x1An3bFskg",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스, 삼성전자 미장 반도체 앞으로 폭락일까?오히려 기회일 수 있는 이유",
+  "published_at": "2026-09-02T06:39:16Z",
+  "video_url": "https://www.youtube.com/watch?v=2x1An3bFskg",
+  "thumbnail_url": "https://i.ytimg.com/vi/2x1An3bFskg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-02T12:39:07.768611Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
