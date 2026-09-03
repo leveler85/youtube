@@ -1,0 +1,19 @@
+{
+  "video_id": "-BVsfukYDXY",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "중국은 왜 3차전지를 먼저 냈을까",
+  "published_at": "2026-09-03T05:04:16Z",
+  "video_url": "https://www.youtube.com/watch?v=-BVsfukYDXY",
+  "thumbnail_url": "https://i.ytimg.com/vi/-BVsfukYDXY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:42:09.713900Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

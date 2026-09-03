@@ -1,0 +1,19 @@
+{
+  "video_id": "k0RkZgCRJis",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(1부) 물 아닌 콘크리트 반죽, 시속 180km 네팔 덮쳤다 (부산대학교 지질환경과학과 김기범 교수)",
+  "published_at": "2026-09-03T07:55:17Z",
+  "video_url": "https://www.youtube.com/watch?v=k0RkZgCRJis",
+  "thumbnail_url": "https://i.ytimg.com/vi/k0RkZgCRJis/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:42:05.599194Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

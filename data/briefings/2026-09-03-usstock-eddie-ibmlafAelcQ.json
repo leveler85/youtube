@@ -1,0 +1,19 @@
+{
+  "video_id": "ibmlafAelcQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 8월 서비스 PMI 발표 | 7월 무역수지 · 주간 실업수당청구건수 | 실업률, 비농업고용 발표 D-1 | 미국 증시 실시간",
+  "published_at": "2026-09-03T06:43:37Z",
+  "video_url": "https://www.youtube.com/watch?v=ibmlafAelcQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/ibmlafAelcQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:42:12.401198Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

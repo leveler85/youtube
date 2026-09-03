@@ -1,0 +1,19 @@
+{
+  "video_id": "19JgEChjtok",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "트럼프가 한국 찍었다 중국 반도체 세탁 의혹 (생크션랩 조의준 대표)",
+  "published_at": "2026-09-03T12:25:32Z",
+  "video_url": "https://www.youtube.com/watch?v=19JgEChjtok",
+  "thumbnail_url": "https://i.ytimg.com/vi/19JgEChjtok/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:42:05.030000Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

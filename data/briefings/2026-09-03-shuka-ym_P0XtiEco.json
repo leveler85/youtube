@@ -1,0 +1,19 @@
+{
+  "video_id": "ym_P0XtiEco",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "'빚을 갚지 말자'는 주장에 발칵 뒤집힌 프랑스",
+  "published_at": "2026-09-03T10:52:53Z",
+  "video_url": "https://www.youtube.com/watch?v=ym_P0XtiEco",
+  "thumbnail_url": "https://i.ytimg.com/vi/ym_P0XtiEco/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:41:59.804378Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

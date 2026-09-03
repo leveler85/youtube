@@ -1,0 +1,19 @@
+{
+  "video_id": "19zBo_zkb6U",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "삼성전자·SK하이닉스 지금 안 사면 늦습니다? 상승 조건이 나왔습니다",
+  "published_at": "2026-09-03T07:25:55Z",
+  "video_url": "https://www.youtube.com/watch?v=19zBo_zkb6U",
+  "thumbnail_url": "https://i.ytimg.com/vi/19zBo_zkb6U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-03T12:42:13.042010Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
