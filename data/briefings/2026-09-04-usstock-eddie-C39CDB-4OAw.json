@@ -1,0 +1,19 @@
+{
+  "video_id": "C39CDB-4OAw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 8월 실업률 · 비농업고용지표 | 트럼프 행정명령 서명 | 9월 미국 금리인상 확률 50% | 테슬라 사이버캡 발표 | 미국 증시 실시간",
+  "published_at": "2026-09-04T05:17:02Z",
+  "video_url": "https://www.youtube.com/watch?v=C39CDB-4OAw",
+  "thumbnail_url": "https://i.ytimg.com/vi/C39CDB-4OAw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-04T12:35:48.933168Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

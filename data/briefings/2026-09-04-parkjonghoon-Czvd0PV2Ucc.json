@@ -1,0 +1,19 @@
+{
+  "video_id": "Czvd0PV2Ucc",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "강대국 돈 다 잡아먹는 중동의 소름돋는 비밀",
+  "published_at": "2026-09-04T11:30:13Z",
+  "video_url": "https://www.youtube.com/watch?v=Czvd0PV2Ucc",
+  "thumbnail_url": "https://i.ytimg.com/vi/Czvd0PV2Ucc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-04T12:35:27.265051Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

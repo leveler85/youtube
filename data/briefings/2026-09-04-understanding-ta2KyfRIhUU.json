@@ -1,0 +1,19 @@
+{
+  "video_id": "ta2KyfRIhUU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(1부) 불면증 신약 '데이비고', 기존 수면제와 무엇이 다른가 (강동경희대병원 신경과 신원철 교수)",
+  "published_at": "2026-09-04T12:25:31Z",
+  "video_url": "https://www.youtube.com/watch?v=ta2KyfRIhUU",
+  "thumbnail_url": "https://i.ytimg.com/vi/ta2KyfRIhUU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-04T12:35:37.408555Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
