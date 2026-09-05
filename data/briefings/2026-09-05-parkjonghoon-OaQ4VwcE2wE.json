@@ -1,0 +1,19 @@
+{
+  "video_id": "OaQ4VwcE2wE",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "원화 강세의 숨겨진 비밀 (박종훈의 지식한방)",
+  "published_at": "2026-09-05T04:00:17Z",
+  "video_url": "https://www.youtube.com/watch?v=OaQ4VwcE2wE",
+  "thumbnail_url": "https://i.ytimg.com/vi/OaQ4VwcE2wE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-05T11:43:47.972852Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

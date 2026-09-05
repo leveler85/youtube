@@ -1,0 +1,19 @@
+{
+  "video_id": "1eLMwHduciU",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "신토불이 코카, 펩시 나와라. 인도판 815 콜라는 어떻게 성공했나",
+  "published_at": "2026-09-05T07:48:08Z",
+  "video_url": "https://www.youtube.com/watch?v=1eLMwHduciU",
+  "thumbnail_url": "https://i.ytimg.com/vi/1eLMwHduciU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-05T11:43:51.345821Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

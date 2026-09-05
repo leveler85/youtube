@@ -1,0 +1,19 @@
+{
+  "video_id": "nast-mYptq4",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "7년마다 가슴을 다시 여는 이유",
+  "published_at": "2026-09-05T04:55:08Z",
+  "video_url": "https://www.youtube.com/watch?v=nast-mYptq4",
+  "thumbnail_url": "https://i.ytimg.com/vi/nast-mYptq4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-05T11:43:58.932974Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

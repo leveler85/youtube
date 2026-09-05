@@ -1,0 +1,19 @@
+{
+  "video_id": "egMYz1hM1VE",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "일론 머스크의 베팅, 138조 우주기지를 루이지애나에 짓는 이유 지구본 뉴스룸]",
+  "published_at": "2026-09-04T23:00:13Z",
+  "video_url": "https://www.youtube.com/watch?v=egMYz1hM1VE",
+  "thumbnail_url": "https://i.ytimg.com/vi/egMYz1hM1VE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-05T11:43:56.729772Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
