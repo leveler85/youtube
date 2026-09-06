@@ -1,0 +1,19 @@
+{
+  "video_id": "e6Hl9uSxQo8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "무관세 물량 기준이 대만인데 한국이 대만을 제쳤다면?",
+  "published_at": "2026-09-06T04:44:31Z",
+  "video_url": "https://www.youtube.com/watch?v=e6Hl9uSxQo8",
+  "thumbnail_url": "https://i.ytimg.com/vi/e6Hl9uSxQo8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:52.446940Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "h-rsI9Ea7dY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(2부) 멜라토닌 수면제 아니다, 자칫하면 다 망가진다 (강동경희대병원 신경과 신원철 교수)",
+  "published_at": "2026-09-05T11:55:22Z",
+  "video_url": "https://www.youtube.com/watch?v=h-rsI9Ea7dY",
+  "thumbnail_url": "https://i.ytimg.com/vi/h-rsI9Ea7dY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:46.925058Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

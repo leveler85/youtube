@@ -1,0 +1,19 @@
+{
+  "video_id": "VmZ4wsoMgV8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "빈 배 통행료 63억 파나마 최악의 위기 왔나?",
+  "published_at": "2026-09-05T14:15:05Z",
+  "video_url": "https://www.youtube.com/watch?v=VmZ4wsoMgV8",
+  "thumbnail_url": "https://i.ytimg.com/vi/VmZ4wsoMgV8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:46.450397Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

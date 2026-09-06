@@ -1,0 +1,19 @@
+{
+  "video_id": "ZvI7Od1uXkc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "[슈카월드] 아베노믹스는 끝났는가?/ 2차 공공기관 이전이 시작된다./ 드디어 등장한 테슬라 로보택시 사이버캡/ 일본은 왜 북극항로를 싫어하는가/ AI가 들이닥친 영상산업 근황",
+  "published_at": "2026-09-06T11:26:04Z",
+  "video_url": "https://www.youtube.com/watch?v=ZvI7Od1uXkc",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZvI7Od1uXkc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:41.925145Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

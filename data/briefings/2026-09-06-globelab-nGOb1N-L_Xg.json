@@ -1,0 +1,19 @@
+{
+  "video_id": "nGOb1N-L_Xg",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "은광 하나 없이 한국이 은 생산량 4위급인 비결 [지구본 뉴스룸]",
+  "published_at": "2026-09-05T23:00:10Z",
+  "video_url": "https://www.youtube.com/watch?v=nGOb1N-L_Xg",
+  "thumbnail_url": "https://i.ytimg.com/vi/nGOb1N-L_Xg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:48.841966Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

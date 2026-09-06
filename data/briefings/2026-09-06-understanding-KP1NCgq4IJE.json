@@ -1,0 +1,19 @@
+{
+  "video_id": "KP1NCgq4IJE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "청담동 1300억 빌딩 쇼핑 눈 먼 돈 쓸어담았다 (피치덱 이동열 대표)",
+  "published_at": "2026-09-06T05:55:06Z",
+  "video_url": "https://www.youtube.com/watch?v=KP1NCgq4IJE",
+  "thumbnail_url": "https://i.ytimg.com/vi/KP1NCgq4IJE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:45.954387Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

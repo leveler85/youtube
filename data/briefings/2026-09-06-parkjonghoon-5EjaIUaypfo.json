@@ -1,0 +1,19 @@
+{
+  "video_id": "5EjaIUaypfo",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "환율 1,350원대 추락, 달러 살때인가, 팔때인가? (박종훈의 지식한방)",
+  "published_at": "2026-09-06T06:55:21Z",
+  "video_url": "https://www.youtube.com/watch?v=5EjaIUaypfo",
+  "thumbnail_url": "https://i.ytimg.com/vi/5EjaIUaypfo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-06T12:01:39.494369Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
