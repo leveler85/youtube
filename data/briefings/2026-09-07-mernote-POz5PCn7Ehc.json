@@ -1,0 +1,19 @@
+{
+  "video_id": "POz5PCn7Ehc",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "코스트코를 먹여살리는 동네 이름",
+  "published_at": "2026-09-07T08:56:38Z",
+  "video_url": "https://www.youtube.com/watch?v=POz5PCn7Ehc",
+  "thumbnail_url": "https://i.ytimg.com/vi/POz5PCn7Ehc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-07T14:05:55.427554Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

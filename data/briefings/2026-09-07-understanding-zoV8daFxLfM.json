@@ -1,0 +1,19 @@
+{
+  "video_id": "zoV8daFxLfM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "금리 올려도 소용 없다? 미국 뒤에서 돈 풀고 있다 (ABP자산운용 성상현 전무)",
+  "published_at": "2026-09-07T07:55:06Z",
+  "video_url": "https://www.youtube.com/watch?v=zoV8daFxLfM",
+  "thumbnail_url": "https://i.ytimg.com/vi/zoV8daFxLfM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-07T14:05:50.795459Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "IrtIp2q7ltw",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "미국, 베네수엘라 유전 17곳 100년간 개발...유전 넘기는 것 아니냐 베네수엘라 국민들 화났다 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-09-07T12:25:06Z",
+  "video_url": "https://www.youtube.com/watch?v=IrtIp2q7ltw",
+  "thumbnail_url": "https://i.ytimg.com/vi/IrtIp2q7ltw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-07T14:05:50.178929Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
