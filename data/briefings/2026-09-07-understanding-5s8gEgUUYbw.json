@@ -1,0 +1,19 @@
+{
+  "video_id": "5s8gEgUUYbw",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "수면제 띄엄띄엄 먹어도 될까요?",
+  "published_at": "2026-09-07T14:15:08Z",
+  "video_url": "https://www.youtube.com/watch?v=5s8gEgUUYbw",
+  "thumbnail_url": "https://i.ytimg.com/vi/5s8gEgUUYbw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:42:50.549660Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

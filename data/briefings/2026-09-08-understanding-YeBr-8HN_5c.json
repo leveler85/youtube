@@ -1,0 +1,19 @@
+{
+  "video_id": "YeBr-8HN_5c",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "자사주 소각 안 하는 삼성 이유가 있습니다 (한국기업거버넌스포럼 김규식 이사) (1부)",
+  "published_at": "2026-09-08T12:25:22Z",
+  "video_url": "https://www.youtube.com/watch?v=YeBr-8HN_5c",
+  "thumbnail_url": "https://i.ytimg.com/vi/YeBr-8HN_5c/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:42:49.387873Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

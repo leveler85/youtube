@@ -1,0 +1,19 @@
+{
+  "video_id": "aEHhK_6cBZo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "7년만에 수도권 공공기관 지방 이전 발표",
+  "published_at": "2026-09-07T14:31:50Z",
+  "video_url": "https://www.youtube.com/watch?v=aEHhK_6cBZo",
+  "thumbnail_url": "https://i.ytimg.com/vi/aEHhK_6cBZo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:42:42.087747Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

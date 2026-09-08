@@ -1,0 +1,19 @@
+{
+  "video_id": "M7X8oab3wEU",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "이란 전쟁이 절대로안 끝나는 소름돋는 이유",
+  "published_at": "2026-09-08T10:45:15Z",
+  "video_url": "https://www.youtube.com/watch?v=M7X8oab3wEU",
+  "thumbnail_url": "https://i.ytimg.com/vi/M7X8oab3wEU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:42:37.430944Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

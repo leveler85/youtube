@@ -1,0 +1,19 @@
+{
+  "video_id": "z1IBC5TRT2Q",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "극우 정당의 압승에 충격받은 독일 근황 [지구본 뉴스룸]",
+  "published_at": "2026-09-08T09:03:01Z",
+  "video_url": "https://www.youtube.com/watch?v=z1IBC5TRT2Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/z1IBC5TRT2Q/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:42:53.264141Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "LA1b2gq8cWs",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 골드만삭스 기술 컨퍼런스 개막: AMD, 구글, SMCI, 브로드컴 | 국장 반도체 조정, 미장은? | 이번주 금, CPI 발표일 | 미국 증시 실시간",
+  "published_at": "2026-09-08T03:28:12Z",
+  "video_url": "https://www.youtube.com/watch?v=LA1b2gq8cWs",
+  "thumbnail_url": "https://i.ytimg.com/vi/LA1b2gq8cWs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-08T12:43:02.775912Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
