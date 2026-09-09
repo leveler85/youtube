@@ -1,0 +1,19 @@
+{
+  "video_id": "224404876483",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "한국의 대미투자 패키지 1호사업으로 거론되는 프로젝트는?",
+  "published_at": "2026-09-08T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224404876483",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MDhfMjI0/MDAxNzg4ODQ1MTI0MTQ1.zOlqf0lDIOCqYY-h3dbZdpTHjAzSZ83nkOTBDAFvfcsg.XkP6YbZlbiwly3mHbgjO6CeNagyG5AQ66Y5sYm22HuIg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**한미 투자 1호 발전사업**\n\n한국의 3,500억 달러 대미투자 패키지 중 첫 사업으로 미국 텍사스 엔시날에 대규모 가스복합화력발전단지 건설이 유력하게 추진된다. 산업통상부가 공식 부인하나, 당정 협의체 보고 및 비공식 MOU 논의가 포착되어 프로젝트 실체가 높은 것으로 판단된다. 이는 자체 전력 생산으로 인근 AI 데이터센터의 전력 수요를 충당하는 '발전 선행' 모델을 따른다.\n\n텍사스 엔시날은 루이스 에너지가 40년 이상 가스를 공급하는 이글포드 셰일 지역 요충지다. 6.3GW 가스복합화력발전단지 건설이 목표이며, 총 사업비는 223억 달러(약 30조 원)로 증액되었다. 발전소는 1.4GW 가스발전소 우선 건설 후 4.9GW 복합화력을 증설하며 55~64% 고효율을 자랑한다. 수요처는 릴레이티드 디지털이 발전소 옆에 개발할 AI 데이터센터다. 텍사스 주정부가 474GW 전력망 접속 요청으로 과부하를 겪자, 자체 전력 생산 사업을 선호해 본 프로젝트 승인 가능성이 높다. 하이퍼스케일러 수요 충분 시, 미국 웨스팅하우스 6기, 한국형 APR1400 2기를 포함한 8기 원전 건설(1,200~1300억 달러)도 후속 프로젝트로 검토된다.\n\n이 프로젝트는 한국의 대미 투자 이행 상징이자, 전력 자급형 AI 데이터센터 모델 실현 가능성을 보여준다. 그러나 투자 원금 회수 후 한국 1대 미국 9로 불리해지는 수익 배분 구조는 장기 수익성을 저해할 수 있다. 최종 수요처인 AI 데이터센터 확보 여부와 구체적 수익 모델 공개가 이 사업 성공의 핵심 관건이다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-09T12:50:34.836170Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

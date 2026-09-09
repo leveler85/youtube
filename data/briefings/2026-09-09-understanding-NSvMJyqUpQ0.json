@@ -1,0 +1,19 @@
+{
+  "video_id": "NSvMJyqUpQ0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "삼성 25조 안 내면 내 대출 금리 오른다 (언더스탠딩 김상훈 기자)",
+  "published_at": "2026-09-09T07:55:04Z",
+  "video_url": "https://www.youtube.com/watch?v=NSvMJyqUpQ0",
+  "thumbnail_url": "https://i.ytimg.com/vi/NSvMJyqUpQ0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-09T12:49:20.321867Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

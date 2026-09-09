@@ -1,0 +1,19 @@
+{
+  "video_id": "VdW04-pn6Bs",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 또다시 높은 유가, 국채 금리... 10년물국채입찰 | 애플 2026년 새로운 아이폰 발표 | 투자 은행 컨퍼런스: AMD, MRVL, NOW | 미국 증시 실시간",
+  "published_at": "2026-09-09T08:08:56Z",
+  "video_url": "https://www.youtube.com/watch?v=VdW04-pn6Bs",
+  "thumbnail_url": "https://i.ytimg.com/vi/VdW04-pn6Bs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-09T12:49:31.156264Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

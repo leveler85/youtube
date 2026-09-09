@@ -1,0 +1,19 @@
+{
+  "video_id": "-DFRDBpMxR8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "정부가 용산공원에 계산해 넣은 숫자",
+  "published_at": "2026-09-09T11:44:01Z",
+  "video_url": "https://www.youtube.com/watch?v=-DFRDBpMxR8",
+  "thumbnail_url": "https://i.ytimg.com/vi/-DFRDBpMxR8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-09T12:49:26.083738Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "0PX8ad4A2q4",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "공원 팠더니 나온 40배 물질",
+  "published_at": "2026-09-09T05:10:56Z",
+  "video_url": "https://www.youtube.com/watch?v=0PX8ad4A2q4",
+  "thumbnail_url": "https://i.ytimg.com/vi/0PX8ad4A2q4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-09T12:49:26.401212Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

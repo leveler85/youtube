@@ -1,0 +1,19 @@
+{
+  "video_id": "pudALUqiWIo",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "인도를 휩쓴 '바퀴벌레 시위' 결론은 어떻게 났나? f.인도환타 [지구본 초대석]",
+  "published_at": "2026-09-09T09:00:31Z",
+  "video_url": "https://www.youtube.com/watch?v=pudALUqiWIo",
+  "thumbnail_url": "https://i.ytimg.com/vi/pudALUqiWIo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-09T12:49:22.342187Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
