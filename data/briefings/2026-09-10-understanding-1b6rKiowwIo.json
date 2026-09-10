@@ -1,0 +1,19 @@
+{
+  "video_id": "1b6rKiowwIo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "휘발유마저 건드렸다 이란 폭발 직전이다 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-09-10T07:55:32Z",
+  "video_url": "https://www.youtube.com/watch?v=1b6rKiowwIo",
+  "thumbnail_url": "https://i.ytimg.com/vi/1b6rKiowwIo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-10T12:47:18.735533Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "CwBvAHBG2cU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "GPT 아스트라, 이런 게임 만드는데 딱 13분 걸렸습니다 (IT커뮤니케이션연구소 김덕진 소장)(1부)",
+  "published_at": "2026-09-10T12:25:03Z",
+  "video_url": "https://www.youtube.com/watch?v=CwBvAHBG2cU",
+  "thumbnail_url": "https://i.ytimg.com/vi/CwBvAHBG2cU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-10T12:47:18.365043Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "Zyr79pHQEzY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "수면제 부작용 이게 제일 무섭습니다",
+  "published_at": "2026-09-09T14:15:11Z",
+  "video_url": "https://www.youtube.com/watch?v=Zyr79pHQEzY",
+  "thumbnail_url": "https://i.ytimg.com/vi/Zyr79pHQEzY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-10T12:47:19.048544Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

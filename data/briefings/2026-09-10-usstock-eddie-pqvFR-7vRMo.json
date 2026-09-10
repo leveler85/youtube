@@ -1,0 +1,19 @@
+{
+  "video_id": "pqvFR-7vRMo",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 젠슨 황, 엔비디아 GS 컨퍼런스 | 30년물국채입찰 | 실적발표: 오라클, 어도비 | 8월 PPI 생산자물가지수 발표 | 미국 증시 실시간",
+  "published_at": "2026-09-10T07:30:17Z",
+  "video_url": "https://www.youtube.com/watch?v=pqvFR-7vRMo",
+  "thumbnail_url": "https://i.ytimg.com/vi/pqvFR-7vRMo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-10T12:47:28.480550Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

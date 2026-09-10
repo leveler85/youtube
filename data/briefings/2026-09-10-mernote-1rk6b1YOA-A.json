@@ -1,0 +1,19 @@
+{
+  "video_id": "1rk6b1YOA-A",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "오세훈이 1센티도 안 된다는 이유",
+  "published_at": "2026-09-10T03:02:25Z",
+  "video_url": "https://www.youtube.com/watch?v=1rk6b1YOA-A",
+  "thumbnail_url": "https://i.ytimg.com/vi/1rk6b1YOA-A/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-10T12:47:24.108849Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
