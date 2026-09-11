@@ -1,0 +1,19 @@
+{
+  "video_id": "YgiFuOFeX7k",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "국민연금이 상한을 9.5%포인트 넘긴 달",
+  "published_at": "2026-09-11T04:10:11Z",
+  "video_url": "https://www.youtube.com/watch?v=YgiFuOFeX7k",
+  "thumbnail_url": "https://i.ytimg.com/vi/YgiFuOFeX7k/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-11T12:41:53.950259Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

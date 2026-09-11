@@ -1,0 +1,19 @@
+{
+  "video_id": "cxeFF8lqOM8",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "서양인이 데이터로 분석한 좌파·우파 구별법? f.사고의 품격 [지구본 도서관]",
+  "published_at": "2026-09-10T22:00:03Z",
+  "video_url": "https://www.youtube.com/watch?v=cxeFF8lqOM8",
+  "thumbnail_url": "https://i.ytimg.com/vi/cxeFF8lqOM8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-11T12:41:48.234424Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

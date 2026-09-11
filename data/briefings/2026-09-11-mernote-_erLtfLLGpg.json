@@ -1,0 +1,19 @@
+{
+  "video_id": "_erLtfLLGpg",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "오픈AI에 꽂힌 1,000억 달러, 진짜 승자는 엔비디아인 이유",
+  "published_at": "2026-09-11T09:01:01Z",
+  "video_url": "https://www.youtube.com/watch?v=_erLtfLLGpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/_erLtfLLGpg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-11T12:41:53.485118Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

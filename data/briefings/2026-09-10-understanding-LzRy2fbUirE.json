@@ -1,0 +1,19 @@
+{
+  "video_id": "LzRy2fbUirE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "논문 짤린 게 억울해서 병균 배양액 원샷했다",
+  "published_at": "2026-09-10T14:15:08Z",
+  "video_url": "https://www.youtube.com/watch?v=LzRy2fbUirE",
+  "thumbnail_url": "https://i.ytimg.com/vi/LzRy2fbUirE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-11T12:41:45.554513Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
