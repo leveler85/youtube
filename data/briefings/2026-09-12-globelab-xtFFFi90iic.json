@@ -1,0 +1,19 @@
+{
+  "video_id": "xtFFFi90iic",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "트럼프는 왜 한국에만 집요하게 파병을 요청할까? f. 이정민 기자 [지구본 초대석]",
+  "published_at": "2026-09-11T23:00:23Z",
+  "video_url": "https://www.youtube.com/watch?v=xtFFFi90iic",
+  "thumbnail_url": "https://i.ytimg.com/vi/xtFFFi90iic/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-12T12:02:17.117699Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

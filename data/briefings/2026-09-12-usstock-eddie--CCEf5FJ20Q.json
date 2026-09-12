@@ -1,0 +1,19 @@
+{
+  "video_id": "-CCEf5FJ20Q",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "FOMC 금리인상 확정됐는데 주식시장이 오른 이유",
+  "published_at": "2026-09-12T11:48:34Z",
+  "video_url": "https://www.youtube.com/watch?v=-CCEf5FJ20Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/-CCEf5FJ20Q/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-12T12:02:26.105640Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

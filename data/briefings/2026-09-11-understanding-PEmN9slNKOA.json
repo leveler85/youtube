@@ -1,0 +1,19 @@
+{
+  "video_id": "PEmN9slNKOA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "미국 금리, 지금 안 올리는 게 더 위험합니다",
+  "published_at": "2026-09-11T14:15:17Z",
+  "video_url": "https://www.youtube.com/watch?v=PEmN9slNKOA",
+  "thumbnail_url": "https://i.ytimg.com/vi/PEmN9slNKOA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-12T12:02:14.413899Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
