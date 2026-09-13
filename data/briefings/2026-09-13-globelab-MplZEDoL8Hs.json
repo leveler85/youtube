@@ -1,0 +1,19 @@
+{
+  "video_id": "MplZEDoL8Hs",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "죽으란 법은 없다! 살길 찾은 시리아 근황 [지구본 뉴스룸]",
+  "published_at": "2026-09-12T23:00:01Z",
+  "video_url": "https://www.youtube.com/watch?v=MplZEDoL8Hs",
+  "thumbnail_url": "https://i.ytimg.com/vi/MplZEDoL8Hs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-13T13:12:28.105402Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

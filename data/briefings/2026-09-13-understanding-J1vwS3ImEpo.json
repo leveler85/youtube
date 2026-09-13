@@ -1,0 +1,19 @@
+{
+  "video_id": "J1vwS3ImEpo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "동남아도 먹는 약, 한국만 없는 이유 (강동경희대병원 신경과 신원철 교수)",
+  "published_at": "2026-09-13T01:05:38Z",
+  "video_url": "https://www.youtube.com/watch?v=J1vwS3ImEpo",
+  "thumbnail_url": "https://i.ytimg.com/vi/J1vwS3ImEpo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-13T13:12:26.265874Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

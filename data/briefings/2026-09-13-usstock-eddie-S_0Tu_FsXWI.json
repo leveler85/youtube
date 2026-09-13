@@ -1,0 +1,19 @@
+{
+  "video_id": "S_0Tu_FsXWI",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "월요일 반도체 조심하세요… AI 악재 터졌습니다",
+  "published_at": "2026-09-13T10:28:13Z",
+  "video_url": "https://www.youtube.com/watch?v=S_0Tu_FsXWI",
+  "thumbnail_url": "https://i.ytimg.com/vi/S_0Tu_FsXWI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-13T13:12:36.019518Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

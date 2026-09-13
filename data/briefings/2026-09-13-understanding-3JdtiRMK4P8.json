@@ -1,0 +1,19 @@
+{
+  "video_id": "3JdtiRMK4P8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "이래도, 저래도 트랩 부동산 정책 필패의 역사 | 북언더스탠딩 | 부동산은 어떻게 권력이 되었나 2부 | 더큐리어스 김열매 대표",
+  "published_at": "2026-09-13T11:55:09Z",
+  "video_url": "https://www.youtube.com/watch?v=3JdtiRMK4P8",
+  "thumbnail_url": "https://i.ytimg.com/vi/3JdtiRMK4P8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-13T13:12:25.638856Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "no2ueRxMwOE",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "[슈카월드] GPT-6는 코스피의 빛이 될 것인가/ 역대 최대 821조원, 2027 예산안 공개/ 애플 폴더블 아이폰 듀오 공개/ 일본 영끌족은 사야 할까?/ 브라질 감옥빵 대선",
+  "published_at": "2026-09-13T11:22:05Z",
+  "video_url": "https://www.youtube.com/watch?v=no2ueRxMwOE",
+  "thumbnail_url": "https://i.ytimg.com/vi/no2ueRxMwOE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-13T13:12:20.917983Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
