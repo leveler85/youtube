@@ -1,0 +1,19 @@
+{
+  "video_id": "IR9mLZlMZVo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "아이폰 최초 폴더블폰, 509만원 살만할까?",
+  "published_at": "2026-09-14T10:20:50Z",
+  "video_url": "https://www.youtube.com/watch?v=IR9mLZlMZVo",
+  "thumbnail_url": "https://i.ytimg.com/vi/IR9mLZlMZVo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-14T14:51:30.349657Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

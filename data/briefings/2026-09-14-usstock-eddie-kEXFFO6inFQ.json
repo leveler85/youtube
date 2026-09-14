@@ -1,0 +1,19 @@
+{
+  "video_id": "kEXFFO6inFQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) AI 속도조절론 · 글로벌 반도체 섹터 하락 | 이번주 수요일장 FOMC 금리인상... 1차례 이상? | 사우디 송유관 가동 중단, 후티 반군 세력 | 미국 증시 실시간",
+  "published_at": "2026-09-14T08:01:53Z",
+  "video_url": "https://www.youtube.com/watch?v=kEXFFO6inFQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/kEXFFO6inFQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-14T14:51:47.243382Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
