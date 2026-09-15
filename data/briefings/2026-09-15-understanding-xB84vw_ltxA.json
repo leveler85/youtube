@@ -1,0 +1,19 @@
+{
+  "video_id": "xB84vw_ltxA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "금리가 아니다 진짜 공포는 이거다 (AFW파트너스 이선엽 대표) (1부) | 26년 09월 14일 녹화",
+  "published_at": "2026-09-15T07:55:37Z",
+  "video_url": "https://www.youtube.com/watch?v=xB84vw_ltxA",
+  "thumbnail_url": "https://i.ytimg.com/vi/xB84vw_ltxA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:49.986313Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

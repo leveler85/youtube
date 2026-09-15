@@ -1,0 +1,19 @@
+{
+  "video_id": "Rt842rdLlu8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "워런 버핏이 늦게 부자가 된 이유",
+  "published_at": "2026-09-15T05:06:41Z",
+  "video_url": "https://www.youtube.com/watch?v=Rt842rdLlu8",
+  "thumbnail_url": "https://i.ytimg.com/vi/Rt842rdLlu8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:58.019887Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

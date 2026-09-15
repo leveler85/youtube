@@ -1,0 +1,19 @@
+{
+  "video_id": "6LCG0lRhuS8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "압구정을 산 사람이 놓친 것",
+  "published_at": "2026-09-15T09:45:36Z",
+  "video_url": "https://www.youtube.com/watch?v=6LCG0lRhuS8",
+  "thumbnail_url": "https://i.ytimg.com/vi/6LCG0lRhuS8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:57.463633Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

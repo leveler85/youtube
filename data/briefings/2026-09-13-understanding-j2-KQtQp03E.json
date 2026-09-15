@@ -1,0 +1,19 @@
+{
+  "video_id": "j2-KQtQp03E",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "트럼프가 중간선거에서 지면 이 종목을 봐야 합니다",
+  "published_at": "2026-09-13T14:15:11Z",
+  "video_url": "https://www.youtube.com/watch?v=j2-KQtQp03E",
+  "thumbnail_url": "https://i.ytimg.com/vi/j2-KQtQp03E/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:50.568772Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

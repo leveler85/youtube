@@ -1,0 +1,19 @@
+{
+  "video_id": "H95R-Kiprcs",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "젠슨 황과 트럼프가 직접 나섰습니다, AI·반도체주 지금 위험한 이유",
+  "published_at": "2026-09-15T07:00:11Z",
+  "video_url": "https://www.youtube.com/watch?v=H95R-Kiprcs",
+  "thumbnail_url": "https://i.ytimg.com/vi/H95R-Kiprcs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:19:04.674487Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

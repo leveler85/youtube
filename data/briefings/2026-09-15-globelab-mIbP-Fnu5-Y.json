@@ -1,0 +1,19 @@
+{
+  "video_id": "mIbP-Fnu5-Y",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "다시 중국을 넘으려면, 한국 과학기술에 무엇이 필요한가? f. 이석봉 대표 [지구본 도서관]",
+  "published_at": "2026-09-15T09:00:21Z",
+  "video_url": "https://www.youtube.com/watch?v=mIbP-Fnu5-Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/mIbP-Fnu5-Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:52.716804Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

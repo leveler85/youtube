@@ -1,0 +1,19 @@
+{
+  "video_id": "S1KbxRmL328",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "삼성 위협하는 중국의 무서운 전략",
+  "published_at": "2026-09-15T10:45:20Z",
+  "video_url": "https://www.youtube.com/watch?v=S1KbxRmL328",
+  "thumbnail_url": "https://i.ytimg.com/vi/S1KbxRmL328/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:18:41.648519Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

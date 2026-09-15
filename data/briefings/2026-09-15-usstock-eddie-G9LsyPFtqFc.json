@@ -1,0 +1,19 @@
+{
+  "video_id": "G9LsyPFtqFc",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) AI 속도조절론, 트럼프·젠슨황 본격 '거절' | 07년 이후 첫 10년물 국채금리 5.03% | 내일 FOMC, 금리인상 예정 | 미국 증시 실시간",
+  "published_at": "2026-09-15T06:42:45Z",
+  "video_url": "https://www.youtube.com/watch?v=G9LsyPFtqFc",
+  "thumbnail_url": "https://i.ytimg.com/vi/G9LsyPFtqFc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-15T13:19:04.157431Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
