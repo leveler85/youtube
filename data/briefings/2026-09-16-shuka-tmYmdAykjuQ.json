@@ -1,0 +1,19 @@
+{
+  "video_id": "tmYmdAykjuQ",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "서로를 감옥에 보내려는 남자들의 치열한 대선",
+  "published_at": "2026-09-16T10:50:18Z",
+  "video_url": "https://www.youtube.com/watch?v=tmYmdAykjuQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/tmYmdAykjuQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-16T13:15:46.099026Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "cdfkttmYC5U",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "화성에 정말로 외계 생명체가 있을 수도?",
+  "published_at": "2026-09-15T14:15:08Z",
+  "video_url": "https://www.youtube.com/watch?v=cdfkttmYC5U",
+  "thumbnail_url": "https://i.ytimg.com/vi/cdfkttmYC5U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-16T13:15:51.153366Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

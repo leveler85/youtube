@@ -1,0 +1,19 @@
+{
+  "video_id": "224413251320",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "클라리티 법안 표결결과가 나왔다. 변수가 있다면?",
+  "published_at": "2026-09-15T22:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224413251320",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MTZfMTkx/MDAxNzg5NTA3ODEwNjE1.2IsooGC3OV_7TaOoosrnKnl9cU8E3fd76Ruqr0VgmLgg.RjWdK8RUDsjrpuNzeCH68hyOANZ9ndl02Ch4SMcxTMIg.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**미 상원 클라리티 법안 부결**\n\n미국 상원의 클라리티 법안 필리버스터 종료 표결이 찬성 49표, 반대 50표로 부결되어 필요한 60표를 확보하지 못했다. 이는 트럼프 행정부와 공화당이 민주당의 핵심 요구, 즉 고위 공직자 및 그 가족의 기존 디지털 자산 처분과 규제 범위 확대를 충분히 수용하지 않은 결과이다. 재고요청이라는 변수가 있으나, 트럼프 대통령의 파격적인 양보 없이는 법안의 연내 통과가 어려울 것으로 보인다.\n\n클라리티 법안 필리버스터 종료 여부 표결이 9월 15일 찬성 49표, 반대 50표로 부결되어, 필요한 60표를 확보하지 못했다. 상원 표결은 서기 호명 시 'yea/nay'로 답하는 수작업으로 진행되며, 약 한 시간 소요된다. 표결 결과, 공화당은 49명 찬성, 4명 반대, 민주당은 46명 반대, 1명 기권으로 집계되었다. 트럼프는 민주당 요구인 '주 법무장관의 윤리규정 위반 집행 및 제소 권한'을 수용했으나, '대통령 본인 직접 제소 불가' 조건을 달아 민주당 반발을 샀다. 민주당은 기존 디지털 자산 처분 및 대통령 가족까지의 명시적 규제 확대를 요구하며, 새로 발행 자산만 규제하는 초안에 반대해왔다. 공화당 Thom Tillis 의원은 반대표를 던져 재고요청(Motion to Reconsider) 권한을 확보한 뒤 요청서를 제출했으며, 이는 상원 지도부가 상황 변화를 인지하여 재투표를 결정할 수 있는 제도적 절차이다.\n\n클라리티 법안의 향후 통과 여부는 상원 재고요청 변수에도 불구하고, 궁극적으로 트럼프 대통령이 본인 및 가족의 기존 디지털 자산 처분과 대통령에 대한 윤리규정 집행 허용 등 민주당의 핵심 요구를 전폭적으로 수용할지에 달려 있다. 이러한 파격적인 양보 없이는 60표 확보가 어려워 연내 통과가 불가능하며, 이는 디지털 자산 규제 불확실성 지속 및 은행권에 유리한 구도 유지로 이어질 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-16T13:17:01.103095Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

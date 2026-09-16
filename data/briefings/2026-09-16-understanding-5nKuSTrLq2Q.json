@@ -1,0 +1,19 @@
+{
+  "video_id": "5nKuSTrLq2Q",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "금리만 보면 안 된다 증시 최악의 조합 (AFW파트너스 이선엽 대표) (2부) | 26년 09월 14일 녹화",
+  "published_at": "2026-09-16T07:55:06Z",
+  "video_url": "https://www.youtube.com/watch?v=5nKuSTrLq2Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/5nKuSTrLq2Q/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-16T13:15:50.865445Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

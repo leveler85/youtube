@@ -1,0 +1,19 @@
+{
+  "video_id": "uu4lbfe7wWM",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "달러를 원화로 환전할 때는 언제인가?",
+  "published_at": "2026-09-16T10:45:05Z",
+  "video_url": "https://www.youtube.com/watch?v=uu4lbfe7wWM",
+  "thumbnail_url": "https://i.ytimg.com/vi/uu4lbfe7wWM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-16T13:15:44.542228Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "C65e9uxSP6s",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "하이닉스 6% 증발시킨 글 한 장, 아모데이는 왜 지금 썼나",
+  "published_at": "2026-09-16T08:38:26Z",
+  "video_url": "https://www.youtube.com/watch?v=C65e9uxSP6s",
+  "thumbnail_url": "https://i.ytimg.com/vi/C65e9uxSP6s/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-16T13:15:56.195110Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
