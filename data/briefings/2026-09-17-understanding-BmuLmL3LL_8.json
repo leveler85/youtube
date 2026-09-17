@@ -1,0 +1,19 @@
+{
+  "video_id": "BmuLmL3LL_8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "중국차 밀려오는데 한국만 엉뚱하게 돈 쓴다 (더불어민주당 이언주 의원)",
+  "published_at": "2026-09-17T12:25:26Z",
+  "video_url": "https://www.youtube.com/watch?v=BmuLmL3LL_8",
+  "thumbnail_url": "https://i.ytimg.com/vi/BmuLmL3LL_8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-17T13:12:04.316244Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

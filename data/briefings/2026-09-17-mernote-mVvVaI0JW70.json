@@ -1,0 +1,19 @@
+{
+  "video_id": "mVvVaI0JW70",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "72의 법칙이 알려주는 두 배의 시간",
+  "published_at": "2026-09-17T05:02:23Z",
+  "video_url": "https://www.youtube.com/watch?v=mVvVaI0JW70",
+  "thumbnail_url": "https://i.ytimg.com/vi/mVvVaI0JW70/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-17T13:12:08.534415Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

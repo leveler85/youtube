@@ -1,0 +1,19 @@
+{
+  "video_id": "fl-uuEuxOFU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "밤에 먹는 보약이 낮에 먹는 라면보다 더 나쁘다",
+  "published_at": "2026-09-16T14:15:11Z",
+  "video_url": "https://www.youtube.com/watch?v=fl-uuEuxOFU",
+  "thumbnail_url": "https://i.ytimg.com/vi/fl-uuEuxOFU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-17T13:12:05.579202Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

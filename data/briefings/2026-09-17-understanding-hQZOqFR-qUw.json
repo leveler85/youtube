@@ -1,0 +1,19 @@
+{
+  "video_id": "hQZOqFR-qUw",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "어느 날 현대차 엔진이 깨지기 시작했습니다 (김광호 전 현대자동차 부장) (1부)",
+  "published_at": "2026-09-17T07:55:13Z",
+  "video_url": "https://www.youtube.com/watch?v=hQZOqFR-qUw",
+  "thumbnail_url": "https://i.ytimg.com/vi/hQZOqFR-qUw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-17T13:12:04.666294Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

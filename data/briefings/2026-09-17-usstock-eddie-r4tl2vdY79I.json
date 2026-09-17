@@ -1,0 +1,19 @@
+{
+  "video_id": "r4tl2vdY79I",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "금리 3번 더 올릴 수도 있다｜흔들리는 증시, AI주는 지금 사도 될까?",
+  "published_at": "2026-09-17T08:44:44Z",
+  "video_url": "https://www.youtube.com/watch?v=r4tl2vdY79I",
+  "thumbnail_url": "https://i.ytimg.com/vi/r4tl2vdY79I/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-17T13:12:13.323947Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
