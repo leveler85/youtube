@@ -1,0 +1,19 @@
+{
+  "video_id": "bw7rWIgpkjg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "해고된 현대차 김부장 어떻게 300억 받았나 (김광호 전 현대자동차 부장) (2부)",
+  "published_at": "2026-09-18T07:55:06Z",
+  "video_url": "https://www.youtube.com/watch?v=bw7rWIgpkjg",
+  "thumbnail_url": "https://i.ytimg.com/vi/bw7rWIgpkjg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-18T12:48:25.613860Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "WVdCLzbvWLg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "다이아값 반토막인데 반지 왜 계속 비쌀까 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-09-18T12:25:32Z",
+  "video_url": "https://www.youtube.com/watch?v=WVdCLzbvWLg",
+  "thumbnail_url": "https://i.ytimg.com/vi/WVdCLzbvWLg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-18T12:48:25.216866Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
