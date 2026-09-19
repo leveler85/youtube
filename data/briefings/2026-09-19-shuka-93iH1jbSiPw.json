@@ -1,0 +1,19 @@
+{
+  "video_id": "93iH1jbSiPw",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "821조원, 역대 최대 국가 예산 발표",
+  "published_at": "2026-09-19T10:22:30Z",
+  "video_url": "https://www.youtube.com/watch?v=93iH1jbSiPw",
+  "thumbnail_url": "https://i.ytimg.com/vi/93iH1jbSiPw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-19T12:21:23.860087Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

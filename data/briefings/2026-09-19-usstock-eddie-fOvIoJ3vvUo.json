@@ -1,0 +1,19 @@
+{
+  "video_id": "fOvIoJ3vvUo",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "다음주 시장 조심하세요. 반도체에서 기회가 나올 수 있습니다",
+  "published_at": "2026-09-19T04:32:44Z",
+  "video_url": "https://www.youtube.com/watch?v=fOvIoJ3vvUo",
+  "thumbnail_url": "https://i.ytimg.com/vi/fOvIoJ3vvUo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-19T12:21:34.378948Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "oaLTzqbqKiQ",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "부자나라 가난국민, 더 암울해진 대만 부동산 근황 [지구본 뉴스룸]",
+  "published_at": "2026-09-18T23:00:32Z",
+  "video_url": "https://www.youtube.com/watch?v=oaLTzqbqKiQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/oaLTzqbqKiQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-19T12:21:31.065868Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "h6RN-EVFjxY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(1부) 10배 부자는 질투하고 10,000배 부자엔 노예 된다 | 북언더스탠딩 | 독하게 돈 공부 | 신영증권 박소연 이사",
+  "published_at": "2026-09-19T05:55:11Z",
+  "video_url": "https://www.youtube.com/watch?v=h6RN-EVFjxY",
+  "thumbnail_url": "https://i.ytimg.com/vi/h6RN-EVFjxY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-19T12:21:29.022554Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
