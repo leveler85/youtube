@@ -1,0 +1,19 @@
+{
+  "video_id": "zardCX1DCuc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(2부) 대학도 학점도 안 본다, 스펙 없는 일본 취업 ((주)비웰코리아 가스가이 모에 대표)",
+  "published_at": "2026-09-20T01:55:14Z",
+  "video_url": "https://www.youtube.com/watch?v=zardCX1DCuc",
+  "thumbnail_url": "https://i.ytimg.com/vi/zardCX1DCuc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-20T12:56:36.119699Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

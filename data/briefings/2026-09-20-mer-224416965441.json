@@ -1,0 +1,19 @@
+{
+  "video_id": "224416965441",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "중국 AI기업들이 사고를 쳤다. 엔트로픽 증류사건",
+  "published_at": "2026-09-19T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224416965441",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MTlfMjIy/MDAxNzg5Nzk1MDIyNjk0.3ldJ51oQxnR5mN130FlGYo1D90LbTxpJRWSOwVAvyX8g.2XGppw1eHCpds48LZB2y6q5seD741q2JtOJvfirXIlkg.JPEG/162qihch.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**중국 AI의 불법 증류와 기밀 유출**\n\n중국 AI 기업들이 엔트로픽의 AI 모델을 불법적으로 증류하여 자사 모델 학습에 활용한 사실이 드러났다. 이들은 사용자 요청을 몰래 엔트로픽 서버로 보내 처리한 뒤 그 응답을 학습에 이용했다. 이 과정에서 중국 인민해방군 시설 감시 영상, 국유기업 핵심 정보, 공안국의 국민 감시 시스템 관련 기밀까지 유출되어 심각한 국가 안보 및 개인정보 침해를 야기했다.\n\n2026년 9월 10일, 엔트로픽 보고서는 알리바바(Qwen), 문샷(Kimi), 딥시크 등 중국 AI랩들의 불법 증류 공격을 폭로했다. 이들은 도난 신용카드로 가짜 계정을 만들고 엔트로픽 답변을 대량 추출했다. 알리바바는 2026년 5~7월 3,500개 이상 계정으로 1억 5,100만 건 이상 증류 작업을 했다. 더 큰 문제는 문샷 Kimi가 사용자의 군사시설 감시 영상 분석 요청을 엔트로픽 서버로 보내 민감 정보를 유출시킨 것이다. Kimi를 통해 대형 국유기업의 내부 소스코드와 유효한 로그인 자격증명도 미국 서버에 저장됐다. 딥시크는 7월 중 14일 만에 엔트로픽과 1,210만 건 이상 교신하며 중국 공안국 엔지니어들이 개발 중이던 국민 주민번호-CCTV 안면인식 연동 감시 시스템 정보를 유출했다. 러시아 정보당국 자료도 중국 AI를 통해 유출된 것으로 알려졌다.\n\n이번 사건은 중국 AI 기업들의 기술 윤리 부재와 데이터 보안 취약성을 극명하게 보여준다. 사용자 신뢰를 배신하고 국가 안보를 위협하는 행위는 AI 기술 발전의 근간을 흔든다. 향후 AI 서비스의 데이터 처리 투명성 확보와 국경을 초월한 강력한 국제적 규제 마련이 시급하다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-20T12:57:32.655263Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

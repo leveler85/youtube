@@ -1,0 +1,19 @@
+{
+  "video_id": "oe7XCzLx4LM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(2부) 가뭄엔 배 사고 홍수엔 수레 사라, 버핏보다 2100년 빨랐던 부자 | 북언더스탠딩 | 독하게 돈 공부 | 신영증권 박소연 이사",
+  "published_at": "2026-09-20T05:55:24Z",
+  "video_url": "https://www.youtube.com/watch?v=oe7XCzLx4LM",
+  "thumbnail_url": "https://i.ytimg.com/vi/oe7XCzLx4LM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-20T12:56:35.840407Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

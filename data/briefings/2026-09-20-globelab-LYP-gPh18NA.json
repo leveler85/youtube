@@ -1,0 +1,19 @@
+{
+  "video_id": "LYP-gPh18NA",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "무너진 독일 교육의 자존심, 학생들의 성적이 계속 떨어지는 이유 [지구본 뉴스룸]",
+  "published_at": "2026-09-19T23:00:11Z",
+  "video_url": "https://www.youtube.com/watch?v=LYP-gPh18NA",
+  "thumbnail_url": "https://i.ytimg.com/vi/LYP-gPh18NA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-20T12:56:37.754306Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "bogaTctQH7s",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "영업손실 20배인데 스스로 끊은 돈",
+  "published_at": "2026-09-20T03:23:28Z",
+  "video_url": "https://www.youtube.com/watch?v=bogaTctQH7s",
+  "thumbnail_url": "https://i.ytimg.com/vi/bogaTctQH7s/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-20T12:56:40.080947Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
