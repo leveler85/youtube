@@ -1,0 +1,19 @@
+{
+  "video_id": "ncvS2K2dIv4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "트럼프가 밀어내도 캐나다는 미국 못 떠납니다 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-09-21T12:25:28Z",
+  "video_url": "https://www.youtube.com/watch?v=ncvS2K2dIv4",
+  "thumbnail_url": "https://i.ytimg.com/vi/ncvS2K2dIv4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-21T14:56:55.661049Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

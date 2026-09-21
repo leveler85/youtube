@@ -1,0 +1,19 @@
+{
+  "video_id": "DPsnfGuQqmM",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "실적 없을 때 들어간 투자사의 대박",
+  "published_at": "2026-09-21T12:12:19Z",
+  "video_url": "https://www.youtube.com/watch?v=DPsnfGuQqmM",
+  "thumbnail_url": "https://i.ytimg.com/vi/DPsnfGuQqmM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-21T14:57:00.560947Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

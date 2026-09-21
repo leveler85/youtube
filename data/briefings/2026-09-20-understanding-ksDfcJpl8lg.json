@@ -1,0 +1,19 @@
+{
+  "video_id": "ksDfcJpl8lg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "금리 5% 넘어도 AI 안 멈춘다",
+  "published_at": "2026-09-20T14:15:18Z",
+  "video_url": "https://www.youtube.com/watch?v=ksDfcJpl8lg",
+  "thumbnail_url": "https://i.ytimg.com/vi/ksDfcJpl8lg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-21T14:56:56.591420Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "XT11yoScLBA",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "돈 없다고 드러누운 일본 아시안 게임",
+  "published_at": "2026-09-21T10:19:32Z",
+  "video_url": "https://www.youtube.com/watch?v=XT11yoScLBA",
+  "thumbnail_url": "https://i.ytimg.com/vi/XT11yoScLBA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-21T14:56:50.600510Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
