@@ -1,0 +1,19 @@
+{
+  "video_id": "o5pg7ANFB1c",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "물가를 재는 자가 바뀌는 9월 30일, 연준 목표선이 눈앞으로",
+  "published_at": "2026-09-22T10:15:43Z",
+  "video_url": "https://www.youtube.com/watch?v=o5pg7ANFB1c",
+  "thumbnail_url": "https://i.ytimg.com/vi/o5pg7ANFB1c/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-22T13:13:25.631724Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

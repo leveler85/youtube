@@ -1,0 +1,19 @@
+{
+  "video_id": "EBMXvJ1Uo4w",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "금리 혼자 안 터진다 이게 오면 터진다",
+  "published_at": "2026-09-19T14:15:31Z",
+  "video_url": "https://www.youtube.com/watch?v=EBMXvJ1Uo4w",
+  "thumbnail_url": "https://i.ytimg.com/vi/EBMXvJ1Uo4w/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-22T13:13:20.485902Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "224419329394",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "추석전후, 삼성전자와 SK하이닉스 체크포인트",
+  "published_at": "2026-09-21T22:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224419329394",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MjJfMTAz/MDAxNzkwMDEzMDY3NzAz.o_L2e_bG6BEwyyQXE4JaglzZFsT5WqVC7Wry3RGbuycg.Yn74Hs7LlM6S8lYwMq2Kej1PQ10Zhx4HrxTC2_3iZYcg.JPEG/5hxyyzpl.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**삼성·하이닉스 10월 수급**\n\n삼성전자의 대규모 특별배당과 함께 삼성전자 및 SK하이닉스의 자사주 매입이 10월 중순경 완료될 예정이다. 이처럼 두 국내 대표 기업의 대규모 수급 이벤트가 단기간에 집중되면서 시장에 중요한 변곡점이 될 것으로 분석된다. 특히 자사주 매입 종료는 그간 시장을 지탱해온 중요한 매수세의 소멸을 의미한다.\n\n삼성전자는 9월 30일을 배당기준일로, 3분기 현금배당으로 30조 원을 예고했다. 이 중 기존 분기배당 2.45조 원을 제외한 27.5조 원이 특별배당으로 예상되며, 주당 4,500~4,600원이 지급될 것으로 추정된다. 배당을 받기 위한 주식 매수 마감일은 9월 28일이었으나, 임시공휴일 지정 여부에 따라 9월 23일로 당겨질 가능성이 있었다. 한편, 삼성전자는 8월 24일부터 15조 원 규모, SK하이닉스는 8월 20일부터 40조 원 규모의 자사주 매입을 진행해왔다. 이 두 회사는 매일 합산 약 1.6조 원의 주식을 매수했으며, 9월 22일 기준으로 삼성전자는 목표의 82%, SK하이닉스는 64%를 매입한 것으로 추정된다. 이에 따라 삼성전자는 10월 1일, SK하이닉스는 10월 16일 자사주 매입이 완료될 예정으로, 당초 공시했던 11월 중순보다 약 한 달 일찍 종료된다.\n\n이처럼 삼성전자와 SK하이닉스라는 대형주의 대규모 수급 변화는 시장 전반에 상당한 영향을 미칠 수 있다. 특히 10월 중순 두 회사의 자사주 매입이 모두 끝나면, 시장은 기존의 강력한 매수세 없이 본연의 수급 흐름 속에서 '진검승부'를 펼쳐야 할 것으로 보인다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-22T13:13:48.525297Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

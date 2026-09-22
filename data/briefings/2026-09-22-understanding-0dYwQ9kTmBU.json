@@ -1,0 +1,19 @@
+{
+  "video_id": "0dYwQ9kTmBU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "AI 있으니 영어 배우지 마, 중국 덮친 영어 무용론 (해담경제연구소 어예진 소장)",
+  "published_at": "2026-09-22T07:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=0dYwQ9kTmBU",
+  "thumbnail_url": "https://i.ytimg.com/vi/0dYwQ9kTmBU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-22T13:13:19.897680Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

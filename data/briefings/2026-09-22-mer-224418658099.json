@@ -1,0 +1,19 @@
+{
+  "video_id": "224418658099",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "나이키 몰락의 비밀",
+  "published_at": "2026-09-21T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224418658099",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMTU2/MDAxNzg5OTY1OTk2NzE2.EaUreU9s0TUUFtPTmDDSroN07jAE1oXcKPkXikaYtLUg.f5yVYvOCBaagUr8U3GxIDPbJs3HiPMwXXSSv8SUgLGcg.JPEG/YI9juh3HvrgwFNT9hpWTSHU-JUSaF7YU5Yi1KgiUG5KMurMKuFm7m_oEzqG3V0QOpaY0jKjDlws.jpeg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**나이키 몰락: 핵심 전략의 오판**\n\n나이키는 2026년 S&P 100 지수 퇴출이 확정되고 주가가 2021년 최고점 대비 80% 폭락하는 등 심각한 경영 위기에 직면했다. 이러한 위기의 근본 원인은 코로나19 팬데믹 기간의 소비 행태 변화를 오판한 직접 판매(DTC) 전략, 경쟁사에 뒤처지는 제품 혁신 주기, 그리고 제품 본연의 가치 대신 사회적 신념을 앞세운 정치적 올바름(PC) 마케팅의 복합적인 실패에 있다. 팬데믹 이후 시장 상황 변화를 예측하지 못한 전략적 오판과 소비자들의 실질적인 요구를 외면한 결과, 나이키는 핵심 시장 점유율을 경쟁사에 내주고 브랜드 이미지가 훼손되는 치명적인 타격을 입었다.\n\n나이키는 2026년 9월 21일부로 S&P 100 지수에서 18년 만에 퇴출될 예정이며, 그 자리는 델과 샌디스크가 채우게 된다. 주가는 2021년 179달러였던 최고점에서 35달러까지 80% 하락했으며, 올해에만 마이너스 40%를 기록하며 다우존스 내에서 최하위권을 면치 못하고 있다. 2020년 코로나 팬데믹으로 온라인 매출이 급증하자, 당시 CEO 존 도나호는 오프라인 매장이 죽었다는 오판 아래 Nike.com과 직영 매장에서 매출의 60% 이상을 달성하겠다는 목표를 세우고 오랜 도매 거래처들과의 관계를 단절했다. 그러나 팬데믹이 끝나자 온라인 매출은 줄고, 나이키를 버린 도매상들의 진열대에는 온 러닝, 호카, 뉴발란스 등 경쟁사 제품들이 자리 잡았다. 또한, 러닝화 기술의 핵심인 미드솔 개발에서 경쟁사들이 매년 혁신을 단행하는 동안 나이키는 2년 주기로 색상과 어퍼만 바꾸는 수준에 머물러 소비자들에게 새로움을 제공하지 못했다. 2016년 미식축구 선수 콜린 케퍼닉의 국가 제창 거부 논란 당시, 나이키는 케퍼닉을 광고 모델로 기용하며 \"Believe in something. Even if it means sacrificing everything.\"이라는 문구를 내세워 정치적 올바름(PC) 마케팅을 시작했고, 이후 인종·성별·사회적 다양성 메시지를 적극 활용한 포용성 마케팅으로 단기적으로 온라인 매출이 31% 증가했으나, 장기적으로는 일부 고객군에 부정적인 브랜드 이미지를 심었다. 신임 CEO 엘리엇 힐은 2024년 10월 취임 후 도매 판매 채널을 회복하고 제품 자체를 광고하는 방향으로 전환했으나, 시장에서는 여전히 시큰둥하거나 \"매출 부진에 대한 쇼\"라는 비판적인 시각이 존재한다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-22T13:14:10.778494Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

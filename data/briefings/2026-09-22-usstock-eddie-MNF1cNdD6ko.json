@@ -1,0 +1,19 @@
+{
+  "video_id": "MNF1cNdD6ko",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "잘 오르던 삼성전자·SK하이닉스, 갑자기 하락한 이유",
+  "published_at": "2026-09-22T06:44:15Z",
+  "video_url": "https://www.youtube.com/watch?v=MNF1cNdD6ko",
+  "thumbnail_url": "https://i.ytimg.com/vi/MNF1cNdD6ko/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-22T13:13:29.755400Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
