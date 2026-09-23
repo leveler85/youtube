@@ -1,0 +1,19 @@
+{
+  "video_id": "Sj6Eqo12QcI",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "\"빚 좀 그만 내라\" IMF의 섬뜩한 경고 [지구본 뉴스룸]",
+  "published_at": "2026-09-23T09:00:07Z",
+  "video_url": "https://www.youtube.com/watch?v=Sj6Eqo12QcI",
+  "thumbnail_url": "https://i.ytimg.com/vi/Sj6Eqo12QcI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-23T13:28:07.828677Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

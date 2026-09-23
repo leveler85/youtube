@@ -1,0 +1,19 @@
+{
+  "video_id": "TqwwF2cJJgA",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "Ai 위험론이 사기인 이유",
+  "published_at": "2026-09-23T06:04:50Z",
+  "video_url": "https://www.youtube.com/watch?v=TqwwF2cJJgA",
+  "thumbnail_url": "https://i.ytimg.com/vi/TqwwF2cJJgA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-23T13:28:01.100623Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

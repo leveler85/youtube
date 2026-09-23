@@ -1,0 +1,19 @@
+{
+  "video_id": "224420101361",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "소프트뱅크 위기설이 나오는 비밀",
+  "published_at": "2026-09-22T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224420101361",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjA5MjJfNjcg/MDAxNzkwMDY2MzkwMzk3.kFoj0MwFTO9AN2EAs7Zgs3znQkx6fk16Af7gUsoVLqQg.ytstfIBWe5meIQ6OZ_vhUlkHx9gfd65QKDK6JSIoBd8g.JPEG/162qihch.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**소프트뱅크 AI '올인' 위기설**\n\n소프트뱅크는 과거 수백 개 기업에 분산 투자하던 전략에서 벗어나, 현재 회사 자산의 60% 이상을 Arm과 오픈AI 두 AI 기업에 집중 투자하며 재무 구조를 급변시켰다. 이 같은 AI 몰빵 투자는 특히 불확실한 오픈AI 상장과 맞물려 대규모 차입금 상환 압박을 야기하고 있다. 시장은 표면상 안정적인 재무제표와 달리 비상장 오픈AI 주식의 가치를 회의적으로 보며, 소프트뱅크의 유동성 위협과 자금 조달의 어려움을 우려하고 있다.\n\nAI 기업 비중은 3년 전 18%에서 현재 60%를 넘어섰고, 오픈AI 지분 13% 확보에 총 646억 달러를 투자해야 하며 10월 1일 100억 달러 추가 투입이 예정됐다. 2027년 3월 만기가 도래하는 400억 달러 규모의 브리지론은 오픈AI 상장 지연으로 상환 압박을 받고 있으며, 소프트뱅크는 이미 259억 달러를 상환 중이다. 자금 마련을 위해 9월 21일 투기등급(BB+, S&P) 정크본드 110억 달러 발행을 착수, 8%대의 높은 금리가 예상되며, Arm 주식 담보 대출 한도도 250억 달러로 상향 조정했다. 소프트뱅크는 오픈AI 투자액 446억 달러의 장부상 가치가 896억 달러라고 주장하지만, 비상장 주식의 불확실성으로 은행들이 담보 대출을 꺼려 100억 달러 신청조차 무산되었다. 회사의 LTV(자산 대비 부채 비율) 13%도 시장에서는 오픈AI 가치를 인정하지 않아 실제보다 높다고 보며, 4년간 5천억 달러 규모의 AI 데이터센터 '스타게이트' 프로젝트까지 추진 중이다.\n\n69세 손정의 회장의 공격적인 AI '몰빵' 투자는 소프트뱅크를 핵심 자산의 유동성 문제와 막대한 차입금 상환이라는 이중고에 직면하게 했다. 오픈AI의 상장 지연과 자금 조달의 난항은 재무 안정성을 심각하게 위협할 수 있다. 소프트뱅크가 예정된 채무를 어떻게 관리하고 손 회장의 AI 비전이 실제 수익으로 이어질지가 주요 관전 포인트다.",
+  "failure_reason": null,
+  "generated_at": "2026-09-23T13:29:14.835727Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

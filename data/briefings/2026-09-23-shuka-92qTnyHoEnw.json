@@ -1,0 +1,19 @@
+{
+  "video_id": "92qTnyHoEnw",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "10배 상승, 전 국민 투자 열풍에 빠진 나이지리아",
+  "published_at": "2026-09-23T10:58:58Z",
+  "video_url": "https://www.youtube.com/watch?v=92qTnyHoEnw",
+  "thumbnail_url": "https://i.ytimg.com/vi/92qTnyHoEnw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-23T13:28:00.635999Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

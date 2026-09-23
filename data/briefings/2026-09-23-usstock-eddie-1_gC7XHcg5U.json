@@ -1,0 +1,19 @@
+{
+  "video_id": "1_gC7XHcg5U",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "미국 반도체는 폭등하는데 왜 국장은 부진할까?",
+  "published_at": "2026-09-23T06:12:13Z",
+  "video_url": "https://www.youtube.com/watch?v=1_gC7XHcg5U",
+  "thumbnail_url": "https://i.ytimg.com/vi/1_gC7XHcg5U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-23T13:28:13.546410Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
