@@ -1,0 +1,19 @@
+{
+  "video_id": "-x9t2XZDQ7A",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "9월 28일 이후엔 못 받는 삼성전자 30조, 막차는 누가 타나",
+  "published_at": "2026-09-24T02:24:29Z",
+  "video_url": "https://www.youtube.com/watch?v=-x9t2XZDQ7A",
+  "thumbnail_url": "https://i.ytimg.com/vi/-x9t2XZDQ7A/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-24T13:23:57.271179Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

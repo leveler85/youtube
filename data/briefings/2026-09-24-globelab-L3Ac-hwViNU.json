@@ -1,0 +1,19 @@
+{
+  "video_id": "L3Ac-hwViNU",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "[합본] “한국은 진짜 친구” 천궁-II로 더 가까워진 나라, 아랍에미리트는 어떤 나라?",
+  "published_at": "2026-09-24T04:00:30Z",
+  "video_url": "https://www.youtube.com/watch?v=L3Ac-hwViNU",
+  "thumbnail_url": "https://i.ytimg.com/vi/L3Ac-hwViNU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-24T13:23:55.282649Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

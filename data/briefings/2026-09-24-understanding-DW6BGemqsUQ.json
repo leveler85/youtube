@@ -1,0 +1,19 @@
+{
+  "video_id": "DW6BGemqsUQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김태유 추석특집 1부] 부동산이 당신 월급을 훔친다? | 서울대 김태유 명예교수",
+  "published_at": "2026-09-24T05:55:37Z",
+  "video_url": "https://www.youtube.com/watch?v=DW6BGemqsUQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/DW6BGemqsUQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-24T13:23:52.729414Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "9MLT5ibKsgs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김태유 추석특집 2부] 부동산 공급 늘리면 지방 먼저 죽는다 | 서울대 김태유 명예교수",
+  "published_at": "2026-09-24T11:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=9MLT5ibKsgs",
+  "thumbnail_url": "https://i.ytimg.com/vi/9MLT5ibKsgs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-24T13:23:52.357406Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
