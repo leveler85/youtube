@@ -1,0 +1,19 @@
+{
+  "video_id": "J_Rcyd3Pv_E",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프·시진핑 이틀째 정상회담 | 미국-이란 '단계별' 해협 재개방 기대 | 10년물국채금리 5.20% | AI 사용료 상승 기대감으로 반도체 상승 | 미국 증시 실시간",
+  "published_at": "2026-09-25T06:54:12Z",
+  "video_url": "https://www.youtube.com/watch?v=J_Rcyd3Pv_E",
+  "thumbnail_url": "https://i.ytimg.com/vi/J_Rcyd3Pv_E/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-25T13:25:15.139569Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

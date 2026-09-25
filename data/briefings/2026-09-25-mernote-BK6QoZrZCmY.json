@@ -1,0 +1,19 @@
+{
+  "video_id": "BK6QoZrZCmY",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "메타 AI 비서, GPU가 없었다. 대신 삼성·SK 메모리가 붙는 이유",
+  "published_at": "2026-09-25T08:52:06Z",
+  "video_url": "https://www.youtube.com/watch?v=BK6QoZrZCmY",
+  "thumbnail_url": "https://i.ytimg.com/vi/BK6QoZrZCmY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-25T13:25:12.104227Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

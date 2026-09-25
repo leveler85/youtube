@@ -1,0 +1,19 @@
+{
+  "video_id": "PTmFXntkAno",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "카자흐스탄 자랑만 1시간 대체 얼마나 좋길래 (알마티 고려문화원 김상욱 원장) (2부)",
+  "published_at": "2026-09-25T11:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=PTmFXntkAno",
+  "thumbnail_url": "https://i.ytimg.com/vi/PTmFXntkAno/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-25T13:25:08.055302Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
