@@ -1,0 +1,19 @@
+{
+  "video_id": "gZwi09o1FxI",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "179달러가 35달러로, S&P100에서 쫓겨난 나이키",
+  "published_at": "2026-09-26T04:17:32Z",
+  "video_url": "https://www.youtube.com/watch?v=gZwi09o1FxI",
+  "thumbnail_url": "https://i.ytimg.com/vi/gZwi09o1FxI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-26T12:48:23.734982Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
