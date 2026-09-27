@@ -1,0 +1,19 @@
+{
+  "video_id": "okUfNb7S6Fc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "[슈카월드] 트럼프-시진핑 정상회담 그 결과는? / 커지는 장기 전세 갈등/ 50조원을 털린 개미들 / 30만 명이 몰린 부산 상어 근황 / 메타 새로운 AI, 뮤즈 발표",
+  "published_at": "2026-09-27T11:21:37Z",
+  "video_url": "https://www.youtube.com/watch?v=okUfNb7S6Fc",
+  "thumbnail_url": "https://i.ytimg.com/vi/okUfNb7S6Fc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-27T13:40:28.606424Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

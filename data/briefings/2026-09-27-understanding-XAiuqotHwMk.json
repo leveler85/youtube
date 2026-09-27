@@ -1,0 +1,19 @@
+{
+  "video_id": "XAiuqotHwMk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[추석 특집 멤버십 영상 특별 공개] 이승훈 교수와 함께하는 건전한 건강 토크",
+  "published_at": "2026-09-27T05:55:23Z",
+  "video_url": "https://www.youtube.com/watch?v=XAiuqotHwMk",
+  "thumbnail_url": "https://i.ytimg.com/vi/XAiuqotHwMk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-27T13:40:31.489725Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
