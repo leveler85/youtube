@@ -1,0 +1,19 @@
+{
+  "video_id": "37x-1cjPRqg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "(1부) 창고에 버려진 미국 첩보위성, 허블의 100배 로만 우주 망원경으로 변신 (서울대학교 물리천문학부 황호성 교수)",
+  "published_at": "2026-09-28T12:25:24Z",
+  "video_url": "https://www.youtube.com/watch?v=37x-1cjPRqg",
+  "thumbnail_url": "https://i.ytimg.com/vi/37x-1cjPRqg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-28T16:35:40.959744Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

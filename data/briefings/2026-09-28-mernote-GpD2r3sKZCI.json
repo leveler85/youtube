@@ -1,0 +1,19 @@
+{
+  "video_id": "GpD2r3sKZCI",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "대통령 연봉의 14배를 총리에게 주는 싱가포르의 셈법",
+  "published_at": "2026-09-28T08:11:41Z",
+  "video_url": "https://www.youtube.com/watch?v=GpD2r3sKZCI",
+  "thumbnail_url": "https://i.ytimg.com/vi/GpD2r3sKZCI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-28T16:35:44.818712Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

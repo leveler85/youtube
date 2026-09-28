@@ -1,0 +1,19 @@
+{
+  "video_id": "wu8GBMPD_xk",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 트럼프 중대발표 | 이번주 마이크론 실적발표 | SK하이닉스, 솔리다임 IPO 소식으로 반도체 하락 | 미국 증시 실시간",
+  "published_at": "2026-09-28T04:25:52Z",
+  "video_url": "https://www.youtube.com/watch?v=wu8GBMPD_xk",
+  "thumbnail_url": "https://i.ytimg.com/vi/wu8GBMPD_xk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-28T16:35:47.769353Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
