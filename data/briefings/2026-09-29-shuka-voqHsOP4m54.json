@@ -1,0 +1,19 @@
+{
+  "video_id": "voqHsOP4m54",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "내 손안의 AI 기기 뮤즈는 AI 대중화를 이끌 수 있을까?",
+  "published_at": "2026-09-29T11:59:46Z",
+  "video_url": "https://www.youtube.com/watch?v=voqHsOP4m54",
+  "thumbnail_url": "https://i.ytimg.com/vi/voqHsOP4m54/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:42:55.145564Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

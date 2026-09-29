@@ -1,0 +1,19 @@
+{
+  "video_id": "c5r6-YU1a3I",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "K-조선 대호황, 마냥 웃을 일만은 아닙니다 f. 권효재 대표 [지구본 초대석]",
+  "published_at": "2026-09-28T22:00:26Z",
+  "video_url": "https://www.youtube.com/watch?v=c5r6-YU1a3I",
+  "thumbnail_url": "https://i.ytimg.com/vi/c5r6-YU1a3I/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:43:04.999956Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

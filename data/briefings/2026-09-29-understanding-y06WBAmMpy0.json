@@ -1,0 +1,19 @@
+{
+  "video_id": "y06WBAmMpy0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "국방비 100조 사우디 슬리퍼 신은 후티 못 이긴다 (서강대학교 유로메나연구소 박현도 교수) ※2026년 9월 29일 방송입니다",
+  "published_at": "2026-09-29T07:55:12Z",
+  "video_url": "https://www.youtube.com/watch?v=y06WBAmMpy0",
+  "thumbnail_url": "https://i.ytimg.com/vi/y06WBAmMpy0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:43:02.771417Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "5H1kX7kp2tc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "매수는 기술, 매도는 예술",
+  "published_at": "2026-09-29T04:19:28Z",
+  "video_url": "https://www.youtube.com/watch?v=5H1kX7kp2tc",
+  "thumbnail_url": "https://i.ytimg.com/vi/5H1kX7kp2tc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:42:57.463665Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

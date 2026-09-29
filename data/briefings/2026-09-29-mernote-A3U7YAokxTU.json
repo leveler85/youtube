@@ -1,0 +1,19 @@
+{
+  "video_id": "A3U7YAokxTU",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"임원들이 목숨 걸고 말렸다\" 삼성 3라인이 일본 D램을 꺾은 진짜 이유",
+  "published_at": "2026-09-29T09:01:18Z",
+  "video_url": "https://www.youtube.com/watch?v=A3U7YAokxTU",
+  "thumbnail_url": "https://i.ytimg.com/vi/A3U7YAokxTU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:43:07.746160Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

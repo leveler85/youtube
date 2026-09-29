@@ -1,0 +1,19 @@
+{
+  "video_id": "F8POEum-9hM",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 오픈AI 개발자 이벤트 | 소비자기대지수 · JOLTS 고용지표 | 댈러스 연준 서비스업 지수 | 미국 증시 실시간",
+  "published_at": "2026-09-29T12:01:03Z",
+  "video_url": "https://www.youtube.com/watch?v=F8POEum-9hM",
+  "thumbnail_url": "https://i.ytimg.com/vi/F8POEum-9hM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-29T14:43:11.315439Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
