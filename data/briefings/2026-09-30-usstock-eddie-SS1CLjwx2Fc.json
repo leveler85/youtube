@@ -1,0 +1,19 @@
+{
+  "video_id": "SS1CLjwx2Fc",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "반도체 큰 움직임 온다… 마이크론 실적 발표에 주목해야 하는 이유",
+  "published_at": "2026-09-30T06:43:43Z",
+  "video_url": "https://www.youtube.com/watch?v=SS1CLjwx2Fc",
+  "thumbnail_url": "https://i.ytimg.com/vi/SS1CLjwx2Fc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:12.431968Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

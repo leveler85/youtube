@@ -1,0 +1,19 @@
+{
+  "video_id": "ruZRwvKMok0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[로먼 망원경 3부] \"우린 3차원에 갇힌 개미\" 인류가 평생 우주의 중심 찾을 수 없는 이유 (서울대학교 물리천문학부 황호성 교수)",
+  "published_at": "2026-09-30T12:25:02Z",
+  "video_url": "https://www.youtube.com/watch?v=ruZRwvKMok0",
+  "thumbnail_url": "https://i.ytimg.com/vi/ruZRwvKMok0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:00.439927Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

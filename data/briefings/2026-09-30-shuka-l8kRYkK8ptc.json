@@ -1,0 +1,19 @@
+{
+  "video_id": "l8kRYkK8ptc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "부캉이 덕분에 대박난 부산 북항",
+  "published_at": "2026-09-30T10:31:21Z",
+  "video_url": "https://www.youtube.com/watch?v=l8kRYkK8ptc",
+  "thumbnail_url": "https://i.ytimg.com/vi/l8kRYkK8ptc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:44:56.257777Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

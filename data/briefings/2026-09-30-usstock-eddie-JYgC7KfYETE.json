@@ -1,0 +1,19 @@
+{
+  "video_id": "JYgC7KfYETE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 마이크론, 메모리 반도체 회사 4분기 실적발표 | GDP 2분기 최종치 | 8월 PCE 물가지수 발표 | 미국 증시 실시간",
+  "published_at": "2026-09-30T06:27:38Z",
+  "video_url": "https://www.youtube.com/watch?v=JYgC7KfYETE",
+  "thumbnail_url": "https://i.ytimg.com/vi/JYgC7KfYETE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:11.866799Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

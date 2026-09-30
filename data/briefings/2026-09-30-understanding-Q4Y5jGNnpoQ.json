@@ -1,0 +1,19 @@
+{
+  "video_id": "Q4Y5jGNnpoQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "대미투자 1호 텍사스 발전소 자세히 뜯어봤습니다(COR에너지인사이트 권효재 대표) (1부)",
+  "published_at": "2026-09-30T07:59:52Z",
+  "video_url": "https://www.youtube.com/watch?v=Q4Y5jGNnpoQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/Q4Y5jGNnpoQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:00.753037Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

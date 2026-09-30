@@ -1,0 +1,19 @@
+{
+  "video_id": "69QvyMteB00",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "법 보다 이슬람? 심상치 않은 프랑스 무슬림 근황 [지구본 뉴스룸]",
+  "published_at": "2026-09-30T09:00:01Z",
+  "video_url": "https://www.youtube.com/watch?v=69QvyMteB00",
+  "thumbnail_url": "https://i.ytimg.com/vi/69QvyMteB00/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:04.172271Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

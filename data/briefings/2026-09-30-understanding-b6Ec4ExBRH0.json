@@ -1,0 +1,19 @@
+{
+  "video_id": "b6Ec4ExBRH0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "허블과 르메르트 (2/2)",
+  "published_at": "2026-09-30T14:15:03Z",
+  "video_url": "https://www.youtube.com/watch?v=b6Ec4ExBRH0",
+  "thumbnail_url": "https://i.ytimg.com/vi/b6Ec4ExBRH0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-09-30T14:45:00.107148Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
