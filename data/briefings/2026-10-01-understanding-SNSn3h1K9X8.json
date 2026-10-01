@@ -1,0 +1,19 @@
+{
+  "video_id": "SNSn3h1K9X8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "이렇게까지 밀어준다고? 휴머노이드에 올인한 중국 (KB증권 아시아시장팀 박수현 팀장)",
+  "published_at": "2026-10-01T12:25:06Z",
+  "video_url": "https://www.youtube.com/watch?v=SNSn3h1K9X8",
+  "thumbnail_url": "https://i.ytimg.com/vi/SNSn3h1K9X8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-01T15:14:41.126661Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

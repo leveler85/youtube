@@ -1,0 +1,19 @@
+{
+  "video_id": "7jiS9PznxDA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "반도체 다음 수출품 이미 한국에 깔려 있습니다 (COR에너지인사이트 권효재 대표) (2부)",
+  "published_at": "2026-10-01T07:55:32Z",
+  "video_url": "https://www.youtube.com/watch?v=7jiS9PznxDA",
+  "thumbnail_url": "https://i.ytimg.com/vi/7jiS9PznxDA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-01T15:14:41.668765Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "CU_veU4bFak",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "누가 버나? 닥터나우 방지법부터 12월 비대면진료 법제화까지 쉽게 이해하기",
+  "published_at": "2026-10-01T09:35:15Z",
+  "video_url": "https://www.youtube.com/watch?v=CU_veU4bFak",
+  "thumbnail_url": "https://i.ytimg.com/vi/CU_veU4bFak/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-01T15:14:47.032388Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
