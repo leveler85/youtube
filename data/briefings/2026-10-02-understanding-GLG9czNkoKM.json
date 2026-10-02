@@ -1,0 +1,19 @@
+{
+  "video_id": "GLG9czNkoKM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "카자흐스탄 여행, 이 정도면 반칙이지",
+  "published_at": "2026-10-02T14:15:09Z",
+  "video_url": "https://www.youtube.com/watch?v=GLG9czNkoKM",
+  "thumbnail_url": "https://i.ytimg.com/vi/GLG9czNkoKM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-02T14:34:19.631962Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

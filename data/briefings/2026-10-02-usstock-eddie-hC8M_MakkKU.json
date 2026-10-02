@@ -1,0 +1,19 @@
+{
+  "video_id": "hC8M_MakkKU",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스·삼성전자, 이제 매수할 때인가? 마이크론 6% 반등의 의미",
+  "published_at": "2026-10-02T06:29:49Z",
+  "video_url": "https://www.youtube.com/watch?v=hC8M_MakkKU",
+  "thumbnail_url": "https://i.ytimg.com/vi/hC8M_MakkKU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-02T14:34:27.093615Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

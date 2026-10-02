@@ -11,8 +11,8 @@
   "source_type": "youtube",
   "status": "failed",
   "summary": null,
-  "failure_reason": "session_expired",
-  "generated_at": "2026-10-01T15:14:47.585885Z",
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-02T14:34:23.437040Z",
   "provider": "gemini",
   "model": "gemini-2.5-flash",
   "prompt_version": "v1"

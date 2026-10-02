@@ -1,0 +1,19 @@
+{
+  "video_id": "6w1q8kM9xx4",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "앞으로 5년 간 '장기전세 만기' 약 9,300여 세대",
+  "published_at": "2026-10-02T09:57:06Z",
+  "video_url": "https://www.youtube.com/watch?v=6w1q8kM9xx4",
+  "thumbnail_url": "https://i.ytimg.com/vi/6w1q8kM9xx4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-02T14:34:14.727716Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "PmFxX8Ka3ag",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "한잔은 떠나간 집을 위하여, 한잔은 초라해진 나를 위하여",
+  "published_at": "2026-10-02T07:54:19Z",
+  "video_url": "https://www.youtube.com/watch?v=PmFxX8Ka3ag",
+  "thumbnail_url": "https://i.ytimg.com/vi/PmFxX8Ka3ag/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-02T14:34:14.969508Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
