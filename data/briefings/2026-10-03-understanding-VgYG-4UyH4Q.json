@@ -1,0 +1,19 @@
+{
+  "video_id": "VgYG-4UyH4Q",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "부자라서 무시당했다. 의외로 욕먹은 천재화가 이대원 (아츠인유 이세라 대표)",
+  "published_at": "2026-10-03T05:55:25Z",
+  "video_url": "https://www.youtube.com/watch?v=VgYG-4UyH4Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/VgYG-4UyH4Q/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-03T13:09:58.547495Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

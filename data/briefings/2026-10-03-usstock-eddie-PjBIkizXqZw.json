@@ -1,0 +1,19 @@
+{
+  "video_id": "PjBIkizXqZw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "지금 매수 기회입니다… 미증시·국장 상승 이어질까?",
+  "published_at": "2026-10-03T01:24:42Z",
+  "video_url": "https://www.youtube.com/watch?v=PjBIkizXqZw",
+  "thumbnail_url": "https://i.ytimg.com/vi/PjBIkizXqZw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-03T13:10:07.187877Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

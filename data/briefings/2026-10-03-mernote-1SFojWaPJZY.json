@@ -1,0 +1,19 @@
+{
+  "video_id": "1SFojWaPJZY",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "알래스카 LNG \"사업비 545억에 한국 돈 540억?\" 최종투자결정만 남은 가스관",
+  "published_at": "2026-10-03T08:47:53Z",
+  "video_url": "https://www.youtube.com/watch?v=1SFojWaPJZY",
+  "thumbnail_url": "https://i.ytimg.com/vi/1SFojWaPJZY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-03T13:10:04.251498Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

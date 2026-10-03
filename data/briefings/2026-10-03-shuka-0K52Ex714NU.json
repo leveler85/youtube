@@ -1,0 +1,19 @@
+{
+  "video_id": "0K52Ex714NU",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "인도 옵션 투자 광풍, 50조 털린 인도 개미들",
+  "published_at": "2026-10-03T10:22:25Z",
+  "video_url": "https://www.youtube.com/watch?v=0K52Ex714NU",
+  "thumbnail_url": "https://i.ytimg.com/vi/0K52Ex714NU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-03T13:09:55.097405Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
