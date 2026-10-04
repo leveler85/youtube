@@ -1,0 +1,19 @@
+{
+  "video_id": "wdDBg4ZnbHg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[멤버십 영상 특별 공개] 골프도 해보고 다 해봤다. 인생의 종착지는 의외로 여기",
+  "published_at": "2026-10-04T05:55:27Z",
+  "video_url": "https://www.youtube.com/watch?v=wdDBg4ZnbHg",
+  "thumbnail_url": "https://i.ytimg.com/vi/wdDBg4ZnbHg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-04T13:49:18.031704Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

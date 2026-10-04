@@ -1,0 +1,19 @@
+{
+  "video_id": "f7sIceaVPH8",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "'세뇌가 아닌 동의' 나치 독일은 어떻게 가능했나? [지구본 도서관]",
+  "published_at": "2026-10-03T23:00:26Z",
+  "video_url": "https://www.youtube.com/watch?v=f7sIceaVPH8",
+  "thumbnail_url": "https://i.ytimg.com/vi/f7sIceaVPH8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-04T13:49:20.620575Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

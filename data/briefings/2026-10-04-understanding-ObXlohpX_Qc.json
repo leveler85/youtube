@@ -1,0 +1,19 @@
+{
+  "video_id": "ObXlohpX_Qc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "노벨상 터져도 답 없다, 1위 출판사 문학동네도 결국 백기 (피치덱 이동열 대표)",
+  "published_at": "2026-10-04T11:55:11Z",
+  "video_url": "https://www.youtube.com/watch?v=ObXlohpX_Qc",
+  "thumbnail_url": "https://i.ytimg.com/vi/ObXlohpX_Qc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-04T13:49:17.854102Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

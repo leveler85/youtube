@@ -2,7 +2,7 @@
   "video_id": "t-zaIm_oXnw",
   "channel_slug": "usstock-eddie",
   "channel_name": "미국주식 에디",
-  "title": "(실시간) 8월 실업률·비농업고용 발표 | 브로드컴, 앤트로픽 600억 달러 새로운 AI 반도체 자금 조달 | 미국 증시 실시간",
+  "title": "(10/2/26, 금) 8월 실업률·비농업고용 발표 | 브로드컴, 앤트로픽 600억 달러 새로운 AI 반도체 자금 조달 | 미국 증시 실시간",
   "published_at": "2026-10-02T21:13:50Z",
   "video_url": "https://www.youtube.com/watch?v=t-zaIm_oXnw",
   "thumbnail_url": "https://i.ytimg.com/vi/t-zaIm_oXnw/hqdefault.jpg",
@@ -12,7 +12,7 @@
   "status": "failed",
   "summary": null,
   "failure_reason": "video_removed",
-  "generated_at": "2026-10-03T13:10:07.453318Z",
+  "generated_at": "2026-10-04T13:49:23.701994Z",
   "provider": "gemini",
   "model": "gemini-2.5-flash",
   "prompt_version": "v1"
