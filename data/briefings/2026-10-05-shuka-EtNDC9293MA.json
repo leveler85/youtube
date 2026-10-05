@@ -1,0 +1,19 @@
+{
+  "video_id": "EtNDC9293MA",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "한국이 안내면 2배로 청구하면 그만입니다!",
+  "published_at": "2026-10-05T10:01:07Z",
+  "video_url": "https://www.youtube.com/watch?v=EtNDC9293MA",
+  "thumbnail_url": "https://i.ytimg.com/vi/EtNDC9293MA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-05T16:56:48.438817Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
