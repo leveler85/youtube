@@ -1,0 +1,19 @@
+{
+  "video_id": "WXNjO9gHj9U",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "연준 제퍼슨 \"시간이 더 걸릴 수 있다\" 10월 금리인상은 왜 멀어졌나",
+  "published_at": "2026-10-06T08:50:50Z",
+  "video_url": "https://www.youtube.com/watch?v=WXNjO9gHj9U",
+  "thumbnail_url": "https://i.ytimg.com/vi/WXNjO9gHj9U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:54:05.545593Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

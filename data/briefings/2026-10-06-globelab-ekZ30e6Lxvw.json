@@ -1,0 +1,19 @@
+{
+  "video_id": "ekZ30e6Lxvw",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "누리호 5차 발사, 성공하면 무엇이 달라질까? [지구본 초대석]",
+  "published_at": "2026-10-06T09:00:18Z",
+  "video_url": "https://www.youtube.com/watch?v=ekZ30e6Lxvw",
+  "thumbnail_url": "https://i.ytimg.com/vi/ekZ30e6Lxvw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:54:03.001540Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

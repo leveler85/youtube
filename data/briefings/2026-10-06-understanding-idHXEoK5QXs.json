@@ -1,0 +1,19 @@
+{
+  "video_id": "idHXEoK5QXs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "회장님만 돈 버는 수상한 갈비대출 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-10-06T12:25:10Z",
+  "video_url": "https://www.youtube.com/watch?v=idHXEoK5QXs",
+  "thumbnail_url": "https://i.ytimg.com/vi/idHXEoK5QXs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:54:00.356500Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

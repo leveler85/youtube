@@ -1,0 +1,19 @@
+{
+  "video_id": "xLwih1CCpoY",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "엔비디아 사상 최고가! 삼성전자·SK하이닉스 하락, 걱정할 필요 없는 이유",
+  "published_at": "2026-10-06T04:50:01Z",
+  "video_url": "https://www.youtube.com/watch?v=xLwih1CCpoY",
+  "thumbnail_url": "https://i.ytimg.com/vi/xLwih1CCpoY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:54:08.863402Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

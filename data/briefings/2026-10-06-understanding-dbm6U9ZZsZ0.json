@@ -1,0 +1,19 @@
+{
+  "video_id": "dbm6U9ZZsZ0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "강남 3억 아파트...",
+  "published_at": "2026-10-06T14:15:20Z",
+  "video_url": "https://www.youtube.com/watch?v=dbm6U9ZZsZ0",
+  "thumbnail_url": "https://i.ytimg.com/vi/dbm6U9ZZsZ0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:54:00.177683Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

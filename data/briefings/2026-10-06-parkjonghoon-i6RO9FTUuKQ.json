@@ -1,0 +1,19 @@
+{
+  "video_id": "i6RO9FTUuKQ",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "국민연금 181조원 증발? 더 큰 문제가 있습니다 (박종훈의 지식한방)",
+  "published_at": "2026-10-06T10:15:09Z",
+  "video_url": "https://www.youtube.com/watch?v=i6RO9FTUuKQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/i6RO9FTUuKQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-06T14:53:54.261456Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
