@@ -1,0 +1,19 @@
+{
+  "video_id": "QeJg04s4-0g",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "러시아 국민들의 독특한 세계관",
+  "published_at": "2026-10-07T14:15:30Z",
+  "video_url": "https://www.youtube.com/watch?v=QeJg04s4-0g",
+  "thumbnail_url": "https://i.ytimg.com/vi/QeJg04s4-0g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-07T15:19:17.210420Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "M_Y0jE9P8wE",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "다가오는 이스라엘 총선과 항공기 납치 시도 사건",
+  "published_at": "2026-10-07T09:55:36Z",
+  "video_url": "https://www.youtube.com/watch?v=M_Y0jE9P8wE",
+  "thumbnail_url": "https://i.ytimg.com/vi/M_Y0jE9P8wE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-07T15:19:12.515745Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
