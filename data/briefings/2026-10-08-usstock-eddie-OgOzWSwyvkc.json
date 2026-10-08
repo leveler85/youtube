@@ -1,0 +1,19 @@
+{
+  "video_id": "OgOzWSwyvkc",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 삼성전자, 메모리 칩 호조에 순이익 9배 급증 | 사우디, 후티 반군 공격 태세 준비? | 30년물국채입찰 2시 발표 | 미국 증시 실시간",
+  "published_at": "2026-10-08T07:49:40Z",
+  "video_url": "https://www.youtube.com/watch?v=OgOzWSwyvkc",
+  "thumbnail_url": "https://i.ytimg.com/vi/OgOzWSwyvkc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:32.203330Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

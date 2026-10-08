@@ -1,0 +1,19 @@
+{
+  "video_id": "jR4JY-XxO8g",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"은행 앱은 안 뚫렸다는데\" 신한·KB·하나 고객정보가 샌 진짜 이유",
+  "published_at": "2026-10-08T08:32:18Z",
+  "video_url": "https://www.youtube.com/watch?v=jR4JY-XxO8g",
+  "thumbnail_url": "https://i.ytimg.com/vi/jR4JY-XxO8g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:27.955701Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

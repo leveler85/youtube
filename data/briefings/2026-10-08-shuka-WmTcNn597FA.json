@@ -1,0 +1,19 @@
+{
+  "video_id": "WmTcNn597FA",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "임대료 폭등에 분노한 국민들에게, 정치인들이 말하는 신박한 해법",
+  "published_at": "2026-10-08T12:04:14Z",
+  "video_url": "https://www.youtube.com/watch?v=WmTcNn597FA",
+  "thumbnail_url": "https://i.ytimg.com/vi/WmTcNn597FA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:16.302989Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

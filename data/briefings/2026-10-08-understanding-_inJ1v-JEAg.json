@@ -1,0 +1,19 @@
+{
+  "video_id": "_inJ1v-JEAg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "알래스카 꽂힌 트럼프 왜 한국 기자만 막았나 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-10-08T07:55:07Z",
+  "video_url": "https://www.youtube.com/watch?v=_inJ1v-JEAg",
+  "thumbnail_url": "https://i.ytimg.com/vi/_inJ1v-JEAg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:21.156755Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

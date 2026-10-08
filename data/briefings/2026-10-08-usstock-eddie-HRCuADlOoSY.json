@@ -1,0 +1,19 @@
+{
+  "video_id": "HRCuADlOoSY",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(10/8/26, 목) 삼성전자 3분기 잠정 실적발표 | 미장 샌디스크, 마이크론 반등 | 국장, 비트코인 방송",
+  "published_at": "2026-10-08T01:08:08Z",
+  "video_url": "https://www.youtube.com/watch?v=HRCuADlOoSY",
+  "thumbnail_url": "https://i.ytimg.com/vi/HRCuADlOoSY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:32.588378Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

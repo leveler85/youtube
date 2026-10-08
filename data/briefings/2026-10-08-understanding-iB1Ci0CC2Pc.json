@@ -1,0 +1,19 @@
+{
+  "video_id": "iB1Ci0CC2Pc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "중국 태양광 퇴출하나 국산에 웃돈 준다 (한국공학대학교 조상민 교수, 기후에너지환경부 우석중 서기관) (2부)",
+  "published_at": "2026-10-08T12:25:32Z",
+  "video_url": "https://www.youtube.com/watch?v=iB1Ci0CC2Pc",
+  "thumbnail_url": "https://i.ytimg.com/vi/iB1Ci0CC2Pc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:20.965821Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

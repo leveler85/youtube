@@ -1,0 +1,19 @@
+{
+  "video_id": "IKJbMwBZ7xE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "삼성전자·마이크론, 큰 상승이 다가온다? 지금 주목해야 할 이유",
+  "published_at": "2026-10-08T06:35:25Z",
+  "video_url": "https://www.youtube.com/watch?v=IKJbMwBZ7xE",
+  "thumbnail_url": "https://i.ytimg.com/vi/IKJbMwBZ7xE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-08T15:23:32.395924Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
