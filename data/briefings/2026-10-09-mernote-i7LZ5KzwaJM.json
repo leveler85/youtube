@@ -1,0 +1,19 @@
+{
+  "video_id": "i7LZ5KzwaJM",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "“천만 원 넣었으면 하루 만에 44만 원 이득?” 브라질 국채, 대선 다음 날 생긴 일",
+  "published_at": "2026-10-09T07:11:37Z",
+  "video_url": "https://www.youtube.com/watch?v=i7LZ5KzwaJM",
+  "thumbnail_url": "https://i.ytimg.com/vi/i7LZ5KzwaJM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-09T15:05:54.945378Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

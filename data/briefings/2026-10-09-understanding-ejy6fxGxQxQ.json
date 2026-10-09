@@ -1,0 +1,19 @@
+{
+  "video_id": "ejy6fxGxQxQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[2026노벨상 특집 몰아보기] 발견하면 바로 노벨상, 중성미자가 그래서 뭔데? (서울시립대 물리학과 박인규 교수)",
+  "published_at": "2026-10-09T11:55:08Z",
+  "video_url": "https://www.youtube.com/watch?v=ejy6fxGxQxQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/ejy6fxGxQxQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-09T15:05:46.923797Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

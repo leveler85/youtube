@@ -1,0 +1,19 @@
+{
+  "video_id": "SQ8_MmMFhus",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "[합본] 세계 패권에 도전하는 중국, 왜 딜레마에 빠졌을까?",
+  "published_at": "2026-10-09T09:00:08Z",
+  "video_url": "https://www.youtube.com/watch?v=SQ8_MmMFhus",
+  "thumbnail_url": "https://i.ytimg.com/vi/SQ8_MmMFhus/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-09T15:05:51.504555Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

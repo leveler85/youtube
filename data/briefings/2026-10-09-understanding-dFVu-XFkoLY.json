@@ -1,0 +1,19 @@
+{
+  "video_id": "dFVu-XFkoLY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "공원 뷰라 땅 샀는데... 박진영 750억 당했다? (언더스탠딩 장순원 기자)",
+  "published_at": "2026-10-09T05:55:14Z",
+  "video_url": "https://www.youtube.com/watch?v=dFVu-XFkoLY",
+  "thumbnail_url": "https://i.ytimg.com/vi/dFVu-XFkoLY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-09T15:05:47.134872Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
