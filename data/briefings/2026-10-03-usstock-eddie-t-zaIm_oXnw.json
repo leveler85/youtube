@@ -12,7 +12,7 @@
   "status": "failed",
   "summary": null,
   "failure_reason": "video_removed",
-  "generated_at": "2026-10-09T15:05:58.956378Z",
+  "generated_at": "2026-10-10T14:20:43.608571Z",
   "provider": "gemini",
   "model": "gemini-2.5-flash",
   "prompt_version": "v1"

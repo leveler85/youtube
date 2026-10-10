@@ -1,0 +1,19 @@
+{
+  "video_id": "QTJS93hW4LE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[박소연 3시간 몰아보기] 죽어도 잃지 않는 천재들의 투자공식 (신영증권 박소연 이사)",
+  "published_at": "2026-10-10T11:55:19Z",
+  "video_url": "https://www.youtube.com/watch?v=QTJS93hW4LE",
+  "thumbnail_url": "https://i.ytimg.com/vi/QTJS93hW4LE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-10T14:20:32.848600Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

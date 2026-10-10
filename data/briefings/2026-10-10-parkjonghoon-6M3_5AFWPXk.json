@@ -1,0 +1,19 @@
+{
+  "video_id": "6M3_5AFWPXk",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "금락한 금값, 연준이 항복할 때 오른다 (박종훈의 지식한방)",
+  "published_at": "2026-10-10T10:15:13Z",
+  "video_url": "https://www.youtube.com/watch?v=6M3_5AFWPXk",
+  "thumbnail_url": "https://i.ytimg.com/vi/6M3_5AFWPXk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-10T14:20:26.725890Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

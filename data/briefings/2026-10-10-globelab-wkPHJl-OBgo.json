@@ -1,0 +1,19 @@
+{
+  "video_id": "wkPHJl-OBgo",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "축구팀 징계가 외교까지? 영국 최악의 스캔들 근황 [지구본 뉴스룸]",
+  "published_at": "2026-10-09T23:00:13Z",
+  "video_url": "https://www.youtube.com/watch?v=wkPHJl-OBgo",
+  "thumbnail_url": "https://i.ytimg.com/vi/wkPHJl-OBgo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-10T14:20:36.459720Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "zrVF-Zfm-Hs",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"일본 돈이 집으로 돌아오는 중\" 미국 국채 이자 5.3%를 두고 일본 국채 3.1%를 고른 이유",
+  "published_at": "2026-10-10T07:29:54Z",
+  "video_url": "https://www.youtube.com/watch?v=zrVF-Zfm-Hs",
+  "thumbnail_url": "https://i.ytimg.com/vi/zrVF-Zfm-Hs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-10T14:20:39.974196Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
