@@ -1,0 +1,19 @@
+{
+  "video_id": "f02MPP7w7ao",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[이승훈 3시간 몰아보기] 염증은 착하다 악당은 따로 있다 (서울대병원 이승훈 교수)",
+  "published_at": "2026-10-11T11:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=f02MPP7w7ao",
+  "thumbnail_url": "https://i.ytimg.com/vi/f02MPP7w7ao/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-11T14:45:56.284376Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "7vJKCLU_YQ4",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "755억 JYP 땅 앞 공원이 바뀐 이유, 분양공고 속 이 한 줄 보셨나요?",
+  "published_at": "2026-10-11T07:57:31Z",
+  "video_url": "https://www.youtube.com/watch?v=7vJKCLU_YQ4",
+  "thumbnail_url": "https://i.ytimg.com/vi/7vJKCLU_YQ4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-11T14:46:03.974244Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

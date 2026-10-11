@@ -1,0 +1,19 @@
+{
+  "video_id": "-Zmpezx4UvI",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "인도의 14억 인구조사, 판도라의 상자라고? f.인도환타 [지구본 초대석]",
+  "published_at": "2026-10-10T23:00:12Z",
+  "video_url": "https://www.youtube.com/watch?v=-Zmpezx4UvI",
+  "thumbnail_url": "https://i.ytimg.com/vi/-Zmpezx4UvI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "video_removed",
+  "generated_at": "2026-10-11T14:46:00.358795Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
