@@ -1,0 +1,19 @@
+{
+  "video_id": "yxPrVhj2oeI",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 브로드컴 CEO 경고로 주가 폭락 촉발... 왜곡된 기사 | 실적발표: JP모건, 골드만삭스, 웰스파고, UNH | 미국 증시 실시간",
+  "published_at": "2026-10-13T09:24:45Z",
+  "video_url": "https://www.youtube.com/watch?v=yxPrVhj2oeI",
+  "thumbnail_url": "https://i.ytimg.com/vi/yxPrVhj2oeI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-13T15:43:22.520152Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

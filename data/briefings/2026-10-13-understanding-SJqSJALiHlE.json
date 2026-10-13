@@ -1,0 +1,19 @@
+{
+  "video_id": "SJqSJALiHlE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"요양원 모시기 전에 무조건 보세요\" 치매 부모님이 겪게 되는 적나라한 연명치료의 현실 (양성관 과장/의정부 백병원)",
+  "published_at": "2026-10-13T08:08:30Z",
+  "video_url": "https://www.youtube.com/watch?v=SJqSJALiHlE",
+  "thumbnail_url": "https://i.ytimg.com/vi/SJqSJALiHlE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-13T15:43:07.619033Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
