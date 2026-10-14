@@ -1,0 +1,19 @@
+{
+  "video_id": "14yPbAz8XBU",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "프랑스 국채 거래, 여러분이었다면 버틸 수 있었을까요? 작게 벌고 크게 잃는 구조",
+  "published_at": "2026-10-14T08:30:54Z",
+  "video_url": "https://www.youtube.com/watch?v=14yPbAz8XBU",
+  "thumbnail_url": "https://i.ytimg.com/vi/14yPbAz8XBU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-14T13:26:59.836568Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

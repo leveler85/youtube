@@ -1,0 +1,19 @@
+{
+  "video_id": "idn71TczNok",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "AI 큰손들의 경고, 이제는 반도체보다 돈이 문제다 (박종훈의 지식한방)",
+  "published_at": "2026-10-14T10:15:26Z",
+  "video_url": "https://www.youtube.com/watch?v=idn71TczNok",
+  "thumbnail_url": "https://i.ytimg.com/vi/idn71TczNok/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-14T13:26:42.484631Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "zXtseb96cmc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "신세계, 워너브라더스 인수에 1조4천억 투자",
+  "published_at": "2026-10-14T09:19:08Z",
+  "video_url": "https://www.youtube.com/watch?v=zXtseb96cmc",
+  "thumbnail_url": "https://i.ytimg.com/vi/zXtseb96cmc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-14T13:26:44.530434Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

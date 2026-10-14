@@ -1,0 +1,19 @@
+{
+  "video_id": "ohXlA7-wkcE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 9월 소비자물가지수 CPI 발표 | 연준 베이지북 | ASML 실적발표, 반도체 칩 부족 | 미국 증시 실시간",
+  "published_at": "2026-10-14T11:59:41Z",
+  "video_url": "https://www.youtube.com/watch?v=ohXlA7-wkcE",
+  "thumbnail_url": "https://i.ytimg.com/vi/ohXlA7-wkcE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-14T13:27:05.372901Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

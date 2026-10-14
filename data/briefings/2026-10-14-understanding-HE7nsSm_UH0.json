@@ -1,0 +1,19 @@
+{
+  "video_id": "HE7nsSm_UH0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "눈이 가려운데 코를 치료하라고? (서울아산병원 알레르기내과 권혁수 교수)",
+  "published_at": "2026-10-14T12:25:10Z",
+  "video_url": "https://www.youtube.com/watch?v=HE7nsSm_UH0",
+  "thumbnail_url": "https://i.ytimg.com/vi/HE7nsSm_UH0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-14T13:26:47.985965Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
