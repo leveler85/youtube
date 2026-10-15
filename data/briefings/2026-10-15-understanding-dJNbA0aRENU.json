@@ -1,0 +1,19 @@
+{
+  "video_id": "dJNbA0aRENU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"24시간 놓치면 죽는다\" 중세에 끝난 줄 알았던 페스트(흑사병). 러시아 연구원은 왜 사망했나? (연세대 시스템생물학 김응빈 교수)",
+  "published_at": "2026-10-15T08:07:38Z",
+  "video_url": "https://www.youtube.com/watch?v=dJNbA0aRENU",
+  "thumbnail_url": "https://i.ytimg.com/vi/dJNbA0aRENU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-15T13:11:23.057483Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

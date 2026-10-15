@@ -1,0 +1,19 @@
+{
+  "video_id": "CeylN_6odW4",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 9월 생산자물가지수 PPI 발표 | 앤트로픽 3분기 매출 45% 증가, 168억달러 | 코스피·코스닥 동반 서킷브레이커 | 미국 증시 실시간",
+  "published_at": "2026-10-15T10:49:18Z",
+  "video_url": "https://www.youtube.com/watch?v=CeylN_6odW4",
+  "thumbnail_url": "https://i.ytimg.com/vi/CeylN_6odW4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-15T13:11:35.201236Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

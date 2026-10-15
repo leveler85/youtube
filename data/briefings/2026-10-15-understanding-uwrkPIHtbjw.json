@@ -1,0 +1,19 @@
+{
+  "video_id": "uwrkPIHtbjw",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[전직 테슬라 엔지니어 1부] \"출근 첫날부터 숨막혔다\" 현대차가 테슬라 못 따라잡는 이유 (전 테슬라 엔지니어 맹성준 작가)",
+  "published_at": "2026-10-15T12:33:44Z",
+  "video_url": "https://www.youtube.com/watch?v=uwrkPIHtbjw",
+  "thumbnail_url": "https://i.ytimg.com/vi/uwrkPIHtbjw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-15T13:11:22.477563Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

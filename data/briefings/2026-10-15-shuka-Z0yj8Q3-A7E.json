@@ -1,0 +1,19 @@
+{
+  "video_id": "Z0yj8Q3-A7E",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "매물로 나온 JTBC, 중앙일보, 뜻밖에 물 들어온 굿즈시장",
+  "published_at": "2026-10-15T10:20:12Z",
+  "video_url": "https://www.youtube.com/watch?v=Z0yj8Q3-A7E",
+  "thumbnail_url": "https://i.ytimg.com/vi/Z0yj8Q3-A7E/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-15T13:11:17.163556Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

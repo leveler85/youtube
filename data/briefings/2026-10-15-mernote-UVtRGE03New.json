@@ -1,0 +1,19 @@
+{
+  "video_id": "UVtRGE03New",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "서킷브레이커 걸린 국장, 삼성전자 들고 계신 분이 지금 봐야 할 수급",
+  "published_at": "2026-10-15T08:16:47Z",
+  "video_url": "https://www.youtube.com/watch?v=UVtRGE03New",
+  "thumbnail_url": "https://i.ytimg.com/vi/UVtRGE03New/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-15T13:11:31.897973Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
