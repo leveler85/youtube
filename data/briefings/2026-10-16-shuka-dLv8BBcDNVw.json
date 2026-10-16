@@ -1,0 +1,19 @@
+{
+  "video_id": "dLv8BBcDNVw",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "세계 각국에서 접속 차단되고 있는 예측시장 폴리마켓",
+  "published_at": "2026-10-16T11:16:26Z",
+  "video_url": "https://www.youtube.com/watch?v=dLv8BBcDNVw",
+  "thumbnail_url": "https://i.ytimg.com/vi/dLv8BBcDNVw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-16T13:05:28.795971Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

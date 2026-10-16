@@ -1,0 +1,19 @@
+{
+  "video_id": "QSBipT4BNMA",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "미국 주식 들고 계신 분, 물가가 이틀 연속 터졌는데 국채 이자가 내린 이유",
+  "published_at": "2026-10-16T08:01:07Z",
+  "video_url": "https://www.youtube.com/watch?v=QSBipT4BNMA",
+  "thumbnail_url": "https://i.ytimg.com/vi/QSBipT4BNMA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-16T13:05:42.128152Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

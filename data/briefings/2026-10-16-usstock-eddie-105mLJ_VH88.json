@@ -1,0 +1,19 @@
+{
+  "video_id": "105mLJ_VH88",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 케빈 워시 연준의장 발언, 10월 금리동결 가능성 상승 | 테슬라, 로드스터 공개 후 3.5% 상승 | 미국 증시 실시간",
+  "published_at": "2026-10-16T11:35:07Z",
+  "video_url": "https://www.youtube.com/watch?v=105mLJ_VH88",
+  "thumbnail_url": "https://i.ytimg.com/vi/105mLJ_VH88/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-16T13:05:46.445615Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

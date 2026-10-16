@@ -1,0 +1,19 @@
+{
+  "video_id": "ZP-48IeHXNo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[전직 테슬라 엔지니어 2부] 사이버캡에 효율 낮은 에어컨 넣은 이유 (전 테슬라 엔지니어 맹성준 작가)",
+  "published_at": "2026-10-16T12:25:24Z",
+  "video_url": "https://www.youtube.com/watch?v=ZP-48IeHXNo",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZP-48IeHXNo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-16T13:05:33.129487Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
