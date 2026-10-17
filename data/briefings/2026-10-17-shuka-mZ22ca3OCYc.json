@@ -1,0 +1,19 @@
+{
+  "video_id": "mZ22ca3OCYc",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "소나무 불치병 대유행, 멸종 위기에 몰린 한국 소나무",
+  "published_at": "2026-10-17T10:20:55Z",
+  "video_url": "https://www.youtube.com/watch?v=mZ22ca3OCYc",
+  "thumbnail_url": "https://i.ytimg.com/vi/mZ22ca3OCYc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:19.351667Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

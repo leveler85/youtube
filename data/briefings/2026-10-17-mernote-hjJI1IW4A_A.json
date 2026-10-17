@@ -1,0 +1,19 @@
+{
+  "video_id": "hjJI1IW4A_A",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "물가 하나에 우리 국장 사이드카, 코어위브 빚이 진짜 원인일까",
+  "published_at": "2026-10-17T04:28:44Z",
+  "video_url": "https://www.youtube.com/watch?v=hjJI1IW4A_A",
+  "thumbnail_url": "https://i.ytimg.com/vi/hjJI1IW4A_A/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:30.253640Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

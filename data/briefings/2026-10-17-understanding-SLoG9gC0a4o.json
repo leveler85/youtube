@@ -1,0 +1,19 @@
+{
+  "video_id": "SLoG9gC0a4o",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "칠순 앞둔 의사가 말합니다, 살빼듯 나이도 뺄 수 있다고 (강남삼성병원 건강의학부 박용우 교수)",
+  "published_at": "2026-10-17T11:55:17Z",
+  "video_url": "https://www.youtube.com/watch?v=SLoG9gC0a4o",
+  "thumbnail_url": "https://i.ytimg.com/vi/SLoG9gC0a4o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:23.150681Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "R4K0qIgCK9Y",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "증시는 먼저 꺾였다. 부동산은 버틸까? (박종훈의 지식한방)",
+  "published_at": "2026-10-17T11:15:12Z",
+  "video_url": "https://www.youtube.com/watch?v=R4K0qIgCK9Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/R4K0qIgCK9Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:16.182361Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "Lf89bw8zlXM",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "삼성 회장님이 1조9천억 원 긁었다는 소문",
+  "published_at": "2026-10-17T08:06:08Z",
+  "video_url": "https://www.youtube.com/watch?v=Lf89bw8zlXM",
+  "thumbnail_url": "https://i.ytimg.com/vi/Lf89bw8zlXM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:19.682719Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "4mG9G4QAsI4",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "잘나가는 한국 방산, 과연 이대로 계속 갈 수 있을까? [방산 특집 1부]",
+  "published_at": "2026-10-16T23:00:20Z",
+  "video_url": "https://www.youtube.com/watch?v=4mG9G4QAsI4",
+  "thumbnail_url": "https://i.ytimg.com/vi/4mG9G4QAsI4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:27.937043Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

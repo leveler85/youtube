@@ -1,0 +1,19 @@
+{
+  "video_id": "zx_RICymbLM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[멤버십영상] 박팀장이 회사에서 6년 만에 극찬 받은 이유",
+  "published_at": "2026-10-16T14:15:16Z",
+  "video_url": "https://www.youtube.com/watch?v=zx_RICymbLM",
+  "thumbnail_url": "https://i.ytimg.com/vi/zx_RICymbLM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-17T12:02:23.899055Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
