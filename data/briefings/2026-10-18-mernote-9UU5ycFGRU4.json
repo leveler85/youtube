@@ -1,0 +1,19 @@
+{
+  "video_id": "9UU5ycFGRU4",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "경기도 재정 비상, 여러분이라면 산후조리비부터 자르시겠어요? 7,700억 구멍의 순서",
+  "published_at": "2026-10-18T08:29:35Z",
+  "video_url": "https://www.youtube.com/watch?v=9UU5ycFGRU4",
+  "thumbnail_url": "https://i.ytimg.com/vi/9UU5ycFGRU4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-18T12:30:40.644233Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "nu7t21JPcSk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "AI 안경으로 직접 컨닝 해봤습니다",
+  "published_at": "2026-10-17T14:15:28Z",
+  "video_url": "https://www.youtube.com/watch?v=nu7t21JPcSk",
+  "thumbnail_url": "https://i.ytimg.com/vi/nu7t21JPcSk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-18T12:30:34.325255Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "4b_BAWXrE18",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[알상무의 파우스트 2부] \"레버리지 끌어다 쓴 대가\" 양적완화와 AI의 미래 예언한 200년 전 소설 ((전)금융투자전문가 알상무)",
+  "published_at": "2026-10-18T11:55:36Z",
+  "video_url": "https://www.youtube.com/watch?v=4b_BAWXrE18",
+  "thumbnail_url": "https://i.ytimg.com/vi/4b_BAWXrE18/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-18T12:30:33.603821Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

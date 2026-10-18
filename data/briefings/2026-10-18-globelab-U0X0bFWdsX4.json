@@ -1,0 +1,19 @@
+{
+  "video_id": "U0X0bFWdsX4",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "주문은 들어오는데 마음대로 못 판다? K방산의 숨은 장벽 [방산 특집 2부]",
+  "published_at": "2026-10-17T23:00:34Z",
+  "video_url": "https://www.youtube.com/watch?v=U0X0bFWdsX4",
+  "thumbnail_url": "https://i.ytimg.com/vi/U0X0bFWdsX4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-18T12:30:38.131487Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
