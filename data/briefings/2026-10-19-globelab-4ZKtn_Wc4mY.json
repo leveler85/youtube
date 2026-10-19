@@ -1,0 +1,19 @@
+{
+  "video_id": "4ZKtn_Wc4mY",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "프랑스 경찰은 안 막는 걸까, 못 막는 걸까? [지구본 뉴스룸]",
+  "published_at": "2026-10-19T09:00:20Z",
+  "video_url": "https://www.youtube.com/watch?v=4ZKtn_Wc4mY",
+  "thumbnail_url": "https://i.ytimg.com/vi/4ZKtn_Wc4mY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-19T15:22:21.607624Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

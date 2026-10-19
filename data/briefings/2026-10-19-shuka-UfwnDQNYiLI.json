@@ -1,0 +1,19 @@
+{
+  "video_id": "UfwnDQNYiLI",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "코스피 고점 대비 -40%, 한여름 밤의 꿈",
+  "published_at": "2026-10-19T14:14:17Z",
+  "video_url": "https://www.youtube.com/watch?v=UfwnDQNYiLI",
+  "thumbnail_url": "https://i.ytimg.com/vi/UfwnDQNYiLI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-19T15:22:11.281001Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

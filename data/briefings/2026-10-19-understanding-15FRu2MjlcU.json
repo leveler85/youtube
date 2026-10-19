@@ -1,0 +1,19 @@
+{
+  "video_id": "15FRu2MjlcU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "나이 들수록 화가 더 쉽게 나는 이유",
+  "published_at": "2026-10-19T14:15:11Z",
+  "video_url": "https://www.youtube.com/watch?v=15FRu2MjlcU",
+  "thumbnail_url": "https://i.ytimg.com/vi/15FRu2MjlcU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-19T15:22:16.339963Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "PD3J7O5FvFA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"경유 좀 풀어달라\" 트럼프가 부탁하자마자 수출 끊어버린 중국, 글로벌 경유전쟁 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-10-19T07:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=PD3J7O5FvFA",
+  "thumbnail_url": "https://i.ytimg.com/vi/PD3J7O5FvFA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-19T15:22:17.052586Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
