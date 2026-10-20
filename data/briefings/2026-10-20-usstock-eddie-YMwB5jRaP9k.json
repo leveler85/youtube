@@ -1,0 +1,19 @@
+{
+  "video_id": "YMwB5jRaP9k",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 국장 하락, 엘리스 IPO 영향 | 실적발표: 스페이스X, 넷플릭스, ISRG | 엔트로픽, 450억 달러 규모 클라우드 컴퓨팅 계약 협상 | 미국 증시 실시간",
+  "published_at": "2026-10-20T05:14:54Z",
+  "video_url": "https://www.youtube.com/watch?v=YMwB5jRaP9k",
+  "thumbnail_url": "https://i.ytimg.com/vi/YMwB5jRaP9k/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-20T13:25:47.283281Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

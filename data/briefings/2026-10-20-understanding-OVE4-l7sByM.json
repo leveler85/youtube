@@ -1,0 +1,19 @@
+{
+  "video_id": "OVE4-l7sByM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "명품·커피 세계 최고 이탈리아가 '가족 경영'에 갇혀 20년 주가 저주에 빠진 이유 (해담경제연구소 어예진 소장)",
+  "published_at": "2026-10-20T07:55:01Z",
+  "video_url": "https://www.youtube.com/watch?v=OVE4-l7sByM",
+  "thumbnail_url": "https://i.ytimg.com/vi/OVE4-l7sByM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-20T13:25:33.775845Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

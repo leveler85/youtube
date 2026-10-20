@@ -1,0 +1,19 @@
+{
+  "video_id": "z8bFzDtdv1A",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "우리 돈 28조 들어간 테슬라, 로켓 시험장에서 차를 띄운 속셈은?",
+  "published_at": "2026-10-20T08:55:44Z",
+  "video_url": "https://www.youtube.com/watch?v=z8bFzDtdv1A",
+  "thumbnail_url": "https://i.ytimg.com/vi/z8bFzDtdv1A/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-20T13:25:44.423948Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

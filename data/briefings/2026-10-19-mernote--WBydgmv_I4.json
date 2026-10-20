@@ -2,7 +2,7 @@
   "video_id": "-WBydgmv_I4",
   "channel_slug": "mernote",
   "channel_name": "메르노트",
-  "title": "\"마지막 퍼즐\" 11조 쓴 머스크, 스페이스X 사셨다면 알아야 할 진짜 이유",
+  "title": "적자 AI에 11조까지 빠져나가는 스페이스X, 휴대폰 승부수는 통할까",
   "published_at": "2026-10-19T10:37:10Z",
   "video_url": "https://www.youtube.com/watch?v=-WBydgmv_I4",
   "thumbnail_url": "https://i.ytimg.com/vi/-WBydgmv_I4/hqdefault.jpg",
@@ -12,7 +12,7 @@
   "status": "failed",
   "summary": null,
   "failure_reason": "session_expired",
-  "generated_at": "2026-10-19T15:22:24.854298Z",
+  "generated_at": "2026-10-20T13:25:44.798504Z",
   "provider": "gemini",
   "model": "gemini-2.5-flash",
   "prompt_version": "v1"
