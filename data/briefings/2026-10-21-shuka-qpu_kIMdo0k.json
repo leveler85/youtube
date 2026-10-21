@@ -1,0 +1,19 @@
+{
+  "video_id": "qpu_kIMdo0k",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "주식시장 K-사고방식",
+  "published_at": "2026-10-21T05:09:04Z",
+  "video_url": "https://www.youtube.com/watch?v=qpu_kIMdo0k",
+  "thumbnail_url": "https://i.ytimg.com/vi/qpu_kIMdo0k/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-21T13:35:12.108408Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

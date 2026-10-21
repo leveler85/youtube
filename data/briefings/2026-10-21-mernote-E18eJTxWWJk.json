@@ -1,0 +1,19 @@
+{
+  "video_id": "E18eJTxWWJk",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"증안펀드 나올 때가 바닥이었다\" 폭락장마다 반복된 경험칙, 이번에도 맞을까",
+  "published_at": "2026-10-21T08:18:17Z",
+  "video_url": "https://www.youtube.com/watch?v=E18eJTxWWJk",
+  "thumbnail_url": "https://i.ytimg.com/vi/E18eJTxWWJk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-21T13:35:23.555424Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

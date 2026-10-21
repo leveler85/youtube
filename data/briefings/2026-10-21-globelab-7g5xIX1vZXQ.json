@@ -1,0 +1,19 @@
+{
+  "video_id": "7g5xIX1vZXQ",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "관광은 가능..? 프랑스 파리에 비상사태가 선포되면 벌어지는 일 [지구본 뉴스룸]",
+  "published_at": "2026-10-21T09:00:24Z",
+  "video_url": "https://www.youtube.com/watch?v=7g5xIX1vZXQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/7g5xIX1vZXQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-21T13:35:20.213107Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

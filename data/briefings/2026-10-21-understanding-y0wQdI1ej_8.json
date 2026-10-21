@@ -1,0 +1,19 @@
+{
+  "video_id": "y0wQdI1ej_8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "중국에 기술 넘겨주다 20년 만에 역전. 중국에 기술 이전 요청하는 유럽의 몰락 ('부자 미국 가난한 유럽' 저자 손진석 기자)",
+  "published_at": "2026-10-21T07:55:30Z",
+  "video_url": "https://www.youtube.com/watch?v=y0wQdI1ej_8",
+  "thumbnail_url": "https://i.ytimg.com/vi/y0wQdI1ej_8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-21T13:35:16.338318Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
