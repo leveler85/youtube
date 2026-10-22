@@ -1,0 +1,19 @@
+{
+  "video_id": "_3tL5_h5ZTc",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"AI 1등이 신용 6등급 금리로?\" 앤트로픽이 10% 넘는 빚을 낸 진짜 이유",
+  "published_at": "2026-10-22T06:01:58Z",
+  "video_url": "https://www.youtube.com/watch?v=_3tL5_h5ZTc",
+  "thumbnail_url": "https://i.ytimg.com/vi/_3tL5_h5ZTc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-22T13:37:11.602949Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

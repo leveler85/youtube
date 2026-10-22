@@ -1,0 +1,19 @@
+{
+  "video_id": "fpTch4A9erE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"반도체 끝났다\" 뉴스에 개미들 팔 때 외국인이 삼성전자 매수한 이유 (AFW파트너스 이선엽 대표) | 26년 10월 21일 방송",
+  "published_at": "2026-10-22T07:55:25Z",
+  "video_url": "https://www.youtube.com/watch?v=fpTch4A9erE",
+  "thumbnail_url": "https://i.ytimg.com/vi/fpTch4A9erE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-22T13:37:05.431742Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
