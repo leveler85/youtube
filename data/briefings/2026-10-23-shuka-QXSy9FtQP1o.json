@@ -1,0 +1,19 @@
+{
+  "video_id": "QXSy9FtQP1o",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "인도 선관위 조작 논란, 폭발한 인도 청년들",
+  "published_at": "2026-10-23T12:24:09Z",
+  "video_url": "https://www.youtube.com/watch?v=QXSy9FtQP1o",
+  "thumbnail_url": "https://i.ytimg.com/vi/QXSy9FtQP1o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-23T13:12:49.020860Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

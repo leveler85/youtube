@@ -1,0 +1,19 @@
+{
+  "video_id": "o6AUubgX5VI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[미공개영상] 이프로 대학시절 특전단 들어갈 뻔한 썰",
+  "published_at": "2026-10-22T14:15:02Z",
+  "video_url": "https://www.youtube.com/watch?v=o6AUubgX5VI",
+  "thumbnail_url": "https://i.ytimg.com/vi/o6AUubgX5VI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-23T13:12:54.416087Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

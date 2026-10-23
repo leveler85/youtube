@@ -1,0 +1,19 @@
+{
+  "video_id": "vvwYWBM_lx0",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"코딩교육 회사가 GPU 장사를?\" 엘리스 공모주 첫날을 미국 코어위브가 흔든 이유",
+  "published_at": "2026-10-23T07:22:26Z",
+  "video_url": "https://www.youtube.com/watch?v=vvwYWBM_lx0",
+  "thumbnail_url": "https://i.ytimg.com/vi/vvwYWBM_lx0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-23T13:13:01.727085Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

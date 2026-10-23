@@ -1,0 +1,19 @@
+{
+  "video_id": "oVe45o8C1xM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "값싼 원전 전기는 대기업에 주고, 국민은 비싼 LNG 전기 쓴다? 원전 직거래 법안의 진실 (언더스탠딩 김상훈 기자)",
+  "published_at": "2026-10-23T07:55:10Z",
+  "video_url": "https://www.youtube.com/watch?v=oVe45o8C1xM",
+  "thumbnail_url": "https://i.ytimg.com/vi/oVe45o8C1xM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-23T13:12:53.940249Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
