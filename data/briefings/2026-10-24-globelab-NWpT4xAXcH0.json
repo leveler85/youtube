@@ -1,0 +1,19 @@
+{
+  "video_id": "NWpT4xAXcH0",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "프랑스 정부가 배후로 지목한 '블랙 블록'의 정체 [지구본 뉴스룸]",
+  "published_at": "2026-10-23T23:00:18Z",
+  "video_url": "https://www.youtube.com/watch?v=NWpT4xAXcH0",
+  "thumbnail_url": "https://i.ytimg.com/vi/NWpT4xAXcH0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-24T12:30:34.118057Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

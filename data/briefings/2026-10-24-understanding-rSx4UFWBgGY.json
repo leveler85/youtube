@@ -1,0 +1,19 @@
+{
+  "video_id": "rSx4UFWBgGY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김경일의 인간을 위한 공간] 가구 배치만 바꿔도 뇌와 행동이 달라진다 (아주대학교 심리학과 김경일 교수)",
+  "published_at": "2026-10-24T11:55:30Z",
+  "video_url": "https://www.youtube.com/watch?v=rSx4UFWBgGY",
+  "thumbnail_url": "https://i.ytimg.com/vi/rSx4UFWBgGY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-24T12:30:29.032027Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
