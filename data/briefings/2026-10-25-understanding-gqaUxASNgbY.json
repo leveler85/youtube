@@ -1,0 +1,19 @@
+{
+  "video_id": "gqaUxASNgbY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[과학 잔혹사 2부] 얼음송곳 뇌수술로 노벨상 받은 최악의 의사. 남자 아이를 강제로 여자로 바꾼 충격의 쌍둥이 실험",
+  "published_at": "2026-10-25T11:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=gqaUxASNgbY",
+  "thumbnail_url": "https://i.ytimg.com/vi/gqaUxASNgbY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-25T13:03:10.091905Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

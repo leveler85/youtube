@@ -1,0 +1,19 @@
+{
+  "video_id": "djny0bkGyqk",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "[슈카월드] 세계 주식시장 하락율 1위 국가의 대책 / 불타는 프랑스, 그 원인은? / 김정은은 사망했는가 / 미국 중간선거, 선 넘는 네거티브 광고 / 미국 부유세 논란",
+  "published_at": "2026-10-25T11:25:12Z",
+  "video_url": "https://www.youtube.com/watch?v=djny0bkGyqk",
+  "thumbnail_url": "https://i.ytimg.com/vi/djny0bkGyqk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-25T13:03:06.151286Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "RjPiuBtG4iY",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "실거주한다던 집주인 때문에 이사하셨다면? 2년 안에 세를 놨을 때 받는 돈",
+  "published_at": "2026-10-25T00:57:28Z",
+  "video_url": "https://www.youtube.com/watch?v=RjPiuBtG4iY",
+  "thumbnail_url": "https://i.ytimg.com/vi/RjPiuBtG4iY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-25T13:03:15.523403Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

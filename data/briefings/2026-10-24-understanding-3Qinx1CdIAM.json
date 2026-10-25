@@ -1,0 +1,19 @@
+{
+  "video_id": "3Qinx1CdIAM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "막장이 따로 없다 괴테의 파우스트",
+  "published_at": "2026-10-24T14:15:23Z",
+  "video_url": "https://www.youtube.com/watch?v=3Qinx1CdIAM",
+  "thumbnail_url": "https://i.ytimg.com/vi/3Qinx1CdIAM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-25T13:03:10.879382Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

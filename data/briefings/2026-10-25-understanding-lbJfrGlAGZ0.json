@@ -1,0 +1,19 @@
+{
+  "video_id": "lbJfrGlAGZ0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[과학 잔혹사 1부] \"페니실린 주지 마\" 비타민 주며 40년 매독 환자 관찰한 미국 의사와 쌍둥이 학실한 나치 의사들의 광기 (덕성여대 약학대학 정우현 교수)",
+  "published_at": "2026-10-25T05:55:18Z",
+  "video_url": "https://www.youtube.com/watch?v=lbJfrGlAGZ0",
+  "thumbnail_url": "https://i.ytimg.com/vi/lbJfrGlAGZ0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-25T13:03:10.495591Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
