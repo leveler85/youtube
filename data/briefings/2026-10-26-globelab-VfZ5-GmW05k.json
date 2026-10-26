@@ -1,0 +1,19 @@
+{
+  "video_id": "VfZ5-GmW05k",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "이스라엘 총선 D-1, 네타냐후가 또 집권하나? [지구본 뉴스룸]",
+  "published_at": "2026-10-26T09:00:05Z",
+  "video_url": "https://www.youtube.com/watch?v=VfZ5-GmW05k",
+  "thumbnail_url": "https://i.ytimg.com/vi/VfZ5-GmW05k/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-26T14:58:11.129040Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

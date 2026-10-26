@@ -1,0 +1,19 @@
+{
+  "video_id": "Ka0Sjrg9eHg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"한국 반도체만 100조씩 번다? 미국이 가만두지 않을 겁니다\" 삼성전자·SK하이닉스가 이익 줄어들 걸 알면서도 공장 짓는 진짜 이유 (고려대 전기전자공학부 신창환 교수)",
+  "published_at": "2026-10-26T12:25:01Z",
+  "video_url": "https://www.youtube.com/watch?v=Ka0Sjrg9eHg",
+  "thumbnail_url": "https://i.ytimg.com/vi/Ka0Sjrg9eHg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-26T14:58:07.475111Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

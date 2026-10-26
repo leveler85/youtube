@@ -1,0 +1,19 @@
+{
+  "video_id": "nkkPAjj6KYA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[언더상회] 땀나는 무신사 플리스 28,000원·오리털 패딩 68,700원! 요청 폭주로 딱 마지막 20% 앵콜 할인 (~11/1)",
+  "published_at": "2026-10-26T08:57:47Z",
+  "video_url": "https://www.youtube.com/watch?v=nkkPAjj6KYA",
+  "thumbnail_url": "https://i.ytimg.com/vi/nkkPAjj6KYA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-26T14:58:07.967813Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
