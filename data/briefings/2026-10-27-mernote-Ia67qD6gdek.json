@@ -1,0 +1,19 @@
+{
+  "video_id": "Ia67qD6gdek",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"AI·반도체에서 빠져나간 돈, 버핏한테 갔다?\" 내 S&P500은 −0.4%, 버크셔는 +9%인 이유",
+  "published_at": "2026-10-27T08:13:10Z",
+  "video_url": "https://www.youtube.com/watch?v=Ia67qD6gdek",
+  "thumbnail_url": "https://i.ytimg.com/vi/Ia67qD6gdek/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:11:04.631090Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

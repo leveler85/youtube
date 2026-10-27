@@ -1,0 +1,19 @@
+{
+  "video_id": "prQUpQh_gko",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "형들 우리 어깨 걸고 함께 가는거 아니었어요?",
+  "published_at": "2026-10-27T06:50:22Z",
+  "video_url": "https://www.youtube.com/watch?v=prQUpQh_gko",
+  "thumbnail_url": "https://i.ytimg.com/vi/prQUpQh_gko/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:10:52.684424Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

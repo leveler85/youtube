@@ -1,0 +1,19 @@
+{
+  "video_id": "4dwjZWHYPaE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "전월세 대란 온다 공무원 2만명 대이동...정작 대통령 집무실 완전이전은 안되는 이유 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-10-26T07:55:12Z",
+  "video_url": "https://www.youtube.com/watch?v=4dwjZWHYPaE",
+  "thumbnail_url": "https://i.ytimg.com/vi/4dwjZWHYPaE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:10:58.749718Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

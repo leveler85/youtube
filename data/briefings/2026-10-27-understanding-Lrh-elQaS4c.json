@@ -1,0 +1,19 @@
+{
+  "video_id": "Lrh-elQaS4c",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "딱 한 줄만 적었는데 90초짜리 다큐 영상 나온다. 충격의 'AI 에이전트' (IT커뮤니케이션연구소 김덕진 소장)",
+  "published_at": "2026-10-27T12:25:08Z",
+  "video_url": "https://www.youtube.com/watch?v=Lrh-elQaS4c",
+  "thumbnail_url": "https://i.ytimg.com/vi/Lrh-elQaS4c/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:10:57.537962Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

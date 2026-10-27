@@ -1,0 +1,19 @@
+{
+  "video_id": "x4nCIjbauVg",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "개미들이여 힘을 모아다오!",
+  "published_at": "2026-10-27T10:09:24Z",
+  "video_url": "https://www.youtube.com/watch?v=x4nCIjbauVg",
+  "thumbnail_url": "https://i.ytimg.com/vi/x4nCIjbauVg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:10:52.211934Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "WQYeFgCuUuA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"실거주 1년반 했지만 패소했습니다\" 세입자 내보냈다가 3,000만 원 물어준 집주인(언더스탠딩 장순원 기자)",
+  "published_at": "2026-10-27T07:55:05Z",
+  "video_url": "https://www.youtube.com/watch?v=WQYeFgCuUuA",
+  "thumbnail_url": "https://i.ytimg.com/vi/WQYeFgCuUuA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:10:58.077919Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

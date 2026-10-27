@@ -1,0 +1,19 @@
+{
+  "video_id": "s_6btuKzP6o",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) SK하이닉스 실적발표! | 미장, 국장 반도체 반등 이어간다 | 내일은 FOMC, 금리결정 및 연준 기자회견 | 미국 증시 실시간",
+  "published_at": "2026-10-27T11:54:36Z",
+  "video_url": "https://www.youtube.com/watch?v=s_6btuKzP6o",
+  "thumbnail_url": "https://i.ytimg.com/vi/s_6btuKzP6o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-27T14:11:06.965795Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
