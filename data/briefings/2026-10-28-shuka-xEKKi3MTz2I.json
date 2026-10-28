@@ -1,0 +1,19 @@
+{
+  "video_id": "xEKKi3MTz2I",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "막장 저격 광고 냈다가, 나락가게 생긴 미국 주지사 후보",
+  "published_at": "2026-10-28T10:01:32Z",
+  "video_url": "https://www.youtube.com/watch?v=xEKKi3MTz2I",
+  "thumbnail_url": "https://i.ytimg.com/vi/xEKKi3MTz2I/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-28T14:56:41.435008Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

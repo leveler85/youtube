@@ -1,0 +1,19 @@
+{
+  "video_id": "xn1WeMS0HAo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "이스라엘 총선에서 예상을 깨고 네타냐후 진영이 앞서. 11월까지 연정 구성해야 하는 네타냐후의 중동전쟁 다시 시작되나 (서강대 유로메나 연구소 성일광 교수)",
+  "published_at": "2026-10-28T12:52:47Z",
+  "video_url": "https://www.youtube.com/watch?v=xn1WeMS0HAo",
+  "thumbnail_url": "https://i.ytimg.com/vi/xn1WeMS0HAo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-28T14:56:48.073852Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

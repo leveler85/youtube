@@ -1,0 +1,19 @@
+{
+  "video_id": "7JNz8hTLi4c",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) FOMC, 금리결정 및 연준 기자회견 | 실적발표: 마이크로소프트, 구글, GEV, VRT, 서비스나우 | 삼성전자 실적 목 9:00시~ | 미국 증시 실시간",
+  "published_at": "2026-10-28T06:51:52Z",
+  "video_url": "https://www.youtube.com/watch?v=7JNz8hTLi4c",
+  "thumbnail_url": "https://i.ytimg.com/vi/7JNz8hTLi4c/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-28T14:56:57.966700Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
