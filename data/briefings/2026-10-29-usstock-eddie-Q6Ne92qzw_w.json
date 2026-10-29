@@ -1,0 +1,19 @@
+{
+  "video_id": "Q6Ne92qzw_w",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(10/29/26, 목) 삼성전자 3분기 실적발표 | 국장 증시 실시간",
+  "published_at": "2026-10-29T01:47:27Z",
+  "video_url": "https://www.youtube.com/watch?v=Q6Ne92qzw_w",
+  "thumbnail_url": "https://i.ytimg.com/vi/Q6Ne92qzw_w/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-29T15:02:15.875843Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

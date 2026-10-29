@@ -1,0 +1,19 @@
+{
+  "video_id": "Q9UAyixRN7U",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "옷 쇼핑 하기 딱 좋은 계절..",
+  "published_at": "2026-10-29T14:15:27Z",
+  "video_url": "https://www.youtube.com/watch?v=Q9UAyixRN7U",
+  "thumbnail_url": "https://i.ytimg.com/vi/Q9UAyixRN7U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-29T15:02:06.561175Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

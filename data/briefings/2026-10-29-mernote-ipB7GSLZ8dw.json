@@ -1,0 +1,19 @@
+{
+  "video_id": "ipB7GSLZ8dw",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "앤트로픽은 어떤 회사길래 손실 807억 달러를 내고도 상장하나?",
+  "published_at": "2026-10-29T08:36:10Z",
+  "video_url": "https://www.youtube.com/watch?v=ipB7GSLZ8dw",
+  "thumbnail_url": "https://i.ytimg.com/vi/ipB7GSLZ8dw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-29T15:02:12.637877Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

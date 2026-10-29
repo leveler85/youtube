@@ -1,0 +1,19 @@
+{
+  "video_id": "k6CDRTmyAHo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "뼈를 깎는 체질개선에 들어간 협동조합들",
+  "published_at": "2026-10-29T10:07:50Z",
+  "video_url": "https://www.youtube.com/watch?v=k6CDRTmyAHo",
+  "thumbnail_url": "https://i.ytimg.com/vi/k6CDRTmyAHo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-29T15:01:57.296725Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
