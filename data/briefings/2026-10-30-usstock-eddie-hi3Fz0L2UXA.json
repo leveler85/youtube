@@ -1,0 +1,19 @@
+{
+  "video_id": "hi3Fz0L2UXA",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 아마존 실적발표, AI 성장 우려 | 인텔, 실적발표 후 -25% 매출 성장 우려 | 미국 증시 실시간",
+  "published_at": "2026-10-30T12:52:33Z",
+  "video_url": "https://www.youtube.com/watch?v=hi3Fz0L2UXA",
+  "thumbnail_url": "https://i.ytimg.com/vi/hi3Fz0L2UXA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-30T14:55:30.469372Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

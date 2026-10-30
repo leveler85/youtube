@@ -1,0 +1,19 @@
+{
+  "video_id": "whC5vMjCyYg",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "우리 선사 장금상선은 어떤 회사길래 중동 선사 다 제치고 이란의 표적이 됐을까?",
+  "published_at": "2026-10-30T09:53:33Z",
+  "video_url": "https://www.youtube.com/watch?v=whC5vMjCyYg",
+  "thumbnail_url": "https://i.ytimg.com/vi/whC5vMjCyYg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-30T14:55:28.029592Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

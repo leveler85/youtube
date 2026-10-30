@@ -1,0 +1,19 @@
+{
+  "video_id": "tXWs9zUqR-g",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "김정은 사망 루머를 퍼트린자는 누구인가",
+  "published_at": "2026-10-30T09:07:37Z",
+  "video_url": "https://www.youtube.com/watch?v=tXWs9zUqR-g",
+  "thumbnail_url": "https://i.ytimg.com/vi/tXWs9zUqR-g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-30T14:55:12.844605Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "BylETcYBDWU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "미국 AI 기업이 수천억 정치자금을 뿌리는 이유. 미운털 박힌 AI 기업, 선거 이후 3개의 규제 폭탄 터진다 (하수정 경제전문기자)",
+  "published_at": "2026-10-30T12:25:21Z",
+  "video_url": "https://www.youtube.com/watch?v=BylETcYBDWU",
+  "thumbnail_url": "https://i.ytimg.com/vi/BylETcYBDWU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-30T14:55:22.915540Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
