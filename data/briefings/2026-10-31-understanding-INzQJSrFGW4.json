@@ -1,0 +1,19 @@
+{
+  "video_id": "INzQJSrFGW4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "축의금 10만원 시대에 예식장 밥값은 8만원. 결혼 안 해도 예식장은 이렇게 돈 번다 (피치덱 이동열 대표)",
+  "published_at": "2026-10-31T11:55:03Z",
+  "video_url": "https://www.youtube.com/watch?v=INzQJSrFGW4",
+  "thumbnail_url": "https://i.ytimg.com/vi/INzQJSrFGW4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-31T14:24:23.128932Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

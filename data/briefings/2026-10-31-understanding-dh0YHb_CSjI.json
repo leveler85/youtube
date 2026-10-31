@@ -1,0 +1,19 @@
+{
+  "video_id": "dh0YHb_CSjI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "똑같은 그림만 50년 그렸는데 세상은 왜 열광했을까? 물방울 김창열·검은 기둥 윤형근·선 긋기 박서보, '시간과 서사'의 비밀 (아츠인유 이세라 대표)",
+  "published_at": "2026-10-31T05:55:18Z",
+  "video_url": "https://www.youtube.com/watch?v=dh0YHb_CSjI",
+  "thumbnail_url": "https://i.ytimg.com/vi/dh0YHb_CSjI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-31T14:24:23.422939Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

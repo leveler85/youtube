@@ -1,0 +1,19 @@
+{
+  "video_id": "hik3QZNc7uU",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "인텔 하루 28.6% 폭락, 우리 삼성·SK 메모리값이 너무 올라서라고?",
+  "published_at": "2026-10-31T10:18:51Z",
+  "video_url": "https://www.youtube.com/watch?v=hik3QZNc7uU",
+  "thumbnail_url": "https://i.ytimg.com/vi/hik3QZNc7uU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-31T14:24:29.742982Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

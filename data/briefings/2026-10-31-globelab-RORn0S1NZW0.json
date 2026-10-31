@@ -1,0 +1,19 @@
+{
+  "video_id": "RORn0S1NZW0",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "북극에 땅도 없는 중국이 쇄빙선부터 만드는 이유 f. 권효재 대표 [지구본 초대석]",
+  "published_at": "2026-10-30T23:00:01Z",
+  "video_url": "https://www.youtube.com/watch?v=RORn0S1NZW0",
+  "thumbnail_url": "https://i.ytimg.com/vi/RORn0S1NZW0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-10-31T14:24:26.583472Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
