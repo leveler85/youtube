@@ -1,0 +1,19 @@
+{
+  "video_id": "kfQ2p77GJi4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "언더상회에서 면도기 싸게 팔고 있습니다",
+  "published_at": "2026-11-01T14:15:34Z",
+  "video_url": "https://www.youtube.com/watch?v=kfQ2p77GJi4",
+  "thumbnail_url": "https://i.ytimg.com/vi/kfQ2p77GJi4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-01T14:50:53.728455Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

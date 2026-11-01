@@ -1,0 +1,19 @@
+{
+  "video_id": "rb-hs3EkVe4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[한순구의 노벨경제학 1부] \"쫄아서 눈 낮추면 평생 후회한다\" 대학 입시·결혼·이직에서 절대 손해 보지 않는 절대 법칙 (연세대 경제학과 한순구 교수)",
+  "published_at": "2026-11-01T11:55:13Z",
+  "video_url": "https://www.youtube.com/watch?v=rb-hs3EkVe4",
+  "thumbnail_url": "https://i.ytimg.com/vi/rb-hs3EkVe4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-01T14:50:54.047243Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

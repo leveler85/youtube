@@ -1,0 +1,19 @@
+{
+  "video_id": "WtYWltGjho4",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "\"아들아 농사 지을래?\", 농사 짓기를 포기하는 농민들",
+  "published_at": "2026-11-01T02:15:50Z",
+  "video_url": "https://www.youtube.com/watch?v=WtYWltGjho4",
+  "thumbnail_url": "https://i.ytimg.com/vi/WtYWltGjho4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-01T14:50:48.014568Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "bSlLHJftBho",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[언더상회] 매일 쓰는 면도기에 숨은 과학 (국산 면도기 '슬릭 모션' 쿠팡보다 47% 싸게 1주일만 팝니다)",
+  "published_at": "2026-11-01T05:55:23Z",
+  "video_url": "https://www.youtube.com/watch?v=bSlLHJftBho",
+  "thumbnail_url": "https://i.ytimg.com/vi/bSlLHJftBho/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-01T14:50:54.435120Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
