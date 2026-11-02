@@ -1,0 +1,19 @@
+{
+  "video_id": "wmw8rRIv4no",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "[주간 메르노트 #11] 놓치면 손해 보는 경제 뉴스 8가지",
+  "published_at": "2026-11-02T09:26:35Z",
+  "video_url": "https://www.youtube.com/watch?v=wmw8rRIv4no",
+  "thumbnail_url": "https://i.ytimg.com/vi/wmw8rRIv4no/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-02T18:00:16.997061Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

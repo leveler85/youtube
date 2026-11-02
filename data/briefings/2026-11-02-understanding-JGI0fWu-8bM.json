@@ -1,0 +1,19 @@
+{
+  "video_id": "JGI0fWu-8bM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "재정파탄이라던 경기도 추미애 지사가 6조 공항 카드 꺼내 든 이유 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-11-02T07:55:05Z",
+  "video_url": "https://www.youtube.com/watch?v=JGI0fWu-8bM",
+  "thumbnail_url": "https://i.ytimg.com/vi/JGI0fWu-8bM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-02T18:00:12.675002Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "4ZTypfdcllc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "한국인은 사실 공정한 사회를 원하지 않는다?",
+  "published_at": "2026-11-02T14:15:06Z",
+  "video_url": "https://www.youtube.com/watch?v=4ZTypfdcllc",
+  "thumbnail_url": "https://i.ytimg.com/vi/4ZTypfdcllc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-02T18:00:11.979093Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
