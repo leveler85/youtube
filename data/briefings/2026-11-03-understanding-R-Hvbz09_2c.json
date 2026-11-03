@@ -1,0 +1,19 @@
+{
+  "video_id": "R-Hvbz09_2c",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[박형근의 테슬라 1부] 하늘을 나는 신형 로드스터, 대체 어떤 로켓 기술 썼길래 (HMG경영연구원 박형근 실장)",
+  "published_at": "2026-11-03T09:11:54Z",
+  "video_url": "https://www.youtube.com/watch?v=R-Hvbz09_2c",
+  "thumbnail_url": "https://i.ytimg.com/vi/R-Hvbz09_2c/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:12.021168Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

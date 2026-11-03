@@ -1,0 +1,19 @@
+{
+  "video_id": "9zfefRlsxOo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "헌법재판관 임명 갈등으로 터져버린 폴란드",
+  "published_at": "2026-11-03T10:28:09Z",
+  "video_url": "https://www.youtube.com/watch?v=9zfefRlsxOo",
+  "thumbnail_url": "https://i.ytimg.com/vi/9zfefRlsxOo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:05.185869Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

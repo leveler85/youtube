@@ -1,0 +1,19 @@
+{
+  "video_id": "An4PHyTAFXE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "언더스탠딩X도루코 특가 판매 종료까지 D-5",
+  "published_at": "2026-11-03T14:15:28Z",
+  "video_url": "https://www.youtube.com/watch?v=An4PHyTAFXE",
+  "thumbnail_url": "https://i.ytimg.com/vi/An4PHyTAFXE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:10.794834Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

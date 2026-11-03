@@ -1,0 +1,19 @@
+{
+  "video_id": "Gomylx1buYY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[박형근의 테슬라 2부] 10초면 차 한 대씩 찍어내는 무인택시 공장을 테슬라는 왜 놀리고 있을까? '사이버캡'의 미친 원가 비결 (HMG경영연구원 박형근 실장)",
+  "published_at": "2026-11-03T12:25:29Z",
+  "video_url": "https://www.youtube.com/watch?v=Gomylx1buYY",
+  "thumbnail_url": "https://i.ytimg.com/vi/Gomylx1buYY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:11.384260Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

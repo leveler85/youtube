@@ -1,0 +1,19 @@
+{
+  "video_id": "7tr6kRO6ZO8",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "대우건설은 왜 빠졌을까? 26조 체코 원전 수주의 속사정",
+  "published_at": "2026-11-03T10:27:48Z",
+  "video_url": "https://www.youtube.com/watch?v=7tr6kRO6ZO8",
+  "thumbnail_url": "https://i.ytimg.com/vi/7tr6kRO6ZO8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:18.843318Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

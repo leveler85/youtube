@@ -1,0 +1,19 @@
+{
+  "video_id": "lOkQ9QjErzQ",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "모두가 동경하던 유럽은 어쩌다 이렇게 됐나? [지구본 뉴스룸]",
+  "published_at": "2026-11-02T22:30:29Z",
+  "video_url": "https://www.youtube.com/watch?v=lOkQ9QjErzQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/lOkQ9QjErzQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-03T15:59:15.319857Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
