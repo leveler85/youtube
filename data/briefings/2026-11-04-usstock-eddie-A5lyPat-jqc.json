@@ -1,0 +1,19 @@
+{
+  "video_id": "A5lyPat-jqc",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(11/4/26, 수) 미국 중간선거 개표방송 | 트럼프, 이란 전쟁 끝내는 힌트 및 민주당원들 협력 의향 밝히다 | 미국 증시 실시간",
+  "published_at": "2026-11-04T07:29:15Z",
+  "video_url": "https://www.youtube.com/watch?v=A5lyPat-jqc",
+  "thumbnail_url": "https://i.ytimg.com/vi/A5lyPat-jqc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-04T16:03:27.503255Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "wMWCXt7q2lU",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "“진짜 왜 저래…” 요즘 대통령들은 왜 이렇게 SNS를 자주 할까? f. 한국일보 문재연 기자 [지구본 초대석]",
+  "published_at": "2026-11-04T09:15:15Z",
+  "video_url": "https://www.youtube.com/watch?v=wMWCXt7q2lU",
+  "thumbnail_url": "https://i.ytimg.com/vi/wMWCXt7q2lU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-04T16:03:17.519359Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

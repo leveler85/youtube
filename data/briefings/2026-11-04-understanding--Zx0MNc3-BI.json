@@ -1,0 +1,19 @@
+{
+  "video_id": "-Zx0MNc3-BI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"이란 전쟁 때문이 아니었다\" 천연가스 가격 올라간 진짜 범인의 정체",
+  "published_at": "2026-11-04T12:25:11Z",
+  "video_url": "https://www.youtube.com/watch?v=-Zx0MNc3-BI",
+  "thumbnail_url": "https://i.ytimg.com/vi/-Zx0MNc3-BI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-04T16:03:15.015660Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

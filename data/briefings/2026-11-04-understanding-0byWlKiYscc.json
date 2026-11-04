@@ -1,0 +1,19 @@
+{
+  "video_id": "0byWlKiYscc",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "흔들리는 강남 집값. 내년까지 세금 데드라인 매물 폭탄 나온다 (분전 아카데미 김건우 대표)",
+  "published_at": "2026-11-04T07:55:08Z",
+  "video_url": "https://www.youtube.com/watch?v=0byWlKiYscc",
+  "thumbnail_url": "https://i.ytimg.com/vi/0byWlKiYscc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-04T16:03:15.332023Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
