@@ -1,0 +1,19 @@
+{
+  "video_id": "QvMjNxpMmPo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "수능 주식 문제 1타 강사",
+  "published_at": "2026-11-05T04:42:04Z",
+  "video_url": "https://www.youtube.com/watch?v=QvMjNxpMmPo",
+  "thumbnail_url": "https://i.ytimg.com/vi/QvMjNxpMmPo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-05T16:17:15.949412Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

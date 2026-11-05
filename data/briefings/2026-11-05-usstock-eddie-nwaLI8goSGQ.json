@@ -1,0 +1,19 @@
+{
+  "video_id": "nwaLI8goSGQ",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 아이렌, AAOI 실적발표 | 반도체 → 빅텍 순환매 후, 다시 빅텍 → 반도체 순환  | 미국 증시 실시간",
+  "published_at": "2026-11-04T21:52:32Z",
+  "video_url": "https://www.youtube.com/watch?v=nwaLI8goSGQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/nwaLI8goSGQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-05T16:17:30.027432Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

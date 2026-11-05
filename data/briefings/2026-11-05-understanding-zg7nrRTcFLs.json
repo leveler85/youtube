@@ -1,0 +1,19 @@
+{
+  "video_id": "zg7nrRTcFLs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"주차 지옥이냐, 월세 지옥이냐. 둘 중 하나는 터집니다\" 여전한 1층 주차장 규제 때문에 빌라 못 짓는 현실 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-11-05T12:25:06Z",
+  "video_url": "https://www.youtube.com/watch?v=zg7nrRTcFLs",
+  "thumbnail_url": "https://i.ytimg.com/vi/zg7nrRTcFLs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-05T16:17:23.738984Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

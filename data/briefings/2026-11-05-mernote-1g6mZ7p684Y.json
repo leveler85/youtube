@@ -1,0 +1,19 @@
+{
+  "video_id": "1g6mZ7p684Y",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "구글 TPU엔 우리 삼성, 아마존 칩엔 하이닉스? 엔비디아 독점 깨지면 누가 버나",
+  "published_at": "2026-11-05T09:34:49Z",
+  "video_url": "https://www.youtube.com/watch?v=1g6mZ7p684Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/1g6mZ7p684Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-05T16:17:26.777487Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
