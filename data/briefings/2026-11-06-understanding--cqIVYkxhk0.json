@@ -1,0 +1,19 @@
+{
+  "video_id": "-cqIVYkxhk0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "비만약 특허 풀리면 우리나라도 좋을까?",
+  "published_at": "2026-11-06T14:15:36Z",
+  "video_url": "https://www.youtube.com/watch?v=-cqIVYkxhk0",
+  "thumbnail_url": "https://i.ytimg.com/vi/-cqIVYkxhk0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-06T15:46:38.173053Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

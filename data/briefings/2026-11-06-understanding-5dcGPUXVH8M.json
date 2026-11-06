@@ -1,0 +1,19 @@
+{
+  "video_id": "5dcGPUXVH8M",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "무너지는 회사의 재무제표에 숨어 있는 숫자는 이겁니다 (파인드어스 이재용 회계사)",
+  "published_at": "2026-11-06T07:55:01Z",
+  "video_url": "https://www.youtube.com/watch?v=5dcGPUXVH8M",
+  "thumbnail_url": "https://i.ytimg.com/vi/5dcGPUXVH8M/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-06T15:46:39.045424Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "xymdBYW2WUo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "무적 애플군단, 시가총액 1위 달성",
+  "published_at": "2026-11-06T10:07:44Z",
+  "video_url": "https://www.youtube.com/watch?v=xymdBYW2WUo",
+  "thumbnail_url": "https://i.ytimg.com/vi/xymdBYW2WUo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-06T15:46:33.457953Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

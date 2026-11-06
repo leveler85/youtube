@@ -1,0 +1,19 @@
+{
+  "video_id": "9u_MxQa6KAE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 10월 실업률, 비농업고용지표 | 반도체, AI 반등 거래 매수세 | 매도 하는게 오히려 리스크 | 미국 증시 실시간",
+  "published_at": "2026-11-06T12:21:19Z",
+  "video_url": "https://www.youtube.com/watch?v=9u_MxQa6KAE",
+  "thumbnail_url": "https://i.ytimg.com/vi/9u_MxQa6KAE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-06T15:46:42.109224Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

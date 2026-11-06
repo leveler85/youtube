@@ -1,0 +1,19 @@
+{
+  "video_id": "Oq6lVjtmQco",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[하이라이트] 민주당 압승한 미국 중간선거, 조사·세금·규제 3개의 AI 규제 폭탄 터진다 | (미국 중간선거 이전인 2026년 10월 30일 방송된 내용입니다)",
+  "published_at": "2026-11-06T12:25:01Z",
+  "video_url": "https://www.youtube.com/watch?v=Oq6lVjtmQco",
+  "thumbnail_url": "https://i.ytimg.com/vi/Oq6lVjtmQco/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-06T15:46:38.585673Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
