@@ -1,0 +1,19 @@
+{
+  "video_id": "0w4jjRow5mg",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"중간선거 끝나면 오른다\" 우리 미국 주식 21번 전승, 이번에도 맞을까",
+  "published_at": "2026-11-07T09:58:20Z",
+  "video_url": "https://www.youtube.com/watch?v=0w4jjRow5mg",
+  "thumbnail_url": "https://i.ytimg.com/vi/0w4jjRow5mg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:33.227486Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

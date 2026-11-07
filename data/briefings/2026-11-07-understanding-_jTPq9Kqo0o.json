@@ -1,0 +1,19 @@
+{
+  "video_id": "_jTPq9Kqo0o",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "유럽 학생 시위의 결말, 새로운 정치 체제 등장할까?",
+  "published_at": "2026-11-07T14:15:19Z",
+  "video_url": "https://www.youtube.com/watch?v=_jTPq9Kqo0o",
+  "thumbnail_url": "https://i.ytimg.com/vi/_jTPq9Kqo0o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:28.889557Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

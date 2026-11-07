@@ -1,0 +1,19 @@
+{
+  "video_id": "cli47d1ZPcY",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "미국 주식 왜 이러나? 헤지펀드까지 손절하기 시작했다",
+  "published_at": "2026-11-07T06:38:29Z",
+  "video_url": "https://www.youtube.com/watch?v=cli47d1ZPcY",
+  "thumbnail_url": "https://i.ytimg.com/vi/cli47d1ZPcY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:35.606272Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

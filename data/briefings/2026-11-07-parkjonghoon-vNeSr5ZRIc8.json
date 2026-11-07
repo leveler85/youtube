@@ -1,0 +1,19 @@
+{
+  "video_id": "vNeSr5ZRIc8",
+  "channel_slug": "parkjonghoon",
+  "channel_name": "박종훈의 지식한방",
+  "title": "코스피 45% 폭락, 이제 주가는 어떻게 되나 (박종훈의 지식한방)",
+  "published_at": "2026-11-07T09:30:10Z",
+  "video_url": "https://www.youtube.com/watch?v=vNeSr5ZRIc8",
+  "thumbnail_url": "https://i.ytimg.com/vi/vNeSr5ZRIc8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:22.938721Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "YBcL0q0HbIA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[황호성의 우주 몰아보기] 미군 창고에서 주운 괴물 망원경부터 우주 암흑물질의 발견, 인간이 우주의 중심을 찾지 못하는 이유까지 (서울대 물리천문학부 황호성 교수)",
+  "published_at": "2026-11-07T11:55:04Z",
+  "video_url": "https://www.youtube.com/watch?v=YBcL0q0HbIA",
+  "thumbnail_url": "https://i.ytimg.com/vi/YBcL0q0HbIA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:29.216983Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

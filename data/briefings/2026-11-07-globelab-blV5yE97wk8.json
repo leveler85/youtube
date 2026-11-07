@@ -1,0 +1,19 @@
+{
+  "video_id": "blV5yE97wk8",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "[합본] 배는 잘 팔리는데... 한국 조선이 불안한 이유 f. 권효재 대표",
+  "published_at": "2026-11-06T23:30:12Z",
+  "video_url": "https://www.youtube.com/watch?v=blV5yE97wk8",
+  "thumbnail_url": "https://i.ytimg.com/vi/blV5yE97wk8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:31.607829Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "bxeuy-XcSos",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[멤버십 미리보기] 운동 안 하고 라면 치킨 먹고, 마운자로만 맞았더니 42kg 빠졌습니다 (고려대 전기전자공학부 신창환 교수) | 풀버전 영상은 멤버십에서 공개됩니다",
+  "published_at": "2026-11-07T05:55:20Z",
+  "video_url": "https://www.youtube.com/watch?v=bxeuy-XcSos",
+  "thumbnail_url": "https://i.ytimg.com/vi/bxeuy-XcSos/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-07T14:46:29.536311Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
