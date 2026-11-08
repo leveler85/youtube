@@ -1,0 +1,19 @@
+{
+  "video_id": "UGjWBIdX4hc",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "체코가 일본 뒤통수까지 쳐가며 한국에 총을 줬던 이유 f. 조진서 에디터 [지구본 특집]",
+  "published_at": "2026-11-07T23:00:02Z",
+  "video_url": "https://www.youtube.com/watch?v=UGjWBIdX4hc",
+  "thumbnail_url": "https://i.ytimg.com/vi/UGjWBIdX4hc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-08T14:53:02.189889Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

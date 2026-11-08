@@ -1,0 +1,19 @@
+{
+  "video_id": "c1TJvkH41lU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[동물의 사생활] 일부일처제 새들도 90%는 바람을 피운다? 유전자 친자 검사로 밝혀진 새들이 외도를 선택하는 이유",
+  "published_at": "2026-11-08T05:55:31Z",
+  "video_url": "https://www.youtube.com/watch?v=c1TJvkH41lU",
+  "thumbnail_url": "https://i.ytimg.com/vi/c1TJvkH41lU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-08T14:53:00.059954Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

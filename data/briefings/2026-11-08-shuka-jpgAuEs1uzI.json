@@ -1,0 +1,19 @@
+{
+  "video_id": "jpgAuEs1uzI",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "[슈카월드]  20만원이 깨진 삼성전자 / 젠슨황은 중국 스파이의 표적이 됐는가/ 미국 공화당은 왜 대패했나 / 일본 의료 보험 개혁 선언 / 명문대도 소용없다. 취업 빙하기",
+  "published_at": "2026-11-08T11:22:00Z",
+  "video_url": "https://www.youtube.com/watch?v=jpgAuEs1uzI",
+  "thumbnail_url": "https://i.ytimg.com/vi/jpgAuEs1uzI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-08T14:52:53.498362Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

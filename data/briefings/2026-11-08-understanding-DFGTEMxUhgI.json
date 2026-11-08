@@ -1,0 +1,19 @@
+{
+  "video_id": "DFGTEMxUhgI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"엔트로피는 무질서 아니다\" 스페이스X 로켓부터 배터리까지 지배하는 단 하나의 공식 '깁스 에너지'  (에스엔에이치연구소 민태기 소장)",
+  "published_at": "2026-11-08T11:55:16Z",
+  "video_url": "https://www.youtube.com/watch?v=DFGTEMxUhgI",
+  "thumbnail_url": "https://i.ytimg.com/vi/DFGTEMxUhgI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-08T14:52:59.571092Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
