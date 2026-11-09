@@ -1,0 +1,19 @@
+{
+  "video_id": "BqV_PHRXhDk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "알래스카 LNG 사업이 오히려 필요한 이유",
+  "published_at": "2026-11-09T14:15:21Z",
+  "video_url": "https://www.youtube.com/watch?v=BqV_PHRXhDk",
+  "thumbnail_url": "https://i.ytimg.com/vi/BqV_PHRXhDk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-09T18:31:00.820613Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

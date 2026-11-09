@@ -1,0 +1,19 @@
+{
+  "video_id": "224469695213",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "이번주에 봐야할 한가지가 있다면?",
+  "published_at": "2026-11-08T22:28:01Z",
+  "video_url": "https://blog.naver.com/ranto28/224469695213",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjExMDhfNDgg/MDAxNzk0MTQ4NjgxNjIw.k4v3LIaG8054AfAcOZNeGfGlaBUbAqTuFL8Uq1OBP18g.9WYyeI7sCLzNtQOBRIRJHhXQ4nJIF8SWJ_7XjlHi2U8g.PNG/image.png?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**코어위브 실적, 자금조달 해법**\n\n코어위브는 주가가 연중 고점 대비 66% 하락하고 채권 및 CDS 시장에서 높은 위험을 반영하며 재정적 압박에 직면해 있다. 다가오는 실적 발표는 이러한 시장의 우려를 해소하고, 2026년과 2027년에 걸친 막대한 설비 투자(CAPEX) 자금 조달 계획을 명확히 제시하는 데 초점을 맞출 것이다. 단순 매출보다 투자 지속 가능성이 핵심 쟁점이다.\n\n지난 11월 6일 기준, 코어위브 2032년 만기 채권은 표면 금리 9.625%에도 불구하고 16%의 수익률로 거래되며, 10월 중순 14.8%보다 악화된 신용 위험을 드러냈다. 이는 기업의 높은 부도 가능성을 시사하며, 5년 만기 CDS 프리미엄 역시 1,289bp에 달해 100만 원 보장에 연간 12만 9천 원을 지불해야 할 정도이다. 코어위브는 2026년에 350억~390억 달러의 설비 투자를 계획하고 있으며, 이러한 자금은 고객과의 테이크오어페이(take-or-pay) 계약과 GPU를 담보로 하는 지연인출대출(DDTL)을 통해 조달될 가능성이 높다. 이 방식은 오픈AI, 마이크로소프트, 앤트로픽 등 우량 고객의 계약과 GPU 실물 가치를 담보로 필요 시 자금을 인출하는 구조이다.\n\n수요일 컨퍼런스 콜에서 코어위브가 투자 규모를 유지하며 자금 조달에 성공했음을 밝힌다면, 삼성전자나 SK하이닉스 같은 한국 반도체 기업에는 긍정적 신호로 작용할 것이다. 반대로 투자 계획 축소는 채권 시장에는 안정감을 줄 수 있으나 국내 GPU 공급사에는 악재가 된다. 또한 데이터센터 건설 지연 여부와 2025년 매출의 67%를 차지했던 마이크로소프트의 네오클라우드 계약 재검토 영향에 대한 명확한 답변이 중요하며, 궁극적으로 2032년 만기 채권 금리가 16%에서 14.5% 이하로 하락하는지가 시장의 비관론 해소 여부를 판단할 핵심 지표가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-11-09T18:31:58.218776Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

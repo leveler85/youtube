@@ -1,0 +1,19 @@
+{
+  "video_id": "XruQm-DF4GU",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[한순구의 노벨경제학 2부] 중환자실 의사는 왜 저축 안 할까? 내 경험이 판단을 망치는 '확률의 함정', 노벨 경제학상이 증명한 다수결의 함정 (연세대 경제학부 한순구 교수)",
+  "published_at": "2026-11-09T12:25:10Z",
+  "video_url": "https://www.youtube.com/watch?v=XruQm-DF4GU",
+  "thumbnail_url": "https://i.ytimg.com/vi/XruQm-DF4GU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-09T18:31:01.458531Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

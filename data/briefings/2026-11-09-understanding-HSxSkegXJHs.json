@@ -1,0 +1,19 @@
+{
+  "video_id": "HSxSkegXJHs",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "아파트 복비 1천만원 훌쩍 넘기도…이러면 법원에서 직권으로 깎습니다 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-11-09T07:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=HSxSkegXJHs",
+  "thumbnail_url": "https://i.ytimg.com/vi/HSxSkegXJHs/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-09T18:31:02.157385Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
