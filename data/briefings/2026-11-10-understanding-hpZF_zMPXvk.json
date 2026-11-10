@@ -1,0 +1,19 @@
+{
+  "video_id": "hpZF_zMPXvk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "4배 부풀려진 데이터센터 허수 투자. 건물 다 지어도 전기 대기만 10년. 데이터센터 빚더미 쌓인다 (더큐리어스 김열매 대표) | 26년 11월 9일 방송",
+  "published_at": "2026-11-10T12:25:00Z",
+  "video_url": "https://www.youtube.com/watch?v=hpZF_zMPXvk",
+  "thumbnail_url": "https://i.ytimg.com/vi/hpZF_zMPXvk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-10T16:15:08.664071Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "gti6GAXnGZ4",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"직원 2명 회사가 엔비디아 칩 7조?\" 젠슨 황이 불륜 인정한 그 여성의 정체",
+  "published_at": "2026-11-10T09:41:33Z",
+  "video_url": "https://www.youtube.com/watch?v=gti6GAXnGZ4",
+  "thumbnail_url": "https://i.ytimg.com/vi/gti6GAXnGZ4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-10T16:15:13.105915Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

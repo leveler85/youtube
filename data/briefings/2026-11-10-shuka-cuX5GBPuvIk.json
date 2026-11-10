@@ -1,0 +1,19 @@
+{
+  "video_id": "cuX5GBPuvIk",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "미국인들은 왜 트럼프에게 화가 났는가",
+  "published_at": "2026-11-10T10:22:44Z",
+  "video_url": "https://www.youtube.com/watch?v=cuX5GBPuvIk",
+  "thumbnail_url": "https://i.ytimg.com/vi/cuX5GBPuvIk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-10T16:15:02.795275Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

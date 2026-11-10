@@ -1,0 +1,19 @@
+{
+  "video_id": "Tr7cZIAOVlA",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "말로는 탄소중립, 돈은 화석연료로? 한국이 거꾸로 가는 이유 f. 기후솔루션 [지구본 초 대석]",
+  "published_at": "2026-11-10T09:13:54Z",
+  "video_url": "https://www.youtube.com/watch?v=Tr7cZIAOVlA",
+  "thumbnail_url": "https://i.ytimg.com/vi/Tr7cZIAOVlA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-10T16:15:11.121030Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
