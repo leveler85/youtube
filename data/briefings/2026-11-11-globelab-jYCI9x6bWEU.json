@@ -1,0 +1,19 @@
+{
+  "video_id": "jYCI9x6bWEU",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "돌아선 이스라엘 민심, 네타냐후는 심판받을까? [지구본 뉴스룸]",
+  "published_at": "2026-11-11T09:00:15Z",
+  "video_url": "https://www.youtube.com/watch?v=jYCI9x6bWEU",
+  "thumbnail_url": "https://i.ytimg.com/vi/jYCI9x6bWEU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-11T15:57:13.823558Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

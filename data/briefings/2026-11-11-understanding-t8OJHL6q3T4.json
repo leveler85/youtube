@@ -1,0 +1,19 @@
+{
+  "video_id": "t8OJHL6q3T4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"투자를 과학으로 착각하지 마라\" 똑똑한 개미들이 올겨울 하락장에 물리는 이유 (윤지호 경제평론가) [촬영일 26.11.10]",
+  "published_at": "2026-11-11T07:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=t8OJHL6q3T4",
+  "thumbnail_url": "https://i.ytimg.com/vi/t8OJHL6q3T4/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-11T15:57:11.684895Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "224472481817",
+  "channel_slug": "mer",
+  "channel_name": "메르의 블로그",
+  "title": "공매도 리포트는 이미 다 알고 있었다. (feat 젠슨 황)",
+  "published_at": "2026-11-11T15:10:00Z",
+  "video_url": "https://blog.naver.com/ranto28/224472481817",
+  "thumbnail_url": "https://blogthumb.pstatic.net/MjAyNjExMTFfMjk2/MDAxNzk0MzQ3MDUyNTc1.6ZYb6eBy-lCdKV51dB05kItvpZjD0mU4t_vIC6nS4S0g.2QG_HPpNXemHcH_jtn1kLbSWnV5rRINiFRACQnYv3i4g.JPEG/2hiqz8lx.jpg?type=s3",
+  "duration_seconds": 0,
+  "discovery_source": "naver_blog_rss",
+  "source_type": "naver_blog",
+  "status": "ok",
+  "summary": "**엔비디아 중국 우회 판매 의혹**\n\n미국 공매도 리서치 회사인 컬퍼 리서치가 2026년 5월 13일 발표한 보고서 「NVIDIA (NVDA): The China Problem」는 엔비디아의 대중국 불법 판매 채널 문제를 제기한다. 이 보고서는 2026년 회계연도 엔비디아 컴퓨트 매출의 20% 이상이 중국 수요에서 발생했으며, 이는 불법 밀수 및 동남아시아 중개상을 통해 이루어졌다고 결론 내렸다. 발표 당시 묻혔던 이 보고서는 최근 젠슨 황 관련 이슈가 부상하며 재조명되고 있다.\n\n컬퍼 리서치는 메가스피드의 총자산이 2023년 말 3,300만 달러에서 2024년 말 30억 달러로 90배 급증했으나, 29억 달러의 '예치금' 등 출처가 불투명함을 지적했다. 이 자금은 말레이시아 자회사 스피드매트릭스로 유입되어 2024년 12월~2026년 1월에 46억 달러 상당의 엔비디아 서버 수입에 사용됐다. 컬퍼는 자금 흐름의 최종 종착지가 알리바바라고 추정한다. 스피드매트릭스의 데이터센터 사업은 영업 시작 전 싱가포르 Apex Enterprise Solutions에 담보로 잡혔고, Apex의 모회사는 알리바보로 공시된다. Apex의 2025년 3월 기준 선급금 41억 달러와 알리바바 대출 42억 달러는 1년 새 10배 이상 증가했으며, 이는 알리바바가 Apex를 통해 메가스피드에 자금을 지원하고 자산을 담보로 잡는 구조를 시사한다. 또한, 수입 서버 중 40억 달러어치가 중국 정부가 일부 지분을 소유한 Aivres(구 인스퍼시스템즈)를 통해 납품되었고, 컬퍼는 Aivres를 '중국 전용 엔비디아 칩 공급 채널'로 규정했다. 보고서는 젠슨 황과 중국 국적자 앨리스 황의 특별한 관계를 언급하며, 젠슨 황이 알리바바 관계자와 함께 메가스피드 관련 데이터센터를 방문했다는 증언도 확보했다고 전했다.\n\n이 공매도 보고서의 재조명은 엔비디아의 대중국 판매 전략과 미국 수출 통제 회피 의혹에 대한 시장의 우려를 증폭시킨다. 불투명한 자금 흐름과 복잡한 거래 구조는 규제 당국의 면밀한 조사를 야기할 수 있으며, 기업 투명성과 규제 준수 측면에서 중대한 함의를 갖는다. 향후 엔비디아의 중국 사업 모델과 관련 인물 관계에 대한 추가 사실 규명이 주요 관전 포인트가 될 것이다.",
+  "failure_reason": null,
+  "generated_at": "2026-11-11T15:57:45.030997Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
