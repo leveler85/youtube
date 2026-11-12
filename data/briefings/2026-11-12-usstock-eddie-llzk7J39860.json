@@ -1,0 +1,19 @@
+{
+  "video_id": "llzk7J39860",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 젠슨황, 엔비디아 CEO 사임 발표 하다 | 젠슨황 이중불륜, 이번엔 임원과 | 실적발표: AMAT 반도체, 네비우스 네오클라우드 회사 | 미국 증시 실시간",
+  "published_at": "2026-11-11T20:27:56Z",
+  "video_url": "https://www.youtube.com/watch?v=llzk7J39860",
+  "thumbnail_url": "https://i.ytimg.com/vi/llzk7J39860/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-12T16:40:29.619155Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "FRjeN-ryjGE",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "지능 외주화 시대, 앞으로도 대학은 필수일까? [지구본 도서관]",
+  "published_at": "2026-11-11T22:00:02Z",
+  "video_url": "https://www.youtube.com/watch?v=FRjeN-ryjGE",
+  "thumbnail_url": "https://i.ytimg.com/vi/FRjeN-ryjGE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-12T16:40:26.123622Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "-4vtbZjNJ4M",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "외국인 관광객 3천만 목표를 위한 신박한 묘수",
+  "published_at": "2026-11-12T09:58:51Z",
+  "video_url": "https://www.youtube.com/watch?v=-4vtbZjNJ4M",
+  "thumbnail_url": "https://i.ytimg.com/vi/-4vtbZjNJ4M/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-12T16:40:17.705899Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "MZgrL5Sru0g",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "트럼프가 측근 단도리 들어간 이유",
+  "published_at": "2026-11-12T14:15:03Z",
+  "video_url": "https://www.youtube.com/watch?v=MZgrL5Sru0g",
+  "thumbnail_url": "https://i.ytimg.com/vi/MZgrL5Sru0g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-12T16:40:23.869421Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

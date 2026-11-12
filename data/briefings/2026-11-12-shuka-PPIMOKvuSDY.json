@@ -1,0 +1,19 @@
+{
+  "video_id": "PPIMOKvuSDY",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "교황님 말씀 \"젊은이들이여, 돈과 SNS에 사로잡히지 말라\"",
+  "published_at": "2026-11-12T06:15:43Z",
+  "video_url": "https://www.youtube.com/watch?v=PPIMOKvuSDY",
+  "thumbnail_url": "https://i.ytimg.com/vi/PPIMOKvuSDY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-12T16:40:18.091550Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
