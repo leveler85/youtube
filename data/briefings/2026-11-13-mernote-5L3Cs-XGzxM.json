@@ -1,0 +1,19 @@
+{
+  "video_id": "5L3Cs-XGzxM",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "우리 하이닉스가 4조 잃고 지킨 메모리, 대만 TSMC는 왜 다시 오나?",
+  "published_at": "2026-11-13T08:49:55Z",
+  "video_url": "https://www.youtube.com/watch?v=5L3Cs-XGzxM",
+  "thumbnail_url": "https://i.ytimg.com/vi/5L3Cs-XGzxM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-13T15:59:45.751739Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

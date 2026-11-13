@@ -1,0 +1,19 @@
+{
+  "video_id": "6RlDQ3boZwM",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "지구에서 가장 위험한 기업",
+  "published_at": "2026-11-13T09:28:38Z",
+  "video_url": "https://www.youtube.com/watch?v=6RlDQ3boZwM",
+  "thumbnail_url": "https://i.ytimg.com/vi/6RlDQ3boZwM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-13T15:59:40.996389Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

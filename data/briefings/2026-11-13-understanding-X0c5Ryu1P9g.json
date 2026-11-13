@@ -1,0 +1,19 @@
+{
+  "video_id": "X0c5Ryu1P9g",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[하이라이트] 사라진 엔비디아 칩. 앨리스 황의 '메가스피드' 미스터리와 가짜 서버 밀수 수법 |언더스탠딩 김상훈 기자 |2026년 8월16일 영상 편집버전",
+  "published_at": "2026-11-13T12:25:39Z",
+  "video_url": "https://www.youtube.com/watch?v=X0c5Ryu1P9g",
+  "thumbnail_url": "https://i.ytimg.com/vi/X0c5Ryu1P9g/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-13T15:59:34.651573Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "KyPrQzoFyfI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김학주 교수 1부] 데이터센터 지어 놓고 놀고 있다. 발전소보다 급한 미국 송전망 병목. 초고압 전선·가스관·원전 중 진짜 수혜주는? | 26년 11월 12일 방송",
+  "published_at": "2026-11-13T07:55:29Z",
+  "video_url": "https://www.youtube.com/watch?v=KyPrQzoFyfI",
+  "thumbnail_url": "https://i.ytimg.com/vi/KyPrQzoFyfI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-13T15:59:35.157704Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
