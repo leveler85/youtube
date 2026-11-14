@@ -1,0 +1,19 @@
+{
+  "video_id": "RfalKxGE0Fo",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "지금 트럼프가 가장 무서워하는 건?",
+  "published_at": "2026-11-14T14:15:03Z",
+  "video_url": "https://www.youtube.com/watch?v=RfalKxGE0Fo",
+  "thumbnail_url": "https://i.ytimg.com/vi/RfalKxGE0Fo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-14T14:52:32.893639Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

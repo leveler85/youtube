@@ -1,0 +1,19 @@
+{
+  "video_id": "U7l-DQskiUM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "집 팔지 않았는데 1인당 2억 원씩 '재건축 초과이익 부담금' 통지서. 부과 방식 계산법 두고 논란 본격화 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-11-14T11:55:19Z",
+  "video_url": "https://www.youtube.com/watch?v=U7l-DQskiUM",
+  "thumbnail_url": "https://i.ytimg.com/vi/U7l-DQskiUM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-14T14:52:33.469791Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

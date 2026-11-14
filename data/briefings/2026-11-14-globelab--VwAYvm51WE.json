@@ -1,0 +1,19 @@
+{
+  "video_id": "-VwAYvm51WE",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "미국의 전략자산 ‘엔비디아 블랙웰’을 중국으로 빼돌린 방법 [지구본 뉴스룸]",
+  "published_at": "2026-11-13T23:00:27Z",
+  "video_url": "https://www.youtube.com/watch?v=-VwAYvm51WE",
+  "thumbnail_url": "https://i.ytimg.com/vi/-VwAYvm51WE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-14T14:52:36.065734Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
