@@ -1,0 +1,19 @@
+{
+  "video_id": "r7O404QxxZM",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"돈 안 내면 만나주지도 않는다\" 수천억 판돈 걸린 미국 로비스트의 세계. 돈은 어떻게 워싱턴을 흔드나. [허드슨연구소 우정엽박사]",
+  "published_at": "2026-11-15T11:55:11Z",
+  "video_url": "https://www.youtube.com/watch?v=r7O404QxxZM",
+  "thumbnail_url": "https://i.ytimg.com/vi/r7O404QxxZM/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-15T15:28:58.532111Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

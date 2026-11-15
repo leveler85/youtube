@@ -1,0 +1,19 @@
+{
+  "video_id": "CUv2apnDM5U",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "무인택시 어디까지 왔니",
+  "published_at": "2026-11-15T14:15:21Z",
+  "video_url": "https://www.youtube.com/watch?v=CUv2apnDM5U",
+  "thumbnail_url": "https://i.ytimg.com/vi/CUv2apnDM5U/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-15T15:28:58.138713Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

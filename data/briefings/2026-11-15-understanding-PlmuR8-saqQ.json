@@ -1,0 +1,19 @@
+{
+  "video_id": "PlmuR8-saqQ",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "\"테슬라 카메라 고집은 자존심일 뿐\" 1억에서 30만 원으로 폭락한 중국산 라이다의 역습, 한국 자율주행의 현실은? (퓨처링크 차두원 대표)",
+  "published_at": "2026-11-15T05:55:14Z",
+  "video_url": "https://www.youtube.com/watch?v=PlmuR8-saqQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/PlmuR8-saqQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-15T15:28:58.883699Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

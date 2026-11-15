@@ -1,0 +1,19 @@
+{
+  "video_id": "QogJ2Llc4ig",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "러시아 통계청 해킹으로 밝혀진 전쟁의 참혹한 결과 [지구본 회의실]",
+  "published_at": "2026-11-14T23:00:38Z",
+  "video_url": "https://www.youtube.com/watch?v=QogJ2Llc4ig",
+  "thumbnail_url": "https://i.ytimg.com/vi/QogJ2Llc4ig/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-15T15:29:02.197671Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
