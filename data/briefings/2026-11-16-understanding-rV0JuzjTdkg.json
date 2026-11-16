@@ -1,0 +1,19 @@
+{
+  "video_id": "rV0JuzjTdkg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김학주 교수 2부] 2배 증설 나선 마이크론. 메모리 단가 하락 경고. 로봇 막은 현대차 주가가 꺾인 이유 | 26년 11월 12일 방송",
+  "published_at": "2026-11-16T07:55:30Z",
+  "video_url": "https://www.youtube.com/watch?v=rV0JuzjTdkg",
+  "thumbnail_url": "https://i.ytimg.com/vi/rV0JuzjTdkg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-16T18:07:42.435396Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "LG2ItyV5tDU",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 워시 연준의장 기조연설 | 젠슨 황, 엔비디아 CEO 재고려? | 화요일장 엔비디아 실적발표 | 엔트로픽 IPO D-3 | 미국 증시 실시간",
+  "published_at": "2026-11-16T08:06:33Z",
+  "video_url": "https://www.youtube.com/watch?v=LG2ItyV5tDU",
+  "thumbnail_url": "https://i.ytimg.com/vi/LG2ItyV5tDU/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-16T18:07:50.184259Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

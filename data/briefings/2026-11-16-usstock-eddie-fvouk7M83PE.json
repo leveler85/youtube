@@ -1,0 +1,19 @@
+{
+  "video_id": "fvouk7M83PE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "SK하이닉스·삼성전자 급락, 진짜 악재는 따로 있었습니다",
+  "published_at": "2026-11-16T07:24:43Z",
+  "video_url": "https://www.youtube.com/watch?v=fvouk7M83PE",
+  "thumbnail_url": "https://i.ytimg.com/vi/fvouk7M83PE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-16T18:07:50.643925Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
