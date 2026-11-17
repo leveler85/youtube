@@ -1,0 +1,19 @@
+{
+  "video_id": "N99q5nFh6Ds",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 엔비디아 3분기 실적발표 | 10월 소매판매 지수 | 소로스 펀드, 드러큰밀러 반도체 13F 매도 | 엔트로픽 IPO D-2 | 미국 증시 실시간",
+  "published_at": "2026-11-17T07:25:06Z",
+  "video_url": "https://www.youtube.com/watch?v=N99q5nFh6Ds",
+  "thumbnail_url": "https://i.ytimg.com/vi/N99q5nFh6Ds/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:42.346148Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

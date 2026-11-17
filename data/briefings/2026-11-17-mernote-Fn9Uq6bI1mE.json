@@ -1,0 +1,19 @@
+{
+  "video_id": "Fn9Uq6bI1mE",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "우리 하이닉스·삼성전자 판 영국계 97조, 진짜 주인은 누구일까?",
+  "published_at": "2026-11-17T10:08:09Z",
+  "video_url": "https://www.youtube.com/watch?v=Fn9Uq6bI1mE",
+  "thumbnail_url": "https://i.ytimg.com/vi/Fn9Uq6bI1mE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:40.771271Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

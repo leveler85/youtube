@@ -1,0 +1,19 @@
+{
+  "video_id": "A7rftW86wNI",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "당하고만 있지 않겠다! 스타링크 만들어버린 러시아 근황 [지구본 뉴스룸]",
+  "published_at": "2026-11-17T10:00:10Z",
+  "video_url": "https://www.youtube.com/watch?v=A7rftW86wNI",
+  "thumbnail_url": "https://i.ytimg.com/vi/A7rftW86wNI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:38.302529Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

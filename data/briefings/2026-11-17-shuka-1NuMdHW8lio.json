@@ -1,0 +1,19 @@
+{
+  "video_id": "1NuMdHW8lio",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "젠슨 황의 사임이 불러온, 반도체 주가 폭락",
+  "published_at": "2026-11-17T10:43:01Z",
+  "video_url": "https://www.youtube.com/watch?v=1NuMdHW8lio",
+  "thumbnail_url": "https://i.ytimg.com/vi/1NuMdHW8lio/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:29.818278Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

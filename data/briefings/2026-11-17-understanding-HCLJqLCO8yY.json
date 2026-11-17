@@ -1,0 +1,19 @@
+{
+  "video_id": "HCLJqLCO8yY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "테슬라 모델 Y보다 비싼 국산 SUV, 현대차 고급화 전략은 왜 꼬였나 (압권 류종은 기자)",
+  "published_at": "2026-11-17T12:25:40Z",
+  "video_url": "https://www.youtube.com/watch?v=HCLJqLCO8yY",
+  "thumbnail_url": "https://i.ytimg.com/vi/HCLJqLCO8yY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:35.080803Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "tD2Ehtle4hk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "인도네시아 증시 신흥국 지수에서도 쫓겨날 위기. 대통령의 자원 통제와 8천만 무상급식 대혼란 (연세대 디지털통상연구센터 고영경 교수)",
+  "published_at": "2026-11-17T07:55:05Z",
+  "video_url": "https://www.youtube.com/watch?v=tD2Ehtle4hk",
+  "thumbnail_url": "https://i.ytimg.com/vi/tD2Ehtle4hk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-17T17:28:35.362071Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
