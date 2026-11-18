@@ -1,0 +1,19 @@
+{
+  "video_id": "ST57x8l6yWw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "월가의 전설 드러켄밀러가 구리 숏에 베팅했다! SOXL의 미래는?",
+  "published_at": "2026-11-18T06:42:08Z",
+  "video_url": "https://www.youtube.com/watch?v=ST57x8l6yWw",
+  "thumbnail_url": "https://i.ytimg.com/vi/ST57x8l6yWw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:50.826005Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "NssIoVZGVS8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "민주당이 장악한 텍사스. 테슬라·스페이스X 합병 특별위원회 가동. 한국 주주들 '양도세 폭탄' 논란 (유진투자증권 정의훈 연구원)",
+  "published_at": "2026-11-18T12:25:34Z",
+  "video_url": "https://www.youtube.com/watch?v=NssIoVZGVS8",
+  "thumbnail_url": "https://i.ytimg.com/vi/NssIoVZGVS8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:41.631362Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

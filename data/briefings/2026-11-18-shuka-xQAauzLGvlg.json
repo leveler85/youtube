@@ -1,0 +1,19 @@
+{
+  "video_id": "xQAauzLGvlg",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "AI로 만들면 가치가 떨어지는가?",
+  "published_at": "2026-11-18T10:11:22Z",
+  "video_url": "https://www.youtube.com/watch?v=xQAauzLGvlg",
+  "thumbnail_url": "https://i.ytimg.com/vi/xQAauzLGvlg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:36.610205Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

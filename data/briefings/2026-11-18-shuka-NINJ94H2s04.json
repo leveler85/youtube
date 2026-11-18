@@ -1,0 +1,19 @@
+{
+  "video_id": "NINJ94H2s04",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "수능 비상! AI 부정행위를 막아라!",
+  "published_at": "2026-11-18T07:57:19Z",
+  "video_url": "https://www.youtube.com/watch?v=NINJ94H2s04",
+  "thumbnail_url": "https://i.ytimg.com/vi/NINJ94H2s04/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:36.958077Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

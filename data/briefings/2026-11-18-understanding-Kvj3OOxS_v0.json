@@ -1,0 +1,19 @@
+{
+  "video_id": "Kvj3OOxS_v0",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "'수능 초토화‘ 세무사 시험 수석이 자백한 초소형 카메라...'위급재난문자' 등 정부대책 비판 목소리 거세 [백종훈 언더스탠딩 기자]",
+  "published_at": "2026-11-18T07:55:32Z",
+  "video_url": "https://www.youtube.com/watch?v=Kvj3OOxS_v0",
+  "thumbnail_url": "https://i.ytimg.com/vi/Kvj3OOxS_v0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:41.967308Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

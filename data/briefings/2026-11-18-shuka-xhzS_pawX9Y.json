@@ -1,0 +1,19 @@
+{
+  "video_id": "xhzS_pawX9Y",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "슈카 서울대 입학 해명",
+  "published_at": "2026-11-18T13:05:38Z",
+  "video_url": "https://www.youtube.com/watch?v=xhzS_pawX9Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/xhzS_pawX9Y/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:36.248017Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

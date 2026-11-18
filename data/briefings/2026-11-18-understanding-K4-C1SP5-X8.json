@@ -1,0 +1,19 @@
+{
+  "video_id": "K4-C1SP5-X8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "배달수수료 제한해 보니 점주는 이득?",
+  "published_at": "2026-11-18T14:15:28Z",
+  "video_url": "https://www.youtube.com/watch?v=K4-C1SP5-X8",
+  "thumbnail_url": "https://i.ytimg.com/vi/K4-C1SP5-X8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:41.243874Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

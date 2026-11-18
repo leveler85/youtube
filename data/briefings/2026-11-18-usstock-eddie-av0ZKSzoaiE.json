@@ -1,0 +1,19 @@
+{
+  "video_id": "av0ZKSzoaiE",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) FOMC 회의록 발표 | 엔비디아 3분기 실적발표 그 이후 | 실적발표: 팔로알토 | 엔트로픽 IPO D-1 | 미국 증시 실시간",
+  "published_at": "2026-11-18T06:36:59Z",
+  "video_url": "https://www.youtube.com/watch?v=av0ZKSzoaiE",
+  "thumbnail_url": "https://i.ytimg.com/vi/av0ZKSzoaiE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:50.054073Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

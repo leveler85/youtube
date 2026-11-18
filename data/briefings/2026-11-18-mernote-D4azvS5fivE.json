@@ -1,0 +1,19 @@
+{
+  "video_id": "D4azvS5fivE",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"서울 아파트 경매 5채 중 4채가 안 팔렸다고?\" 팔린 1채는 제값 다 받은 진짜 이유",
+  "published_at": "2026-11-18T10:40:42Z",
+  "video_url": "https://www.youtube.com/watch?v=D4azvS5fivE",
+  "thumbnail_url": "https://i.ytimg.com/vi/D4azvS5fivE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:47.565093Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "bYNc2MUFNyo",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "이웃의 소득세까지 공개? 핀란드의 ‘질투의 날’ [지구본 뉴스룸]",
+  "published_at": "2026-11-18T09:00:34Z",
+  "video_url": "https://www.youtube.com/watch?v=bYNc2MUFNyo",
+  "thumbnail_url": "https://i.ytimg.com/vi/bYNc2MUFNyo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-18T17:01:45.162728Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
