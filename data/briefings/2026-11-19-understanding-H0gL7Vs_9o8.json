@@ -1,0 +1,19 @@
+{
+  "video_id": "H0gL7Vs_9o8",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[한순구의 노벨경제학 3부] 결사반대하던 방폐장이 찬성 90%로 뒤집힌 비결. 야구 비디오 판독 도입했더니 홈팀 승률이 왜 올랐을까 (연세대 경제학과 한순구 교수)",
+  "published_at": "2026-11-19T12:25:28Z",
+  "video_url": "https://www.youtube.com/watch?v=H0gL7Vs_9o8",
+  "thumbnail_url": "https://i.ytimg.com/vi/H0gL7Vs_9o8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-19T17:12:05.046111Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

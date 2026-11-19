@@ -1,0 +1,19 @@
+{
+  "video_id": "KWIutLqKXfo",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "공항 부자가 될 대한민국",
+  "published_at": "2026-11-19T10:05:39Z",
+  "video_url": "https://www.youtube.com/watch?v=KWIutLqKXfo",
+  "thumbnail_url": "https://i.ytimg.com/vi/KWIutLqKXfo/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-19T17:11:12.640389Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

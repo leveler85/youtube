@@ -1,0 +1,19 @@
+{
+  "video_id": "-x-Cf5N3DcE",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "싱가포르로 간 엔비디아 GPU 5만장 어디로 사라졌나, 알리바바 4조 자금과 메가스피드 우회 밀수 의혹(언더스탠딩 김상훈 기자)",
+  "published_at": "2026-11-19T07:55:17Z",
+  "video_url": "https://www.youtube.com/watch?v=-x-Cf5N3DcE",
+  "thumbnail_url": "https://i.ytimg.com/vi/-x-Cf5N3DcE/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-19T17:12:05.491467Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
