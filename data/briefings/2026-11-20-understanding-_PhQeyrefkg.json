@@ -1,0 +1,19 @@
+{
+  "video_id": "_PhQeyrefkg",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "AI로 입사 지원서 쓰는 시대에 기업이 인재를 가려내는 방법 (김나영 경제전문작가)",
+  "published_at": "2026-11-20T12:25:39Z",
+  "video_url": "https://www.youtube.com/watch?v=_PhQeyrefkg",
+  "thumbnail_url": "https://i.ytimg.com/vi/_PhQeyrefkg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-20T16:48:46.165281Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

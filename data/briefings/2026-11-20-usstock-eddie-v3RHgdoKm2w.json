@@ -1,0 +1,19 @@
+{
+  "video_id": "v3RHgdoKm2w",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "엔트로픽 상장에 미국 증시 폭락… SOXL과 AI 반도체, 진짜 위기는 지금부터?",
+  "published_at": "2026-11-20T02:17:43Z",
+  "video_url": "https://www.youtube.com/watch?v=v3RHgdoKm2w",
+  "thumbnail_url": "https://i.ytimg.com/vi/v3RHgdoKm2w/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-20T16:48:59.795937Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

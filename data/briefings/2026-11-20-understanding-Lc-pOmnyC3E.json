@@ -1,0 +1,19 @@
+{
+  "video_id": "Lc-pOmnyC3E",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "8천만명에게 무상급식을 주려면..?",
+  "published_at": "2026-11-20T14:15:32Z",
+  "video_url": "https://www.youtube.com/watch?v=Lc-pOmnyC3E",
+  "thumbnail_url": "https://i.ytimg.com/vi/Lc-pOmnyC3E/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-20T16:48:45.636111Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

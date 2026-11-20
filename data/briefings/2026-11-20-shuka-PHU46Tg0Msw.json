@@ -1,0 +1,19 @@
+{
+  "video_id": "PHU46Tg0Msw",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "퇴직금을 주지 않고 버티는 기업들",
+  "published_at": "2026-11-20T09:45:13Z",
+  "video_url": "https://www.youtube.com/watch?v=PHU46Tg0Msw",
+  "thumbnail_url": "https://i.ytimg.com/vi/PHU46Tg0Msw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-20T16:48:39.159144Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
