@@ -1,0 +1,19 @@
+{
+  "video_id": "IoGFBDbbyNw",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[김갑진의 양자물리학 몰아보기] 아인슈타인이 뒤집은 양자역학의 탄생부터 '저항 0' 초전도체. 양자컴퓨터의 비밀까지 (카이스트 물리학과 김갑진 교수)",
+  "published_at": "2026-11-21T11:55:24Z",
+  "video_url": "https://www.youtube.com/watch?v=IoGFBDbbyNw",
+  "thumbnail_url": "https://i.ytimg.com/vi/IoGFBDbbyNw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-21T15:58:23.038097Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

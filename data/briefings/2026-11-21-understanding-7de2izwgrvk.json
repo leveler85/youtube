@@ -1,0 +1,19 @@
+{
+  "video_id": "7de2izwgrvk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[하이라이트] AI와 진지하게 대화해봤습니다, AI비서의 방송 센스 알아보기 (IT커뮤니케이션연구소 김덕진 소장)",
+  "published_at": "2026-11-21T05:55:35Z",
+  "video_url": "https://www.youtube.com/watch?v=7de2izwgrvk",
+  "thumbnail_url": "https://i.ytimg.com/vi/7de2izwgrvk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-21T15:58:23.361678Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
