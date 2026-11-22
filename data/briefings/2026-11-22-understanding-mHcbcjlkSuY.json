@@ -1,0 +1,19 @@
+{
+  "video_id": "mHcbcjlkSuY",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[알상무의 파우스트 몰아보기] 돈 찍어내기부터 AI까지. 시장이 막힐 때마다 다시 펼쳐보는 괴테와 자본주의 욕망의 끝 ((전)금융투자전문가 알상무)",
+  "published_at": "2026-11-22T05:55:16Z",
+  "video_url": "https://www.youtube.com/watch?v=mHcbcjlkSuY",
+  "thumbnail_url": "https://i.ytimg.com/vi/mHcbcjlkSuY/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-22T16:03:04.048032Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
