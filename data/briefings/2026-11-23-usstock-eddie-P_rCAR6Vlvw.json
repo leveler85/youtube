@@ -1,0 +1,19 @@
+{
+  "video_id": "P_rCAR6Vlvw",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(실시간) 젠슨 황, 엔비디아 CEO 로 복귀하다!! | 엔트로픽, 역대 최대 IPO 후 변동성 | 이번주 목요일 휴장, 금요일 조기 종료 | 미국 증시 실시간",
+  "published_at": "2026-11-23T05:54:07Z",
+  "video_url": "https://www.youtube.com/watch?v=P_rCAR6Vlvw",
+  "thumbnail_url": "https://i.ytimg.com/vi/P_rCAR6Vlvw/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-23T19:58:02.005785Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

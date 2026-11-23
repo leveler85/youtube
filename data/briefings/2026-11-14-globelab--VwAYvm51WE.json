@@ -12,7 +12,7 @@
   "status": "failed",
   "summary": null,
   "failure_reason": "session_expired",
-  "generated_at": "2026-11-22T16:03:06.867540Z",
+  "generated_at": "2026-11-23T19:57:57.565138Z",
   "provider": "gemini",
   "model": "gemini-2.5-flash",
   "prompt_version": "v1"

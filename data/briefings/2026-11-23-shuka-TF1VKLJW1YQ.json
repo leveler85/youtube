@@ -1,0 +1,19 @@
+{
+  "video_id": "TF1VKLJW1YQ",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "산(山)을 표현한 코스피, 그양반 갈 때도 예술로 가는구만",
+  "published_at": "2026-11-23T09:59:34Z",
+  "video_url": "https://www.youtube.com/watch?v=TF1VKLJW1YQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/TF1VKLJW1YQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-23T19:57:49.988132Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

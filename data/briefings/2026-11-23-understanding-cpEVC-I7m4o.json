@@ -1,0 +1,19 @@
+{
+  "video_id": "cpEVC-I7m4o",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[채승병의 밀리터리 과학 1부] 마하 속도 미사일을 전투기가 피하는 방법, 스텔스기를 TV 전파로 잡는다? (한양대 기술경영전문대학원 채승병 겸임교수)",
+  "published_at": "2026-11-23T12:25:33Z",
+  "video_url": "https://www.youtube.com/watch?v=cpEVC-I7m4o",
+  "thumbnail_url": "https://i.ytimg.com/vi/cpEVC-I7m4o/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-23T19:57:55.365229Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

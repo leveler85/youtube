@@ -1,0 +1,19 @@
+{
+  "video_id": "bR3qWk7FC_I",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "산간오지까지 투표함 이고지고 찾아가는 선관위",
+  "published_at": "2026-11-23T14:15:18Z",
+  "video_url": "https://www.youtube.com/watch?v=bR3qWk7FC_I",
+  "thumbnail_url": "https://i.ytimg.com/vi/bR3qWk7FC_I/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-23T19:57:54.932916Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
