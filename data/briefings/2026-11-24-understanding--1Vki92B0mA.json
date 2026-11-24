@@ -1,0 +1,19 @@
+{
+  "video_id": "-1Vki92B0mA",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "독일 BMW 판매 42% 감소시킨 중국 전기차, 유럽 철강과 부품 공장은 중국차 덕에 살아나나 (해담경제연구소 어예진 소장)",
+  "published_at": "2026-11-24T07:55:20Z",
+  "video_url": "https://www.youtube.com/watch?v=-1Vki92B0mA",
+  "thumbnail_url": "https://i.ytimg.com/vi/-1Vki92B0mA/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-24T19:25:12.472732Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

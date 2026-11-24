@@ -1,0 +1,19 @@
+{
+  "video_id": "5ii5W4z5zRc",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(11/24/26, 화) 젠슨 황, 11일만에 이사회 만장일치로 엔비디아 CEO 복귀 | 국장 코스피 사이드카 발동 근접 | 삼성전자, SK하이닉스 반등 시작일까? | 국장 실시간",
+  "published_at": "2026-11-23T23:55:36Z",
+  "video_url": "https://www.youtube.com/watch?v=5ii5W4z5zRc",
+  "thumbnail_url": "https://i.ytimg.com/vi/5ii5W4z5zRc/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-24T19:25:20.788715Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

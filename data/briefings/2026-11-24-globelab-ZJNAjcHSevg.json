@@ -1,0 +1,19 @@
+{
+  "video_id": "ZJNAjcHSevg",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "인류는 어쩌다 시간의 노예가 되었을까? [지구본 도서관]",
+  "published_at": "2026-11-24T09:00:11Z",
+  "video_url": "https://www.youtube.com/watch?v=ZJNAjcHSevg",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZJNAjcHSevg/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-24T19:25:14.877065Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

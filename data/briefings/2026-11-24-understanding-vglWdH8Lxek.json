@@ -1,0 +1,19 @@
+{
+  "video_id": "vglWdH8Lxek",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "[채승병의 밀리터리 과학 2부] 현존 최강 F-22 퇴역시키고 무인기 1천대 띄우는 속내. 미국이 거절한 핵심 기술 뚫어낸 KF-21 (한양대 기술경영전문대학원 채승병 겸임교수)",
+  "published_at": "2026-11-24T12:25:20Z",
+  "video_url": "https://www.youtube.com/watch?v=vglWdH8Lxek",
+  "thumbnail_url": "https://i.ytimg.com/vi/vglWdH8Lxek/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-24T19:25:12.116040Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

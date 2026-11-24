@@ -1,0 +1,19 @@
+{
+  "video_id": "CoeJmksylRk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "햄버거 팔아선 남는 게 없다, 세계 최대 소매 부동산 회사가 된 맥도날드 신화",
+  "published_at": "2026-11-24T14:15:36Z",
+  "video_url": "https://www.youtube.com/watch?v=CoeJmksylRk",
+  "thumbnail_url": "https://i.ytimg.com/vi/CoeJmksylRk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-24T19:25:11.768173Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
