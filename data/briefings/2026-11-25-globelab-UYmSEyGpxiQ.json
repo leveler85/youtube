@@ -1,0 +1,19 @@
+{
+  "video_id": "UYmSEyGpxiQ",
+  "channel_slug": "globelab",
+  "channel_name": "지구본연구소",
+  "title": "미·중·러 그들만의 세계 질서, 동맹은 필요 없다? f. 법무법인 율촌 [지구본 초대석]",
+  "published_at": "2026-11-25T10:00:12Z",
+  "video_url": "https://www.youtube.com/watch?v=UYmSEyGpxiQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/UYmSEyGpxiQ/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-25T18:31:23.772147Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
