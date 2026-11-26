@@ -1,0 +1,19 @@
+{
+  "video_id": "7FxK5FrGco0",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "(11/26/26, 목) 미국 추수감사절 휴장 | 글로벌 증시 반등, 지속할 수 있을까? | 마이클 버리, '대부분 포지션 롱 잡았다' | 미국 증시 실시간",
+  "published_at": "2026-11-26T13:56:38Z",
+  "video_url": "https://www.youtube.com/watch?v=7FxK5FrGco0",
+  "thumbnail_url": "https://i.ytimg.com/vi/7FxK5FrGco0/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-26T18:14:09.830655Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

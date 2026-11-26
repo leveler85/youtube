@@ -1,0 +1,19 @@
+{
+  "video_id": "yfxECdDOpCk",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "휴머노이드 세계 1~3위 회사의 대표는 모두 중국의 90년대생, 중국 천재는 한국보다 7년 빨리 창업한다 (조선일보 베이징특파원 이벌찬 기자)",
+  "published_at": "2026-11-26T07:55:23Z",
+  "video_url": "https://www.youtube.com/watch?v=yfxECdDOpCk",
+  "thumbnail_url": "https://i.ytimg.com/vi/yfxECdDOpCk/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-26T18:14:02.234062Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

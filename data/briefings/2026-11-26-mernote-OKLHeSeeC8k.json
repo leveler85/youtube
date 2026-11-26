@@ -1,0 +1,19 @@
+{
+  "video_id": "OKLHeSeeC8k",
+  "channel_slug": "mernote",
+  "channel_name": "메르노트",
+  "title": "\"젠슨 황이 돌아온 날 누가 제일 벌었나?\" 엔비디아 31% 뛰었는데 진짜 웃은 사람은??",
+  "published_at": "2026-11-26T08:45:38Z",
+  "video_url": "https://www.youtube.com/watch?v=OKLHeSeeC8k",
+  "thumbnail_url": "https://i.ytimg.com/vi/OKLHeSeeC8k/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-26T18:14:05.788815Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

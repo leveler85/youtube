@@ -1,0 +1,19 @@
+{
+  "video_id": "hIxQRT-QqjI",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "3조3000억원 사업비 세운4 재개발 퇴짜 내막...땅밑 조선시대 배수구 유적 터...재개발 지연 금융이자 월 14억, 연 180억 (언더스탠딩 백종훈 기자)",
+  "published_at": "2026-11-26T12:25:38Z",
+  "video_url": "https://www.youtube.com/watch?v=hIxQRT-QqjI",
+  "thumbnail_url": "https://i.ytimg.com/vi/hIxQRT-QqjI/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-26T18:14:01.807642Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
