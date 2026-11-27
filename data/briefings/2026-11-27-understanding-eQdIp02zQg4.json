@@ -1,0 +1,19 @@
+{
+  "video_id": "eQdIp02zQg4",
+  "channel_slug": "understanding",
+  "channel_name": "언더스탠딩",
+  "title": "2400세대 이주 중인데 인근 사찰과 갈등인 해운대 재개발. 사찰·교회와 재개발이 충돌하는 근본적인 이유 (언더스탠딩 장순원 기자)",
+  "published_at": "2026-11-27T07:55:26Z",
+  "video_url": "https://www.youtube.com/watch?v=eQdIp02zQg4",
+  "thumbnail_url": "https://i.ytimg.com/vi/eQdIp02zQg4/hqdefault.jpg",
+  "duration_seconds": 2099,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-27T17:56:34.497815Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

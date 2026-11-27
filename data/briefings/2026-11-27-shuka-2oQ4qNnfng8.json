@@ -1,0 +1,19 @@
+{
+  "video_id": "2oQ4qNnfng8",
+  "channel_slug": "shuka",
+  "channel_name": "슈카월드",
+  "title": "첨단 무기에 참교육 당한 아이티 갱단",
+  "published_at": "2026-11-27T10:55:42Z",
+  "video_url": "https://www.youtube.com/watch?v=2oQ4qNnfng8",
+  "thumbnail_url": "https://i.ytimg.com/vi/2oQ4qNnfng8/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-27T17:56:28.929100Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}

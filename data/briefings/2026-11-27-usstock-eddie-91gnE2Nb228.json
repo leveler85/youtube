@@ -1,0 +1,19 @@
+{
+  "video_id": "91gnE2Nb228",
+  "channel_slug": "usstock-eddie",
+  "channel_name": "미국주식 에디",
+  "title": "마이클 버리가 상승에 베팅했다! SOXL 15% 폭등하는 진짜 이유",
+  "published_at": "2026-11-27T06:50:47Z",
+  "video_url": "https://www.youtube.com/watch?v=91gnE2Nb228",
+  "thumbnail_url": "https://i.ytimg.com/vi/91gnE2Nb228/hqdefault.jpg",
+  "duration_seconds": 0,
+  "discovery_source": "rss",
+  "source_type": "youtube",
+  "status": "failed",
+  "summary": null,
+  "failure_reason": "session_expired",
+  "generated_at": "2026-11-27T17:56:41.322410Z",
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "prompt_version": "v1"
+}
